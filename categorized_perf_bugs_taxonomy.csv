@@ -1,0 +1,144 @@
+Framework,Category,Issue.ID
+Pytorch,Matrix computation inefficiency (Inefficiency for certain size and shape),12006
+Pytorch,Matrix computation inefficiency (Inefficiency for certain size and shape),18862
+Pytorch,Matrix computation inefficiency (Use of intermediate matrices),21406
+Pytorch,Matrix computation inefficiency (Use of intermediate matrices),41467
+Pytorch,Matrix computation inefficiency (Use of intermediate matrices),43837
+Pytorch,Matrix computation inefficiency (Trade-off of using different linear libraries/operators),42265
+TensorFlow,Matrix computation inefficiency (Trade-off of using different linear libraries/operators),17246
+Pytorch,Matrix computation inefficiency (Trade-off of using different linear libraries/operators),10661
+Pytorch,Matrix computation inefficiency (Lack of vectorization),36155
+Pytorch,Matrix computation inefficiency (Lack of vectorization),43192
+Pytorch,Matrix computation inefficiency (Inefficient broadcasting),17206
+Pytorch,Matrix computation inefficiency (Inefficient broadcasting),34714
+Pytorch,Memory inefficiency (Unnecessary memory allocation),13243
+Pytorch,Memory inefficiency (Unnecessary memory allocation),23580
+TensorFlow,Memory inefficiency (Unnecessary memory allocation),27692
+Pytorch,Memory inefficiency (Unnecessary memory allocation),42371
+Pytorch,Memory inefficiency (Unnecessary memory allocation),45669
+Pytorch,Memory inefficiency (Unnecessary memory allocation),5169
+Pytorch,Memory inefficiency (Unnecessary memory allocation),5611
+Pytorch,Memory inefficiency (Unnecessary memory allocation),6222
+TensorFlow,Memory inefficiency (Unnecessary memory allocation),14572
+TensorFlow,Memory inefficiency (Unnecessary memory allocation),20062
+TensorFlow,Memory inefficiency (Unnecessary memory allocation),20218
+TensorFlow,Memory inefficiency (Unnecessary memory allocation),2942
+TensorFlow,Memory inefficiency (Unnecessary memory allocation),33178
+Pytorch,Memory inefficiency (Unreleased memory resources),1449
+Pytorch,Memory inefficiency (Unreleased memory resources),3498
+TensorFlow,Memory inefficiency (Unreleased memory resources),11948
+TensorFlow,Memory inefficiency (Unreleased memory resources),14800
+TensorFlow,Memory inefficiency (Unreleased memory resources),14800
+TensorFlow,Memory inefficiency (Unreleased memory resources),17698
+TensorFlow,Memory inefficiency (Unreleased memory resources),23924
+TensorFlow,Memory inefficiency (Unreleased memory resources),27288
+TensorFlow,Memory inefficiency (Unreleased memory resources),19385  (2 bugs)
+Pytorch,Memory inefficiency (Unreleased memory resources),15792
+Pytorch,Memory inefficiency (Unreleased memory resources),1963
+Pytorch,Memory inefficiency (Unreleased memory resources),24200
+Pytorch,Memory inefficiency (Unreleased memory resources),51349
+TensorFlow,Memory inefficiency (Unreleased memory resources),19385 (2 bugs)
+Pytorch,Memory inefficiency (Unreleased memory resources),2287
+Pytorch,Memory inefficiency (Unreleased memory resources),23580
+Pytorch,Memory inefficiency (Unreleased memory resources),50522
+TensorFlow,Memory inefficiency (Unreleased memory resources),11273
+TensorFlow,Memory inefficiency (Unreleased memory resources),18292
+TensorFlow,Memory inefficiency (Unreleased memory resources),35084
+TensorFlow,Memory inefficiency (Unreleased memory resources),13999
+TensorFlow,Memory inefficiency (Unreleased memory resources),14800
+TensorFlow,Memory inefficiency (Unreleased memory resources),14800
+TensorFlow,Memory inefficiency (Unreleased memory resources),37515
+Pytorch,Hardware component communication overhead (Local communication overhead),44484
+Pytorch,Hardware component communication overhead (Local communication overhead),45604
+Pytorch,Hardware component communication overhead (Local communication overhead),8817
+Pytorch,Hardware component communication overhead (Local communication overhead),158
+TensorFlow,Hardware component communication overhead (Remote communication overhead),11411
+TensorFlow,Hardware component communication overhead (Remote communication overhead),6256
+Pytorch,Threading inefficiency (Lack of parallelization),17501 (2 bugs)
+Pytorch,Threading inefficiency (Lack of parallelization),17502 (2 bugs)
+Pytorch,Threading inefficiency (Lack of parallelization),9646
+Pytorch,Threading inefficiency (Lack of parallelization),39694
+Pytorch,Threading inefficiency (Lack of parallelization),36452
+Pytorch,Threading inefficiency (Lack of parallelization),37259
+Pytorch,Threading inefficiency (Lack of parallelization),43036
+Pytorch,Threading inefficiency (Excessive usage of multithreading),32008
+TensorFlow,Threading inefficiency (Excessive usage of multithreading),3470
+Pytorch,Threading inefficiency (Excessive usage of multithreading),25010
+Pytorch,Threading inefficiency (Challenges in fine-tuning the optimum number of threads),24080
+Pytorch,Threading inefficiency (Challenges in fine-tuning the optimum number of threads),28198
+Pytorch,Threading inefficiency (Excessive usage of thread-local variables),21537
+Pytorch,Threading inefficiency (Thread not returning on time),23642
+Pytorch,Traditional SE inefficiency,10757
+Pytorch,Traditional SE inefficiency,36120
+Pytorch,Traditional SE inefficiency,10851
+Pytorch,Traditional SE inefficiency,30831
+Pytorch,Traditional SE inefficiency,31497
+Pytorch,Traditional SE inefficiency,31690
+Pytorch,Traditional SE inefficiency,32914
+Pytorch,Traditional SE inefficiency,33544
+Pytorch,Traditional SE inefficiency,3824
+Pytorch,Traditional SE inefficiency,3835
+Pytorch,Traditional SE inefficiency,3983
+Pytorch,Traditional SE inefficiency,41115
+Pytorch,Traditional SE inefficiency,41865
+Pytorch,Traditional SE inefficiency,42213
+Pytorch,Traditional SE inefficiency,43143
+Pytorch,Traditional SE inefficiency,45968
+Pytorch,Traditional SE inefficiency,46936
+Pytorch,Traditional SE inefficiency,9168
+TensorFlow,Traditional SE inefficiency,13693
+TensorFlow,Traditional SE inefficiency,17315
+TensorFlow,Traditional SE inefficiency,30165
+TensorFlow,Traditional SE inefficiency,33376
+Pytorch,Traditional SE inefficiency,31271
+Pytorch,Traditional SE inefficiency,13465
+TensorFlow,Traditional SE inefficiency,11829
+Pytorch,Traditional SE inefficiency,48889
+Pytorch,Traditional SE inefficiency,5047
+Pytorch,Traditional SE inefficiency,52264
+Pytorch,Traditional SE inefficiency,53872
+Pytorch,Traditional SE inefficiency,6863
+Pytorch,Traditional SE inefficiency,18359
+Pytorch,Ineffcient caching,48049
+Pytorch,Ineffcient caching,33334
+TensorFlow,Ineffcient caching,43187
+TensorFlow,Ineffcient caching,20218
+Pytorch,Inefficient hardware optimization (Wrong device placement),42890
+TensorFlow,Inefficient hardware optimization (Wrong device placement),32138
+TensorFlow,Inefficient hardware optimization (Wrong device placement),41934
+Pytorch,Inefficient hardware optimization (Lack of support for hardware optimization libraries),16038
+Pytorch,Inefficient hardware optimization (Lack of support for hardware optimization libraries),19797
+Pytorch,Inefficient AI algorithm implementation,11931
+Pytorch,Inefficient AI algorithm implementation,39624
+Pytorch,Inefficient AI algorithm implementation,7883
+TensorFlow,Inefficient AI algorithm implementation,21787
+TensorFlow,Inefficient AI algorithm implementation,28685
+TensorFlow,Inefficient AI algorithm implementation,7610
+TensorFlow,Inefficient AI algorithm implementation,1779
+Pytorch,Inefficient AI algorithm implementation,31975
+Pytorch,C/C++ abstraction,36900
+TensorFlow,C/C++ abstraction,10644
+TensorFlow,C/C++ abstraction,40758
+Pytorch,Unnecessary computation (Unnecessarily gradient computation),41359
+Pytorch,Unnecessary computation (Unnecessarily gradient computation),20146
+Pytorch,Unnecessary computation (Unnecessarily gradient computation),7261
+Pytorch,Unnecessary computation (Unnecessary node creation),42890 (2 bugs)
+Pytorch,Unnecessary computation (Unnecessary operation),47313
+Pytorch,Inefficiency for certain input data types,16158
+Pytorch,Inefficiency for certain input data types,44206
+Pytorch,Inefficiency for certain input data types,51206
+TensorFlow,Inefficiency for certain input data types,41715
+TensorFlow,Inefficiency for certain input data types,41934
+TensorFlow,Inefficiency for certain input data types,39649
+Pytorch,Other,1536
+Pytorch,Other,2068
+Pytorch,Other,18853
+TensorFlow,Other,837
+Pytorch,Other,18405
+Pytorch,Other,28370
+Pytorch,Other,33647
+TensorFlow,Other,40517
+Pytorch,Other,34964
+TensorFlow,Other,14942
+TensorFlow,Other,29506
+Pytorch,Other,82

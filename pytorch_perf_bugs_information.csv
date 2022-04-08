@@ -1,0 +1,1009 @@
+Issue.ID,Author,Date.Opened,Number.of.Comment.s.,Date.of.first.comment,Date.of.last.time.closed,Time.before.first.comment..in.minutes.,Time.before.issue.last.closed..in.minutes.,Number.of.participants..including.the.author.and.people.who.did.not.comment.on.the.issue.thread.,Number.of.commentators,Commentators..username.alongside.the.number.of.comments.posted.,Issue.labels
+10116,StephenChou0119,2018-08-01 10:41,1,2018-08-06 17:46,2018-08-06 17:46,7624.583333,7624.583333,3,1,{'SsnL': 1},mediumpriority(thistagisdeprecated)
+10229,Johnccl,2018-08-04 3:39,13,2018-08-04 4:49,2018-08-14 18:15,70.38333333,15276.25,6,5,"{'soumith': 2, 'Johnccl': 2, 'ailzhang': 5, 'ngimel': 2, 'kampta': 2}",mediumpriority(thistagisdeprecated)
+10255,richielo,2018-08-06 8:39,1,2018-08-06 16:18,2018-08-06 16:18,459.7666667,459.7666667,2,1,{'soumith': 1},No labels
+10290,irishev,2018-08-07 1:58,1,2021-02-13 4:12,2021-02-13 4:12,1326373.533,1326373.533,2,1,{'ngimel': 1},No labels
+1034,singlasahil14,2017-03-19 4:24,7,2017-03-19 7:37,2017-03-19 10:37,192.4833333,373.0666667,4,4,"{'apaszke': 2, 'singlasahil14': 3, 'soumith': 1, 'jekbradbury': 1}",No labels
+10348,benjamin-work,2018-08-08 11:43,1,2018-08-08 15:01,2018-08-08 15:01,198.3666667,198.3666667,1,1,{'benjamin-work': 1},No labels
+10661,fritzo,2018-08-18 22:03,14,2018-08-18 22:04,2019-05-24 15:46,0.233333333,401382.4833,8,7,"{'fritzo': 3, 't-vi': 6, 'weiyangfb': 1, 'neerajprad': 1, 'alexjc': 1, 'artemru': 1, 'qzhu2017': 1}",mediumpriority(thistagisdeprecated)
+10757,weiyangfb,2018-08-21 23:28,1,2018-09-07 23:16,2018-09-07 23:16,24467.56667,24467.56667,2,1,{'weiyangfb': 1},todo
+10830,aldopareja,2018-08-23 19:56,2,2020-11-11 19:22,2020-11-25 22:39,1167806.333,1188163.417,4,2,"{'ag14774': 1, 'aldopareja': 1}","todo, triaged"
+10851,gan-lin,2018-08-24 14:26,0,No comments,2018-08-29 19:27,No comments,7500.383333,2,0,{},mediumpriority(thistagisdeprecated)
+1088,aleingrosso,2017-03-24 18:48,4,2017-03-24 19:03,2017-03-24 19:03,14.83333333,14.83333333,4,4,"{'soumith': 1, 'aleingrosso': 1, 'kai3n': 1, 'marioviti': 1}",No labels
+109,rbgirshick,2016-10-07 17:22,1,2016-10-07 18:58,2016-10-07 21:56,95.73333333,273.85,2,1,{'soumith': 1},No labels
+11064,DetectionIIT,2018-08-30 3:42,1,2021-03-01 21:08,2021-03-01 21:08,1317205.317,1317205.317,3,1,{'H-Huang': 1},module:build
+1111,bunelr,2017-03-27 2:20,7,2017-03-27 9:45,2017-08-30 23:34,444.4333333,225914.2333,5,5,"{'ajdroid': 1, 'apaszke': 2, 'bunelr': 2, 'lambda-ai': 1, 'soumith': 1}",No labels
+11333,koszpe,2018-09-06 15:44,7,2018-09-20 8:32,2018-12-01 12:46,19728.15,123661.3833,6,4,"{'t-vi': 1, 'vishwakftw': 2, 'koszpe': 3, 'danielcrane': 1}",highpriority
+11555,fritzo,2018-09-11 23:19,3,2018-09-11 23:19,2019-11-20 22:36,0.483333333,626356.9667,4,3,"{'fritzo': 1, 'apaszke': 1, 'zdevito': 1}",oncall:jit
+11747,zuoxingdong,2018-09-17 8:03,1,2019-07-16 18:02,2019-07-16 18:02,435478.8333,435478.8333,2,1,{'t-vi': 1},No labels
+1184,soumith,2017-04-04 19:58,4,2017-04-10 20:57,2017-05-03 23:04,8699.283333,41945.8,3,2,"{'apaszke': 2, 'karandwivedi42': 2}",highpriority
+11867,jamesr66a,2018-09-19 18:04,3,2018-09-19 19:08,2021-01-06 18:42,64.18333333,1209638.117,4,2,"{'SsnL': 1, 'ngimel': 2}",module:performance
+11931,bfreskura,2018-09-21 9:49,16,2018-09-21 10:16,2021-01-16 6:03,26.43333333,1220893.483,11,9,"{'t-vi': 4, 'bfreskura': 1, 'Walstruzz': 1, 'cpuhrsch': 1, 'jacobkimmel': 1, 'RobertoLat': 2, 'ngimel': 4, 'ezyang': 1, 'kshitij12345': 1}","highpriority, module:performance, todo, triaged"
+11945,neerajprad,2018-09-21 18:54,6,2018-09-21 18:59,2018-09-21 19:41,5.45,47.26666667,4,4,"{'t-vi': 1, 'neerajprad': 3, 'zou3519': 1, 'SsnL': 1}",No labels
+12006,sundw2014,2018-09-24 9:10,8,2018-09-24 13:45,2019-03-02 4:08,274.9,228658.3833,5,4,"{'SsnL': 1, 'sundw2014': 2, 't-vi': 4, 'vishwakftw': 1}","mediumpriority(thistagisdeprecated), module:performance"
+12167,zuoxingdong,2018-09-28 12:09,2,2018-10-17 2:51,2018-10-17 2:54,26802.61667,26805.16667,3,2,"{'weiyangfb': 1, 'SsnL': 1}",No labels
+1217,ghost,2017-04-08 14:04,8,2017-04-08 14:11,2017-04-16 13:22,6.55,11477.83333,2,2,"{'soumith': 2, 'apaszke': 1}",No labels
+12190,neerajprad,2018-09-29 0:31,19,2018-09-29 0:31,2018-12-03 21:17,0.333333333,94846.3,9,7,"{'neerajprad': 9, 'SsnL': 1, 'apaszke': 1, 'zou3519': 1, 'ailzhang': 4, 'ahmadsalim': 1, 'soumith': 2}","mediumpriority(thistagisdeprecated), module:performance"
+1221,jzthree,2017-04-10 7:26,2,2017-04-10 8:19,2017-04-10 22:09,52.98333333,883.35,3,2,"{'albanD': 1, 'apaszke': 1}",highpriority
+1223,catalystfrank,2017-04-10 11:04,7,2017-04-12 10:51,2017-05-24 13:52,2866.433333,63527.96667,6,6,"{'Cadene': 1, 'catalystfrank': 2, 'apaszke': 1, 'Spandan-Madan': 1, 'SsnL': 1, 'elgalu': 1}",No labels
+12275,denjots,2018-10-03 0:32,6,2018-10-05 15:03,2018-10-07 6:35,3750.8,6123.033333,4,4,"{'ezyang': 1, 'denjots': 1, 'soumith': 2, 'pjh5': 2}",No labels
+12283,jiaanguo,2018-10-03 12:25,3,2018-10-05 11:12,2018-10-05 13:18,2806.75,2932.833333,2,2,"{'jiaanguo': 2, 'ezyang': 1}",No labels
+1230,SeparateReality,2017-04-11 15:33,3,2017-04-11 16:21,2017-04-11 17:21,47.36666667,107.7166667,3,3,"{'ngimel': 1, 'albanD': 1, 'SeparateReality': 1}",No labels
+1237,ghost,2017-04-12 2:14,4,2017-04-12 4:20,2017-04-13 0:40,125.7333333,1345.45,2,2,"{'soumith': 1, 'Cadene': 1}",No labels
+12409,tstandley,2018-10-06 2:02,7,2018-10-06 5:43,2019-07-06 18:47,221.1166667,394125.1667,6,5,"{'SsnL': 1, 'fmassa': 3, 'tstandley': 1, 'ohlr': 1, 'ngimel': 1}",todo
+1253,MatthiasKohl,2017-04-13 11:55,6,2017-04-13 11:59,2017-04-18 14:10,3.9,7334.683333,3,3,"{'MatthiasKohl': 3, 'apaszke': 2, 'soumith': 1}",No labels
+12651,olyaromanyuk,2018-10-15 14:15,1,2018-10-15 17:45,2018-10-15 17:45,210.2833333,210.2833333,2,1,{'SsnL': 1},No labels
+12695,arenchdlaam,2018-10-16 2:51,1,2018-10-16 2:54,2018-10-16 2:54,3.416666667,3.416666667,3,1,{'ezyang': 1},caffe2
+1272,ghost,2017-04-17 11:18,15,2017-04-18 10:41,2017-09-13 13:04,1403.816667,214666.05,7,7,"{'AleximusOrloff': 2, 'apaszke': 1, 'ngimel': 2, 'egborbe': 1, 'jcjohnson': 2, 'soumith': 2, 'arogozhnikov': 1}","highpriority, module:dependencybug"
+1278,TimDettmers,2017-04-18 14:41,7,2017-09-07 14:14,2017-09-25 18:04,204453.5333,230603.5667,3,3,"{'cgosse': 3, 'soumith': 3, 'TimDettmers': 1}",module:performance
+12863,wwiiiii,2018-10-19 5:22,2,2018-10-22 15:24,2018-10-22 15:27,4921.783333,4924.133333,3,2,"{'albanD': 1, 'soumith': 1}",No labels
+12873,davidmascharka,2018-10-19 14:34,24,2018-10-19 14:43,2019-04-15 16:42,9.366666667,256447.95,17,17,"{'albanD': 3, 'davidmascharka': 2, 'SsnL': 2, 'zou3519': 1, 'longbowzhang': 1, 'Amigoshan': 1, 'xymeng': 1, 'colesbury': 1, 'xxradon': 1, 'TinDang97': 1, 'Hao-Yan': 2, 'yzs981130': 1, 'lamhoangtung': 2, 'dhruvbird': 2, 'duaisha': 1, 'magicly': 1, 'hyperfraise': 1}",No labels
+1299,John-Jumper,2017-04-19 15:53,4,2017-04-19 16:05,2018-04-16 17:46,12.1,521392.7,4,4,"{'apaszke': 1, 'John-Jumper': 1, 'melspectrum007': 1, 'SsnL': 1}",todo
+13243,shhshn,2018-10-29 9:18,4,2018-10-29 14:43,2018-10-30 15:34,325.2333333,1816.05,4,3,"{'ezyang': 1, 'albanD': 2, 'apaszke': 1}",highpriority
+13381,YunYang1994,2018-10-31 9:15,6,2018-10-31 9:26,2019-05-21 22:28,11.18333333,291672.45,5,5,"{'YunYang1994': 2, 'f0k': 1, 'lizhan17': 1, 'ezyang': 1, 'i-amgeek': 1}","module:cpp, module:performance, triaged"
+13412,ezyang,2018-10-31 19:43,13,2018-10-31 19:54,2019-12-05 22:28,11.45,576164.95,7,7,"{'ngimel': 2, 'ngoyal2707': 2, 'mruberry': 4, 'gchanan': 1, 'jjsjann123': 2, 'csarofeen': 1, 'ezyang': 1}","highpriority, module:cuda, module:cudnn, module:dependencybug, module:memoryusage, module:performance, triaged"
+1346,ankitkv,2017-04-24 20:07,6,2017-04-26 19:45,2017-04-29 19:44,2858.316667,7177.033333,4,4,"{'apaszke': 2, 'ankitkv': 1, 'chenzhekl': 2, 'Kaleidophon': 1}",No labels
+13465,anderspapitto,2018-11-01 18:48,0,No comments,2019-03-14 17:12,No comments,191423.95,2,0,{},"module:build, module:windows"
+13666,glample,2018-11-07 12:59,6,2018-11-08 16:10,2018-12-11 4:33,1631.15,48453.83333,6,4,"{'mfuntowicz': 3, 'zou3519': 1, 'fmassa': 1, 'nairbv': 1}","mediumpriority(thistagisdeprecated), oncall:distributed"
+13722,kamilkk852,2018-11-08 16:17,2,2018-11-12 18:32,2018-11-13 13:35,5895.016667,7037.433333,2,2,"{'zou3519': 1, 'kamilkk852': 1}",No labels
+13757,p-morais,2018-11-09 0:20,6,2018-11-09 19:39,2019-04-10 20:57,1159,220117.0167,5,3,"{'colesbury': 2, 'ezyang': 2, 'imaginary-person': 2}","module:cpu, module:mkl, module:multithreading, module:openmp, module:performance, triaged"
+13775,dizcza,2018-11-09 17:02,8,2018-11-09 17:46,2018-11-10 7:25,43.26666667,862.95,3,3,"{'SsnL': 2, 'dizcza': 5, 'soumith': 1}",No labels
+13807,CorentinJ,2018-11-10 10:11,29,2018-11-11 6:15,2018-12-05 16:27,1203.85,36376.08333,8,7,"{'peterjc123': 5, 'CorentinJ': 11, 'soumith': 7, 'gavrielstate': 2, 'kwea123': 2, 'Abdul-Mukit': 1, 'curzel-it': 1}","module:performance, module:windows"
+13843,trias702,2018-11-12 17:07,4,2018-11-13 13:40,2018-11-13 17:13,1233.333333,1446.383333,4,2,"{'SsnL': 2, 'trias702': 2}",todo
+13957,jongwook,2018-11-14 6:46,8,2018-11-14 6:52,2019-03-21 19:18,6.533333333,183632.05,4,3,"{'jongwook': 3, 'ezyang': 1, 'zou3519': 4}","highpriority, needsreproduction"
+14033,andrewbo29,2018-11-15 16:58,28,2018-11-15 20:43,2019-01-17 20:32,225.5333333,90933.91667,14,13,"{'soumith': 5, 'goldsborough': 1, 'zou3519': 4, 'fmassa': 2, 'SsnL': 1, 'andrewbo29': 1, 'hagerrady13': 2, 'ezyang': 2, 'yunsangq': 1, 'qinb': 3, 'lyuwenyu': 1, 'XiaobingSuper': 4, 'sidazhang': 1}","cherry-picked, highpriority, module:build, oncall:jit"
+14203,aman-tiwari,2018-11-19 22:05,10,2018-11-20 1:00,2018-11-20 21:33,175.8833333,1408.083333,2,2,"{'peterjc123': 5, 'aman-tiwari': 5}",No labels
+14231,gngdb,2018-11-20 17:35,2,2018-11-20 19:33,2019-01-10 15:03,118.6833333,73287.93333,3,2,"{'soumith': 1, 'fmassa': 1}",No labels
+14264,VisionZQ,2018-11-21 7:00,1,2018-11-21 16:09,2018-11-21 16:09,549.4,549.4,2,1,{'soumith': 1},No labels
+14456,CoinCheung,2018-11-28 6:44,13,2018-12-11 6:20,2019-06-09 2:44,18695.73333,277679.9667,10,9,"{'fehiepsi': 1, 'CoinCheung': 3, 'sshuair': 2, 'AlexTaguchi': 2, 'soumith': 1, 'EricSteinberger': 1, 'ezyang': 1, 'TillChima': 1, 'knazeri': 1}",module:performance
+1449,ikostrikov,2017-05-02 21:08,1,2017-05-03 16:05,2017-05-03 17:29,1136.766667,1220.666667,2,1,{'ezyang': 1},No labels
+14531,sneffort,2018-11-29 7:13,2,2020-05-13 9:22,2020-05-13 14:20,764768.8667,765066.9333,3,2,"{'sheep94lion': 1, 'ezyang': 1}",No labels
+1455,ketranm,2017-05-03 14:15,0,No comments,2017-05-03 22:38,No comments,503.2,2,0,{},highpriority
+14615,yaysummeriscoming,2018-11-30 12:28,7,2018-11-30 14:33,2018-12-06 9:32,124.75,8463.75,4,4,"{'albanD': 1, 'yaysummeriscoming': 3, 'jjsjann123': 2, 'ngimel': 1}",No labels
+1473,germank,2017-05-04 17:49,1,2017-05-05 15:56,2017-05-05 15:56,1327.1,1327.1,1,1,{'germank': 1},No labels
+1478,NaimKabir,2017-05-04 23:05,2,2017-05-04 23:26,2017-05-04 23:42,21.13333333,36.63333333,2,2,"{'apaszke': 1, 'NaimKabir': 1}",No labels
+14848,igormq,2018-12-06 15:09,4,2019-07-26 22:56,2021-01-06 18:24,334546.6333,1097475.217,10,4,"{'ilanbiala': 1, 'gchanan': 1, 'autoliuweijie': 1, 'ngimel': 1}","mediumpriority(thistagisdeprecated), module:bootcamp, module:performance, triaged"
+14988,TheDiscoMole,2018-12-10 12:57,1,2018-12-10 13:01,2018-12-10 13:01,3.933333333,3.933333333,2,1,{'fmassa': 1},No labels
+15054,qinjian623,2018-12-11 11:13,20,2018-12-11 11:19,2018-12-11 11:41,6.15,27.53333333,12,12,"{'albanD': 2, 'qinjian623': 1, 'knazeri': 2, 'soumith': 4, 'zimenglan-sysu-512': 2, 'MisonoMayu': 1, 'zzd1992': 1, 'Multihuntr': 2, 'dbbert': 2, 'ngimel': 1, 'DHZS': 1, 'tcapelle': 1}",No labels
+1513,vzhong,2017-05-08 18:14,8,2017-05-08 19:11,2017-05-08 19:21,57.31666667,67.53333333,4,4,"{'colesbury': 1, 'vzhong': 3, 'apaszke': 3, 'jekbradbury': 1}",highpriority
+15164,noUmbrella,2018-12-13 9:54,1,2018-12-13 11:16,2018-12-13 11:16,82.36666667,82.36666667,2,1,{'albanD': 1},No labels
+15182,filipeabperes,2018-12-13 20:48,6,2018-12-13 23:48,2019-04-14 4:07,180.75,174679.3333,4,3,"{'vishwakftw': 4, 'filipeabperes': 1, 'ezyang': 1}","mediumpriority(thistagisdeprecated), module:performance"
+15209,pluiez,2018-12-14 9:00,3,2019-02-27 9:03,2018-12-14 9:21,108003.0833,20.61666667,4,3,"{'Arctanxy': 1, 'wangwang110': 1, 'whria78': 1}",No labels
+15311,avmgithub,2018-12-17 21:52,1,2018-12-18 17:16,2018-12-18 17:16,1163.4,1163.4,1,1,{'avmgithub': 1},No labels
+1536,kennysong,2017-05-11 2:40,6,2017-05-11 14:40,2017-05-14 14:27,720,5027.05,4,4,"{'apaszke': 2, 'kennysong': 2, 'soumith': 1, 'rasoolfa': 1}",No labels
+1537,wddabc,2017-05-11 4:30,5,2017-05-11 9:58,2017-05-11 16:37,328.6,727.5333333,3,3,"{'apaszke': 2, 'wddabc': 2, 'rraallvv': 1}",No labels
+1539,SeanNaren,2017-05-11 13:56,14,2017-05-12 16:27,2017-05-12 16:41,1590.666667,1605.483333,6,6,"{'ngimel': 6, 'SeanNaren': 2, 'protoget': 1, 'posenhuang': 3, 'ajhool': 1, 'ezyang': 1}",No labels
+15513,soumith,2018-12-23 21:16,7,2019-08-22 15:00,2019-09-28 5:38,348103.9833,400821.9667,7,5,"{'pbelevich': 1, 'yaysummeriscoming': 2, 'XIEYUNSCUT': 1, 'ngimel': 1, '13952522076': 2}","module:cudnn, module:nn, module:performance, triaged"
+15522,an-kumar,2018-12-24 6:45,5,2018-12-30 3:41,2019-01-08 4:34,8456,21468.35,5,3,"{'soumith': 1, 'apchenstu': 2, 'goldsborough': 2}",module:cpp
+15539,ozzzp,2018-12-26 13:09,19,2018-12-27 8:34,2019-02-07 6:00,1165.016667,61490.85,9,8,"{'akahard2dj': 2, 'ozzzp': 1, 'vishwakftw': 7, 'SsnL': 2, 'soumith': 1, 'Mr-DDDAlKilanny': 2, 'dZhiChen': 3, 'AlexanderMath': 1}",No labels
+15564,amrit-das,2018-12-27 13:53,3,2018-12-27 13:59,2018-12-31 11:58,5.933333333,5644.683333,3,2,"{'amrit-das': 2, 'soumith': 1}",module:build
+15774,zzj0311,2019-01-06 18:31,20,2019-01-07 0:29,2021-01-03 12:39,357.2333333,1047967.033,4,4,"{'ailzhang': 4, 'zzj0311': 12, 'otaj': 3, 'mruberry': 1}",needsreproduction
+15792,ShigekiKarita,2019-01-07 13:26,5,2019-01-08 4:31,2019-01-10 17:05,904.2833333,4538.9,3,3,"{'ShigekiKarita': 3, 'ezyang': 1, 'goldsborough': 1}",highpriority
+15799,peterszabo77,2019-01-07 18:47,9,2019-01-07 19:50,2019-09-13 19:59,63.16666667,358631.5667,8,7,"{'zou3519': 2, 'peterszabo77': 2, 'ericnakagawa': 1, 'rainmanwy': 1, 'thomasj02': 1, 'gchanan': 1, 'ezyang': 1}","highpriority, module:autograd, module:memoryusage, triaged"
+158,szagoruyko,2016-10-23 16:37,1,2016-10-24 21:17,2016-10-24 21:17,1720.283333,1720.283333,2,1,{'apaszke': 1},No labels
+15808,simonhessner,2019-01-07 22:58,14,2019-01-08 18:21,2019-01-08 18:21,1163.283333,1163.283333,13,13,"{'simonhessner': 1, 'KunlinY': 1, 'decowboy': 1, 'mkumar10': 1, 'haooooooqi': 1, 'wcneill': 1, 'reverseark': 1, 'korabelnikov': 1, 'ricardobatistad': 1, 'mobassir94': 2, 'mcclumpherty': 1, 'ghandzhipeng': 1, 'JonasFrey96': 1}",No labels
+15811,senthilps8,2019-01-07 23:57,2,2019-01-08 13:39,2019-01-08 13:43,822.05,825.2333333,2,2,"{'fmassa': 1, 'senthilps8': 1}",No labels
+15872,samson-wang,2019-01-09 11:39,3,2019-01-09 13:58,2019-01-09 13:58,138.6833333,138.6833333,2,2,"{'ezyang': 2, 'samson-wang': 1}",No labels
+16038,yinghai,2019-01-15 17:41,12,2019-01-15 17:59,2019-07-25 11:55,18.35,274694.2,11,7,"{'ezyang': 3, 'colesbury': 1, 'Jianhui-Li': 4, 'uyongw': 1, 'dzhulgakov': 1, 'jgong5': 1, 'soumith': 1}","module:cpu, module:mkldnn, module:performance, triaged"
+1612,carefree0910,2017-05-22 15:01,6,2017-05-22 15:04,2017-05-22 15:04,2.583333333,2.583333333,4,4,"{'soumith': 1, 'carefree0910': 2, 'apaszke': 1, 'fmassa': 2}",No labels
+16158,ngimel,2019-01-18 17:23,5,2019-01-18 17:32,2019-05-06 19:20,9.05,155637.05,9,5,"{'fmassa': 1, 'bhack': 1, 'ezyang': 1, 'jjsjann123': 1, 'xmnlab': 1}","highpriority, module:nn, module:porting, module:quansight, triaged"
+16303,i-cherkasov,2019-01-24 5:10,1,2019-01-28 18:50,2019-01-28 18:50,6579.45,6579.45,2,1,{'soumith': 1},No labels
+16445,clements2,2019-01-28 15:38,15,2019-01-28 18:55,2019-09-12 21:16,196.4833333,327217.4167,9,8,"{'yf225': 1, 'clements2': 2, 'zou3519': 2, 'eepaul': 4, 'cpuhrsch': 1, 'XiaobingSuper': 3, 'fmassa': 1, 'gchanan': 1}","highpriority, module:memoryusage, module:mkldnn, triaged"
+16614,mkolod,2019-01-31 18:47,19,2019-01-31 19:22,2020-09-25 15:55,34.46666667,868147.5167,8,6,"{'mkolod': 7, 'jamesr66a': 1, 'bhack': 8, 'dzhulgakov': 1, 'hijkzzz': 1, 'vraivon': 1}",oncall:jit
+16622,ElchananHaas,2019-01-31 21:34,3,2019-01-31 21:57,2019-02-07 16:58,22.86666667,9803.583333,4,3,"{'SsnL': 1, 'vishwakftw': 1, 'ElchananHaas': 1}",module:distributions
+1693,githubfragments,2017-06-01 9:03,3,2017-06-03 11:55,2019-11-27 16:24,3051.95,1309400.95,3,3,"{'apaszke': 1, 'githubfragments': 1, 'albanD': 1}",No labels
+16935,xierc,2019-02-10 13:40,4,2019-02-10 23:27,2019-02-11 3:54,586.9166667,853.7333333,5,4,"{'ailzhang': 1, 'soumith': 1, 'huagl': 1, 'wadesunyang': 1}",needsreproduction
+16939,PetrochukM,2019-02-10 19:54,3,2019-02-11 15:58,2019-02-16 4:07,1204.333333,7693.2,5,3,"{'ifedan': 1, 'vishwakftw': 1, 'soumith': 1}",module:performance
+1708,hyqneuron,2017-06-03 3:00,53,2017-06-12 2:42,2017-10-18 12:19,12941.16667,197838.75,28,27,"{'jekbradbury': 1, 'fmassa': 4, 'soumith': 3, 'szagoruyko': 1, 'futurely': 1, 'amdcat': 1, 'WendyShang': 1, 'qianguih': 3, 'rkaplan': 1, 'colesbury': 1, 'elliothe': 2, 'killeent': 2, 'ngimel': 6, 'KeCh96': 5, 'tstandley': 3, 'SeungjunNah': 2, 'ibmua': 1, 'colinfang': 3, 'assassint2017': 2, 'ezyang': 1, 'austingg': 2, 'Kongsea': 2, 'wandering007': 1, 'myih': 1, 'XIEYUNSCUT': 1, 'HansBambel': 1, 'VitalyFedyunin': 1}",highpriority
+17095,soumith,2019-02-14 4:54,5,2019-02-14 23:18,2019-02-18 23:58,1103.983333,6903.916667,4,3,"{'yf225': 2, 'dawnwch': 2, 'nihui': 1}","highpriority, module:cpp"
+17206,t-vi,2019-02-16 21:55,6,2019-02-16 22:44,2019-02-22 6:57,48.71666667,7741.416667,3,3,"{'fehiepsi': 3, 't-vi': 2, 'soumith': 1}",No labels
+17209,manuyavuz,2019-02-16 22:32,11,2019-02-25 15:53,2019-03-11 18:54,12560.91667,32901.48333,4,4,"{'manuyavuz': 3, 'mrshenli': 6, 'soumith': 1, 'ezyang': 1}",oncall:distributed
+17451,concretevitamin,2019-02-24 20:35,2,2019-02-25 3:20,2019-02-25 3:20,404.7166667,404.7166667,2,2,"{'soumith': 1, 'concretevitamin': 1}",No labels
+17499,snippler,2019-02-26 9:02,16,2019-02-26 9:11,2020-03-30 9:11,9.066666667,573129.1167,7,6,"{'otaj': 5, 'snippler': 4, 'pietern': 1, 'gchanan': 1, 'Baranowski': 4, 'zou3519': 1}","highpriority, module:dataloader, module:memoryusage, triaged"
+17501,Coolnesss,2019-02-26 14:05,44,2019-02-26 15:49,2020-05-10 18:58,104.0833333,632453.4,12,10,"{'Coolnesss': 9, 'soumith': 1, 't-vi': 7, 'ezyang': 2, 'dangpzanco': 1, 'nikitaved': 15, 'albanD': 1, 'paplhjak': 1, 'ngimel': 6, 'rgommers': 1}","highpriority, module:autograd, module:derivatives, module:performance, triaged"
+17630,YujiaBao,2019-03-02 1:20,2,2019-03-29 4:15,2019-03-29 4:15,39055.35,39055.35,4,2,"{'soumith': 1, 'JohnGiorgi': 1}",module:optimizer
+17704,njtuzzy,2019-03-06 3:43,3,2019-03-06 17:31,2020-10-01 22:19,828.2,829116.45,3,3,"{'vishwakftw': 1, 'njtuzzy': 1, 'mrshenli': 1}",oncall:distributed
+17819,JackWindows,2019-03-08 22:02,8,2019-03-08 22:03,2019-03-13 22:57,1.483333333,7255.333333,7,5,"{'zou3519': 1, 'JackWindows': 3, 'sidazhang': 1, 'yf225': 1, 'soumith': 2}",oncall:jit
+17933,Albert65,2019-03-12 19:16,3,2019-03-13 9:16,2019-03-13 9:16,839.85,839.85,2,2,"{'soumith': 2, 'Albert65': 1}",No labels
+18012,noahzn,2019-03-14 10:24,1,2019-03-14 10:27,2019-03-14 10:27,2.516666667,2.516666667,2,1,{'soumith': 1},No labels
+18013,NegatioN,2019-03-14 10:46,2,2019-03-14 13:16,2020-10-06 9:54,150.6666667,823628.05,2,1,{'NegatioN': 2},caffe2
+18048,omry,2019-03-15 0:27,8,2019-03-15 0:30,2019-03-18 19:46,3.366666667,5479.333333,6,6,"{'omry': 3, 'teng-li': 1, 'ezyang': 1, 'ngimel': 1, 'Alex18947': 1, 'colesbury': 1}",No labels
+18171,Akella17,2019-03-19 6:54,1,2019-03-25 15:41,2019-03-25 15:41,9166.833333,9166.833333,2,1,{'fmassa': 1},No labels
+18268,chenhuiji,2019-03-21 7:52,7,2019-03-25 15:31,2019-03-26 1:55,6219.316667,6843.25,5,4,"{'fmassa': 1, 'soumith': 1, 'turboxin': 3, 'chenhuiji': 2}","awaitingresponse(thistagisdeprecated), oncall:distributed"
+1827,seba-1511,2017-06-16 20:43,0,No comments,2017-07-13 6:14,No comments,38010.9,3,0,{},No labels
+18359,t-vi,2019-03-22 20:18,1,2019-03-22 21:12,2019-04-02 0:12,54.35,14634.88333,4,1,{'SsnL': 1},highpriority
+1840,dgai91,2017-06-19 6:41,2,2017-06-22 12:45,2017-06-22 13:37,4683.75,4735.933333,3,2,"{'rosinality': 1, 'soumith': 1}",No labels
+18405,zasdfgbnm,2019-03-24 17:15,3,2019-03-25 5:11,2019-04-06 14:16,716.3,18540.7,3,2,"{'zasdfgbnm': 2, 'ptrblck': 1}",module:performance
+1846,kefirski,2017-06-19 13:41,9,2017-06-19 13:50,2017-07-13 9:20,9.366666667,34299.06667,3,3,"{'kefirski': 5, 'apaszke': 3, 'soumith': 1}",needsreproduction
+18539,ezyang,2019-03-27 20:40,1,2021-01-03 6:10,2021-01-03 6:10,932249.55,932249.5667,2,1,{'mruberry': 1},"lowpriority, module:lint, module:tests, triaged"
+18736,ezyang,2019-04-02 15:57,1,2019-04-02 20:32,2019-04-02 20:32,275.6666667,275.6666667,1,1,{'ezyang': 1},module:ci
+18786,DUANJINHAO,2019-04-03 2:11,2,2019-04-03 2:52,2019-04-03 19:40,41.16666667,1049.533333,2,2,"{'DUANJINHAO': 1, 'ezyang': 1}",No labels
+18807,jerrybai1995,2019-04-03 17:38,11,2019-04-03 18:39,2020-09-10 21:18,60.53333333,757659.6667,6,5,"{'colesbury': 4, 'jerrybai1995': 4, 'ezyang': 1, 'jjsjann123': 1, 'mruberry': 1}","module:cuda, module:performance, triaged"
+18853,stephenroller,2019-04-04 16:09,24,2019-04-04 17:24,2020-03-24 3:24,75.3,510435.4167,12,10,"{'stephenroller': 10, 'colesbury': 1, 'mrshenli': 3, 'zhangguanheng66': 1, 'gchanan': 1, 'Ali2500': 1, 'peterbell10': 4, 'albanD': 1, 'ezyang': 1, 'vadimkantorov': 1}","hasworkaround, highpriority, module:autograd, module:memoryusage, oncall:distributed, triaged"
+18862,colesbury,2019-04-04 18:05,3,2019-05-07 9:05,2019-05-20 21:15,46980.11667,66430.66667,4,1,{'skrah': 3},"highpriority, module:memoryusage, module:performance, small, triaged"
+1887,JianLiu91,2017-06-23 11:35,0,No comments,2017-06-23 11:48,No comments,12.56666667,1,0,{},No labels
+1893,zhanghang1989,2017-06-23 21:13,16,2017-06-24 6:49,2017-06-25 18:05,576.4666667,2692.833333,6,5,"{'zhanghang1989': 7, 'acgtyrant': 1, 'hao522': 2, 'huguyuehuhu': 1, 'faustomilletari': 2}",No labels
+1907,dimatura,2017-06-26 1:36,9,2017-06-26 17:53,2019-05-06 19:04,977.4166667,978808.25,6,5,"{'dimatura': 2, 'soumith': 2, 'nkundiushuti': 2, 'haudren': 2, 'gchanan': 1}","module:crash, module:cuda, needsreproduction, triaged"
+19165,ThisIsIsaac,2019-04-11 13:11,16,2019-04-11 13:58,2020-08-05 7:34,47.55,693743.3333,3,3,"{'zou3519': 3, 'ThisIsIsaac': 9, 'soumith': 4}","module:cuda, module:performance, triaged"
+19166,ThisIsIsaac,2019-04-11 13:19,6,2019-04-11 14:52,2019-04-12 2:12,92.28333333,772.4166667,4,4,"{'zhangguanheng66': 2, 'ezyang': 1, 'ThisIsIsaac': 2, 'soumith': 1}","module:cuda, module:performance, triagereview, triaged"
+19213,oroojlooy,2019-04-12 20:01,37,2019-04-12 22:00,2020-08-27 21:54,118.3333333,724432.7833,17,17,"{'ezyang': 1, 'oroojlooy': 3, 'mingfeima': 1, 'soumith': 5, 'vpirogov': 1, 'weiqiangguo': 1, 'kishwarshafin': 1, 'thiagocrepaldi': 5, 'ilia-cher': 6, 'AravindChandradoss': 3, 'danieleds': 3, 'saeed-khorram': 1, 'toliz': 1, 'IoT-master': 1, 'adityalahiri': 1, 'mchalecki': 1, 'ecolss': 2}","highpriority, module:multithreading, module:openmp, triaged"
+19351,Ricocotam,2019-04-17 12:26,3,2019-04-28 17:24,2019-06-18 15:49,16138.03333,89482.9,5,3,"{'ailzhang': 1, 'suo': 1, 'zdevito': 1}",oncall:jit
+19407,dojoteef,2019-04-18 13:47,1,2019-04-18 17:51,2019-04-18 17:51,244.8,244.8,2,1,{'dojoteef': 1},"module:cuda, module:performance, triaged"
+19456,lith0613,2019-04-19 6:23,1,2019-04-22 17:39,2019-04-22 17:39,4995.916667,4995.933333,3,1,{'ezyang': 1},"lowpriority, module:convolution, module:cuda, module:performance, triaged"
+19543,ThisIsIsaac,2019-04-21 12:58,5,2019-04-22 13:22,2019-04-24 2:21,1464.283333,3683.016667,4,3,"{'ThisIsIsaac': 3, 'soumith': 1, 'colesbury': 1}","module:cuda, triagereview, triaged"
+1963,zihangdai,2017-07-02 6:07,7,2017-07-02 22:49,2017-07-10 22:46,1001.833333,12518.21667,4,4,"{'zihangdai': 4, 'donglixp': 1, 'colesbury': 1, 'soumith': 1}",highpriority
+19651,pgmmpk,2019-04-24 1:09,15,2019-04-24 1:55,2019-04-24 3:49,46.53333333,160.05,5,5,"{'vadimkantorov': 1, 'soumith': 2, 'pgmmpk': 7, 'albanD': 4, 'willbradshaw': 1}",No labels
+19764,SsnL,2019-04-25 19:25,12,2019-04-26 8:35,2019-07-25 4:00,789.4166667,130114.8833,5,4,"{'fmassa': 1, 'ilia-cher': 5, 'SsnL': 5, 'cjolivier01': 1}","module:build, module:mkl, module:openmp, triaged"
+19797,bddppq,2019-04-26 4:46,2,2019-04-30 0:49,2019-04-30 22:02,5523.3,6796.533333,3,2,"{'mingfeima': 1, 'bddppq': 1}","module:mkldnn, module:performance, triaged"
+19827,Queuecumber,2019-04-27 21:46,2,2019-04-29 17:01,2019-04-29 17:19,2594.7,2612.7,2,2,"{'fmassa': 1, 'Queuecumber': 1}","awaitingresponse(thistagisdeprecated), module:cuda, module:deadlock, triaged"
+19836,mlinxiang,2019-04-28 6:33,0,No comments,2019-04-28 9:35,No comments,182.0166667,1,0,{},No labels
+19906,Athenaplot,2019-04-29 5:32,2,2019-04-29 6:31,2019-04-29 16:14,59,642.5166667,2,2,"{'Athenaplot': 1, 'soumith': 1}",No labels
+19970,Queuecumber,2019-04-30 18:41,8,2019-04-30 21:33,2019-05-06 17:12,172.4333333,8550.583333,2,2,"{'Queuecumber': 6, 'zhangguanheng66': 2}","module:cuda, module:multi-gpu, triagereview, triaged"
+20037,denru01,2019-05-02 0:02,12,2019-05-05 5:26,2019-05-08 2:28,4644.1,8786.3,6,4,"{'denru01': 5, 'fmassa': 1, 'mrshenli': 1, 'VitalyFedyunin': 5}","module:cpu, module:performance, module:regression, oncall:distributed, triaged"
+20047,xin-xinhanggao,2019-05-02 3:38,2,2019-05-02 11:05,2019-05-02 16:23,447.4,765.1666667,2,2,"{'xin-xinhanggao': 1, 'ifedan': 1}",No labels
+20146,SakodaShintaro,2019-05-06 3:24,2,2019-05-07 15:43,2019-07-18 19:12,2179.15,106068.65,7,2,"{'soumith': 1, 'jerry73204': 1}","highpriority, module:cpp, triaged"
+2017,hzaskywalker,2017-07-08 2:25,1,2017-07-13 6:13,2017-07-13 20:24,7427.583333,8278.816667,3,1,{'soumith': 1},highpriority
+20275,MatthiasKohl,2019-05-08 14:42,9,2019-05-08 14:44,2019-05-09 8:23,2,1061.266667,4,4,"{'MatthiasKohl': 4, 'VitalyFedyunin': 1, 'SsnL': 2, 'ptrblck': 2}","module:cuda, module:memoryusage, module:nn, triaged"
+20311,un-knight,2019-05-09 7:58,17,2019-05-09 17:37,2019-05-23 10:12,578.9666667,20293.63333,9,8,"{'VitalyFedyunin': 2, 'ailzhang': 3, 'un-knight': 5, 'seongwook-ham': 2, 'ezyang': 2, 'isalirezag': 1, 'pietern': 1, 'yourh': 1}","highpriority, module:multi-gpu, module:performance, oncall:distributed, triaged"
+20338,pedromorais17,2019-05-09 21:46,3,2019-05-10 17:41,2019-05-11 14:36,1195.433333,2450.15,3,3,"{'zou3519': 1, 'pedromorais17': 1, 'soumith': 1}","module:performance, triaged"
+20396,danFromTelAviv,2019-05-11 15:50,6,2019-05-11 17:09,2019-05-11 17:09,79.08333333,79.08333333,2,2,"{'soumith': 3, 'danFromTelAviv': 3}",No labels
+20588,zhangguanheng66,2019-05-16 15:26,5,2019-05-20 21:43,2019-07-18 21:13,6137.55,91067.16667,6,3,"{'zhangguanheng66': 3, 'ailzhang': 1, 'driazati': 1}","highpriority, oncall:jit"
+2068,hongzimao,2017-07-12 17:31,2,2017-07-12 18:20,2017-07-13 5:43,48.61666667,731.5166667,2,2,"{'hongzimao': 1, 'soumith': 1}",No labels
+20700,matthiasreisser,2019-05-20 11:24,4,2019-05-20 17:39,2020-10-10 21:49,374.5666667,733584.75,7,4,"{'vishwakftw': 1, 'benelot': 1, 'eusoubrasileiro': 1, 'ngimel': 1}","module:linearalgebra, module:performance, triaged"
+20837,Stonesjtu,2019-05-23 0:59,8,2019-05-23 15:53,2019-06-24 17:21,894.45,47062.06667,6,5,"{'colesbury': 2, 'Stonesjtu': 3, 'gchanan': 1, 'VitalyFedyunin': 1, 'ezyang': 1}","module:cuda, module:memoryusage, triagereview"
+21246,songziqin,2019-06-01 6:24,2,2019-06-01 19:21,2019-06-01 19:56,777.2833333,812.6666667,4,2,"{'n-west': 1, 'LJXLJXLJX': 1}",No labels
+21286,banderlog,2019-06-03 16:11,4,2019-06-03 16:50,2019-06-05 16:49,38.6,2917.75,4,3,"{'soumith': 1, 'banderlog': 2, 'colesbury': 1}","module:performance, triaged"
+21344,mrshenli,2019-06-04 17:47,8,2019-06-05 18:54,2019-06-12 14:11,1507.866667,11304.3,4,4,"{'mdlockyer': 4, 'kuttas': 1, 'mrshenli': 1, 'pietern': 2}","module:autograd, oncall:distributed, triaged"
+21406,nict-wisdom,2019-06-05 9:59,6,2019-06-05 16:50,2019-07-30 5:38,411.1,78938.85,7,6,"{'eellison': 1, 'wanchaol': 1, 'chughtapan': 1, 'nict-wisdom': 1, 'ailzhang': 1, 'apaszke': 1}","highpriority, oncall:jit, triaged"
+2143,iammarvelous,2017-07-18 16:40,7,2017-07-23 0:20,2017-08-31 16:46,6219.8,63366.26667,5,4,"{'fmassa': 2, 'lgalke': 2, 'iammarvelous': 1, 'soumith': 2}",No labels
+21456,snippler,2019-06-06 11:25,10,2019-06-06 13:09,2019-06-06 13:09,104.15,104.15,2,2,"{'fmassa': 5, 'snippler': 5}",triaged
+2148,IouJenLiu,2017-07-19 6:26,1,2017-10-19 6:23,2017-10-19 6:23,132476.85,132476.85,2,1,{'colesbury': 1},No labels
+21537,hrpan,2019-06-07 20:19,13,2019-06-10 15:55,2019-07-16 16:31,4056.016667,55931.45,11,8,"{'zdevito': 3, 'bddppq': 1, 'jgong5': 2, 'houseroad': 2, 'yinghai': 1, 'Jianhui-Li': 1, 'gujinghui': 2, 'uyongw': 1}","highpriority, module:memoryusage, module:mkldnn, triaged"
+2163,alykhantejani,2017-07-20 13:24,7,2017-07-20 15:00,2021-01-10 7:19,95.46666667,1828434.483,5,5,"{'soumith': 2, 'alykhantejani': 2, 'zlmoment': 1, 'yf225': 1, 'mruberry': 1}","module:performance, triaged"
+21734,AlexanderKazakov,2019-06-13 14:52,5,2019-06-13 14:59,2019-06-13 16:56,7.516666667,124.5833333,4,4,"{'AlexanderKazakov': 2, 'vadimkantorov': 1, 'ezyang': 1, 'soumith': 1}",No labels
+2176,greaber,2017-07-21 11:32,4,2017-07-25 1:08,2020-05-09 6:04,5136.233333,1472792,5,4,"{'soumith': 1, 'greaber': 1, 'colesbury': 1, 'mruberry': 1}","module:nn, module:performance, triaged"
+21855,chennian32,2019-06-17 10:20,0,No comments,2019-06-17 10:45,No comments,25.08333333,1,0,{},No labels
+2187,shwoo93,2017-07-22 13:09,7,2017-07-22 15:01,2017-08-30 23:26,111.6666667,56776.9,5,5,"{'soumith': 2, 'fmassa': 1, 'ngimel': 1, 'shwoo93': 2, 'alykhantejani': 1}",needsreproduction
+21875,yf225,2019-06-17 22:00,3,2019-06-18 19:36,2020-10-19 16:01,1295.9,705240.5167,4,2,"{'zou3519': 1, 'albanD': 2}","actionable, module:autograd, module:cuda, module:memoryusage, triaged"
+21894,chennian32,2019-06-18 4:25,6,2019-06-21 1:54,2019-07-24 19:49,4169.2,52764.43333,4,3,"{'chennian32': 3, 'VitalyFedyunin': 1, 'yf225': 2}","module:autograd, module:cpp, module:loss, module:memoryusage, triaged"
+2192,DakshMiglani,2017-07-24 10:40,1,2017-07-24 16:08,2017-07-24 16:08,327.7333333,327.7333333,2,1,{'soumith': 1},No labels
+21926,Spandan-Madan,2019-06-18 20:46,4,2019-06-18 22:55,2019-06-18 22:55,129.3333333,129.3333333,2,2,"{'soumith': 2, 'Spandan-Madan': 2}",No labels
+2198,rasoolfa,2017-07-25 7:56,22,2017-07-26 13:34,2017-08-07 0:35,1777.766667,18278.83333,8,7,"{'apaszke': 3, 'rasoolfa': 8, 'lolongcovas': 2, 'Stonesjtu': 5, 'acrosson': 2, 'wise-east': 1, 'zhixinma': 1}",No labels
+22127,jsyx1994,2019-06-24 7:13,8,2019-06-24 13:17,2020-01-10 14:42,364.4166667,288448.95,7,6,"{'fmassa': 1, 'zou3519': 1, 'yf225': 1, 'jsyx1994': 1, 'FerranPares': 2, 'albanD': 2}","module:memoryusage, triaged"
+22333,str1214,2019-06-28 6:18,4,2019-06-28 6:23,2019-06-28 14:14,4.85,475.5833333,3,3,"{'str1214': 2, 'RicCu': 1, 'ezyang': 1}",No labels
+22583,zeroexcuses,2019-07-08 8:59,4,2019-07-09 17:46,2019-07-10 19:45,1967.566667,3526.283333,3,2,"{'colesbury': 2, 'zeroexcuses': 2}","module:cuda, triaged"
+22612,ThisIsIsaac,2019-07-09 9:03,30,2019-07-09 9:06,2020-10-10 9:51,2.85,661007.5833,7,7,"{'fmassa': 10, 'colesbury': 2, 'ThisIsIsaac': 8, 'minty99': 5, 'ezyang': 1, 'ngimel': 3, 'mruberry': 1}","lowpriority, module:cuda, module:performance, triaged"
+22684,sebastienwood,2019-07-10 15:00,1,2019-07-10 16:05,2019-07-10 16:05,65.13333333,65.13333333,2,1,{'ezyang': 1},No labels
+22741,kingder,2019-07-11 10:29,5,2019-07-24 3:47,2020-12-03 8:32,18318.25,735723.5,5,4,"{'sefira': 1, 'mruberry': 2, 'ptrblck': 1, 'kingder': 1}","module:cudnn, module:memoryusage, triaged"
+22789,guanfuchen,2019-07-12 6:26,3,2019-07-12 6:49,2019-07-17 15:19,23.45,7732.733333,3,3,"{'guanfuchen': 1, 'SsnL': 1, 'fmassa': 1}",triaged
+22834,shoaibahmed,2019-07-13 4:48,18,2019-07-14 8:44,2019-07-18 6:57,1675.383333,7329,10,8,"{'JoeriHermans': 1, 'shoaibahmed': 8, 'pietern': 3, 'hitvoice': 1, 'pldelisle': 1, 'nkatebi': 2, 'gemfield': 1, 'nomadlx': 1}","oncall:distributed, triaged"
+22866,movchan74,2019-07-15 16:24,19,2019-07-15 16:49,2020-09-10 20:53,24.41666667,609389.3833,11,8,"{'SsnL': 3, 'colesbury': 5, 'vraivon': 3, 'AravindChandradoss': 1, 'TomorrowIsAnOtherDay': 3, 'lastlap': 2, 'zhihaocheng': 1, 'sakshamjn': 1}","module:performance, triaged"
+2287,hongyi-zhang,2017-08-03 22:01,9,2017-08-03 22:17,2017-08-10 18:09,16.86666667,9848.383333,5,5,"{'gchanan': 5, 'hyqneuron': 1, 'pclucas14': 1, 'hongyi-zhang': 1, 'Ossidy': 1}",No labels
+2300,lucidfrontier45,2017-08-05 15:36,9,2017-08-06 3:03,2017-08-06 3:03,686.6666667,686.6666667,5,4,"{'apaszke': 2, 'JianboTang': 3, 'hsaghir': 3, 'soumith': 1}",No labels
+23004,LJXLJXLJX,2019-07-18 1:32,8,2019-07-22 2:46,2019-07-27 2:08,5833.35,12995.55,4,3,"{'LJXLJXLJX': 5, 'soumith': 2, 'LIANGXINKAI': 1}","module:cpp, module:windows, triaged"
+23238,gchanan,2019-07-23 17:22,3,2019-07-23 19:46,2019-07-31 3:46,143.2333333,10703.85,5,3,"{'jerryzh168': 1, 'gchanan': 1, 'SsnL': 1}","highpriority, module:internals, module:performance, triaged"
+23295,WassimOrabi,2019-07-24 7:40,1,2019-07-24 20:33,2019-07-24 20:33,773.1166667,773.1166667,2,1,{'ifedan': 1},No labels
+2338,xuancong84,2017-08-08 10:51,4,2017-08-08 11:12,2017-08-10 1:30,20.1,2318.516667,3,3,"{'fmassa': 1, 'gchanan': 1, 'xuancong84': 2}",No labels
+23413,ThisIsIsaac,2019-07-26 2:13,3,2019-07-26 2:23,2019-07-26 11:53,9.383333333,579.55,2,2,"{'ThisIsIsaac': 2, 'soumith': 1}",No labels
+2351,ivorytwoer,2017-08-09 3:08,6,2017-08-09 4:01,2017-08-09 8:59,53.48333333,351.1333333,3,3,"{'pavanky': 1, 'ivorytwoer': 3, 'pratikac': 2}",No labels
+23531,xwang-icsi,2019-07-29 22:51,6,2019-07-31 18:00,2019-08-01 0:17,2588.6,2965.716667,4,3,"{'VitalyFedyunin': 1, 'xwang-icsi': 3, 'fmassa': 2}","module:cuda, module:performance, triaged"
+23580,jacobrgardner,2019-07-31 0:34,9,2019-07-31 3:05,2019-08-03 5:36,150.05,4621.333333,4,3,"{'SsnL': 1, 'vishwakftw': 6, 'jacobrgardner': 2}","module:performance, triagereview"
+2361,thuyen,2017-08-09 20:49,1,2017-08-09 20:51,2017-08-09 20:51,2.083333333,2.083333333,2,1,{'gchanan': 1},No labels
+23642,alpha0422,2019-08-01 2:38,1,2019-08-01 4:57,2019-08-01 22:26,139.55,1188.566667,4,1,{'soumith': 1},"module:dataloader, module:performance, triaged"
+23728,ThisIsIsaac,2019-08-02 9:07,1,2019-08-02 17:05,2019-08-02 17:05,477.6833333,477.6833333,2,1,{'vincentqb': 1},module:nn
+238,soumith,2016-11-18 20:54,4,2016-11-19 2:10,2016-11-21 20:32,316.1,4298.35,2,2,"{'soumith': 1, 'apaszke': 3}",highpriority
+23862,matschreiner,2019-08-06 8:57,3,2019-08-06 11:23,2019-08-07 6:46,146.2,1308.9,3,3,"{'ptrblck': 1, 'matschreiner': 1, 'ailzhang': 1}",No labels
+23871,raghuramank100,2019-08-06 14:47,1,2019-10-14 21:41,2019-10-14 21:41,99774.26667,99774.26667,4,1,{'jamesr66a': 1},"oncall:quantization, quantization_release_1.3, triaged"
+23900,rmrao,2019-08-06 21:30,1,2019-08-06 21:53,2019-08-06 21:53,22.83333333,22.83333333,1,1,{'rmrao': 1},No labels
+23928,danielcrane,2019-08-07 7:18,10,2019-08-07 11:10,2020-03-31 18:25,232.0666667,341947.4,5,4,"{'vishwakftw': 3, 'fehiepsi': 3, 'danielcrane': 3, 'Balandat': 1}","module:distributions, module:performance, triaged"
+23937,beyondli,2019-08-07 10:09,1,2019-08-07 17:21,2019-08-07 17:21,432.35,432.35,3,1,{'soumith': 1},module:onnx
+24004,quanpr,2019-08-08 6:23,6,2019-08-08 15:50,2019-08-09 14:29,567.9333333,1926.316667,5,5,"{'SsnL': 1, 'quanpr': 2, 'rmcavoy': 1, 'ezyang': 1, 'jaytimbadia': 1}",No labels
+24008,danielcrane,2019-08-08 8:39,4,2019-08-08 8:45,2020-10-10 21:26,5.333333333,618526.8167,4,3,"{'danielcrane': 2, 'ezyang': 1, 'ngimel': 1}","module:dependencybug, module:distributions, module:performance, triaged"
+24080,linziyi96,2019-08-09 7:27,7,2019-08-09 14:39,2019-10-04 6:31,432.4333333,80584.36667,5,5,"{'ezyang': 2, 'ilia-cher': 2, 'linziyi96': 1, 'peterbell10': 1, 'soumith': 1}","highpriority, module:multithreading, module:openmp, triaged"
+24142,kakaluote,2019-08-10 2:19,2,2019-08-11 9:11,2019-08-12 3:58,1851.65,2978.533333,2,2,"{'SsnL': 1, 'kakaluote': 1}",No labels
+24200,valtron,2019-08-12 21:36,2,2019-08-13 9:24,2019-08-28 14:52,708.3,22636.18333,3,2,"{'pietern': 1, 'SsnL': 1}","highpriority, module:internals, module:memoryusage, module:numpy, triaged"
+24237,MikhailPxl,2019-08-13 10:47,10,2019-08-13 10:55,2019-08-26 12:06,8.3,18799.38333,6,6,"{'pietern': 3, 'MikhailPxl': 3, 'Bsting': 1, 'tiberiusferreira': 1, 'jingxil': 1, 'Junan007': 1}","module:cpp, module:memoryusage, module:mkl, triaged"
+24244,AravindChandradoss,2019-08-13 16:49,4,2019-08-13 17:05,2019-08-14 15:21,16.06666667,1352.6,3,3,"{'heiner': 1, 'AravindChandradoss': 2, 'SsnL': 1}",No labels
+24318,XuejianJia,2019-08-14 9:41,5,2019-08-14 11:20,2019-08-15 20:16,99,2074.633333,5,4,"{'vadimkantorov': 1, 'XuejianJia': 2, 'SsnL': 1, 'soumith': 1}","module:cpu, triaged"
+24373,ppwwyyxx,2019-08-14 22:55,2,2019-08-15 7:28,2019-08-15 16:58,512.3,1082.733333,3,2,"{'fmassa': 1, 'zou3519': 1}",No labels
+24809,ggaemo,2019-08-17 14:06,8,2019-08-17 14:20,2019-08-19 18:29,14.05,3143.2,6,5,"{'ggaemo': 4, 'VitalyFedyunin': 1, 'SsnL': 1, 'lastlap': 1, 'TengdaHan': 1}",module:cpu
+24822,vdyagilev,2019-08-18 21:45,1,2019-08-19 21:16,2019-08-19 21:16,1410.666667,1410.666667,3,1,{'cpuhrsch': 1},"module:performance, module:rnn"
+24912,heiner,2019-08-20 16:37,10,2019-08-21 10:36,2019-12-04 19:56,1078.433333,152839.1333,7,5,"{'heiner': 3, 'ezyang': 1, 'ngimel': 2, 'colesbury': 2, 'madsbk': 2}","highpriority, module:cuda, module:nn, module:performance, triaged"
+2498,xuanqing94,2017-08-21 8:05,8,2017-08-21 22:36,2017-08-26 23:05,871.7833333,8100.666667,3,3,"{'xuanqing94': 4, 'gchanan': 2, 'chao1224': 2}",No labels
+25009,XSeanLiu,2019-08-22 4:36,4,2019-08-22 10:19,2019-09-06 1:50,343.1666667,21433.83333,4,3,"{'andreaskoepf': 1, 'XSeanLiu': 2, 'soumith': 1}","module:performance, triaged"
+25010,rwightman,2019-08-22 4:41,8,2019-08-22 4:51,2019-08-23 19:42,10.65,2341.366667,4,3,"{'rwightman': 4, 'SsnL': 3, 'colesbury': 1}","module:cpu, module:dataloader, module:multithreading, triaged"
+25033,sidazhang,2019-08-22 17:14,2,2019-08-22 18:33,2019-08-22 18:33,78.95,78.95,2,2,"{'ifedan': 1, 'sidazhang': 1}",No labels
+2518,soumith,2017-08-23 14:20,18,2017-08-23 14:44,2019-05-06 18:58,24.11666667,894517.9833,11,10,"{'neubig': 1, 'soumith': 2, 'apaszke': 1, 'jph00': 2, 'honnibal': 2, 'negrinho': 3, 'hal3': 1, 'gchanan': 3, 'khanhptnk': 2, 'zjcerwin': 1}","module:cpu, module:cuda, module:performance, triaged"
+25288,beichen2012,2019-08-28 3:08,2,2019-08-28 6:23,2019-08-28 10:07,194.4666667,418.45,2,2,"{'beichen2012': 1, 'soumith': 1}",module:cpp
+25303,beichen2012,2019-08-28 11:55,26,2019-08-29 0:10,2019-09-03 8:06,734.3,8411.15,5,4,"{'soumith': 1, 'yf225': 1, 'peterjc123': 12, 'beichen2012': 12}","highpriority, module:cpp, module:memoryusage, module:windows, triaged"
+25340,patrick-kidger,2019-08-28 19:52,9,2019-08-28 20:42,2019-08-31 12:13,49.68333333,3861.1,4,4,"{'patrick-kidger': 4, 'soumith': 2, 'ezyang': 1, 'albanD': 2}","module:autograd, triaged"
+25380,sam1902,2019-08-29 6:39,1,2019-08-29 14:50,2019-08-29 14:50,490.85,490.8666667,3,1,{'ezyang': 1},"module:binaries, triaged"
+25452,jesen8,2019-08-30 5:19,4,2019-08-30 21:50,2019-12-26 5:16,990.9666667,169917.7667,3,3,"{'yf225': 1, 'mrshenli': 2, 'jesen8': 1}","module:multithreading, module:performance, triaged"
+2560,lukashermann,2017-08-29 14:00,6,2017-08-29 14:02,2019-10-24 22:20,2.183333333,1132340,5,4,"{'soumith': 2, 'lukashermann': 1, 'Oktai15': 1, 'gchanan': 2}","module:cpu, module:cuda, module:performance, triaged"
+25900,dajidali010,2019-09-10 7:17,0,No comments,2019-09-10 16:22,No comments,544.8666667,2,0,{},No labels
+26094,besterma,2019-09-12 14:09,4,2019-09-12 14:24,2019-09-12 14:24,15.55,15.55,3,3,"{'soumith': 1, 'besterma': 2, 'albanD': 1}",No labels
+26112,MatthieuBizien,2019-09-12 19:17,7,2019-09-13 11:24,2020-01-30 15:11,967.3,201354.0833,3,3,"{'fmassa': 1, 'MatthieuBizien': 3, 'ptrblck': 3}","module:cudnn, module:memoryusage, triaged"
+2618,jhirshman,2017-09-05 1:23,7,2017-09-05 11:15,2017-09-10 17:53,591.5833333,8189.416667,3,3,"{'fmassa': 3, 'jhirshman': 1, 'soumith': 3}",No labels
+2630,colesbury,2017-09-05 17:56,3,2017-09-05 18:13,2017-10-03 9:20,17.13333333,39804.18333,3,3,"{'gchanan': 1, 'colesbury': 1, 'apaszke': 1}",No labels
+26530,zzzkk2009,2019-09-20 7:57,1,2019-09-20 18:43,2019-09-20 18:43,645.5,645.5,2,1,{'colesbury': 1},No labels
+2672,lucabergamini,2017-09-08 8:27,4,2017-09-08 13:01,2017-10-03 9:08,274.4833333,36041.15,4,4,"{'Stonesjtu': 1, 'lucabergamini': 1, 'soumith': 1, 'apaszke': 1}",No labels
+26812,VitalyFedyunin,2019-09-25 15:32,1,2020-10-10 21:23,2020-10-10 21:23,548990.55,548990.55,3,1,{'ngimel': 1},"module:TensorIterator, module:cpu, module:performance, triaged"
+26948,wizardk,2019-09-27 3:19,18,2019-10-11 5:07,2019-12-08 5:49,20268.08333,103830.4833,8,5,"{'wizardk': 9, 'soumith': 1, 'suo': 6, 'jamesr66a': 1, 'oelgendy': 1}","module:cpu, module:performance, triaged"
+27058,shinexunju,2019-09-30 10:06,1,2019-10-04 17:44,2019-10-04 17:44,6218.133333,6218.15,3,1,{'soumith': 1},"module:performance, triagereview"
+27419,kmzzhang,2019-10-05 7:18,2,2019-10-06 23:52,2019-10-07 6:00,2433.966667,2801.883333,2,2,"{'kmzzhang': 1, 'soumith': 1}",No labels
+2759,kuangliu,2017-09-17 5:32,3,2017-09-17 5:40,2017-09-17 5:42,7.7,10.1,2,2,"{'soumith': 2, 'kuangliu': 1}",No labels
+27600,thequilo,2019-10-09 8:26,11,2019-10-10 0:32,2019-10-16 14:19,966.5333333,10433.3,7,6,"{'zou3519': 1, 'gchanan': 1, 'albanD': 3, 'thequilo': 3, 'ZisIsNotZis': 1, 'auroua': 2}","module:cuda, module:memoryusage, triaged"
+27633,xiaomengy,2019-10-09 21:14,3,2019-10-09 21:26,2019-10-17 3:44,12.18333333,10470.18333,2,1,{'xiaomengy': 3},"module:cuda, module:performance, triaged"
+27690,fbcotter,2019-10-10 9:16,2,2019-10-10 21:08,2019-10-16 10:27,712.3,8711.366667,2,2,"{'cpuhrsch': 1, 'fbcotter': 1}","module:cuda, module:multi-gpu, module:performance, triaged"
+2777,siarez,2017-09-18 20:01,1,2017-09-18 20:35,2017-09-18 20:51,34.38333333,49.9,3,1,{'albanD': 1},No labels
+2778,bkj,2017-09-18 20:11,1,2017-09-18 21:56,2017-09-18 21:56,104.9833333,105,2,1,{'soumith': 1},No labels
+27807,dhpollack,2019-10-12 8:55,20,2019-10-12 11:17,2019-10-12 21:44,142.5333333,769.0166667,8,8,"{'soumith': 8, 'ptrblck': 3, 'dhpollack': 1, 'ghltshubh': 1, 'tayo': 2, 'jediofgever': 1, 'rolambert': 1, 'raqueldias': 3}","highpriority, module:binaries"
+27810,turboxin,2019-10-12 10:37,1,2019-10-13 2:26,2019-10-13 2:26,948.8666667,948.8833333,3,1,{'gchanan': 1},oncall:distributed
+27827,xiaoLiuxiaoLiuxiaoLiu,2019-10-14 2:50,1,2019-10-14 8:20,2019-10-14 8:20,329.8833333,329.8833333,2,1,{'soumith': 1},No labels
+27971,lopuhin,2019-10-15 10:23,23,2019-10-15 18:25,2020-05-16 20:01,482.65,308738.6167,14,11,"{'zou3519': 1, 'ezyang': 8, 'lopuhin': 3, 'vpirogov': 2, 'XiaobingSuper': 1, 'SsnL': 2, 'WillLiGitHub': 1, 'Baranowski': 1, 'rgommers': 1, 'AloneGu': 2, 'pinzhenx': 1}","highpriority, module:cpu, module:memoryusage, module:mkldnn, triaged"
+27974,99991,2019-10-15 12:36,11,2019-10-15 18:08,2019-10-17 5:45,332.6166667,2469.383333,6,6,"{'vpirogov': 2, 'zou3519': 2, 'gchanan': 1, '99991': 2, 'XiaobingSuper': 2, 'ezyang': 2}","highpriority, module:cpu, module:dependencybug, module:mkldnn, module:performance, triagereview, triaged"
+28066,PingHGao,2019-10-16 7:19,7,2019-10-16 8:18,2019-10-17 23:13,58.53333333,2394.266667,4,3,"{'peterjc123': 4, 'PingHGao': 2, 'soumith': 1}",triaged
+28069,yongchaoding,2019-10-16 9:16,1,2019-10-16 22:18,2019-10-16 22:20,782.3666667,783.85,2,1,{'z-a-f': 1},triaged
+28113,ruotianluo,2019-10-16 17:14,3,2019-10-16 20:49,2019-10-16 21:01,215.5,226.8833333,2,2,"{'SsnL': 1, 'ruotianluo': 2}",No labels
+2816,ducksoup,2017-09-21 10:45,9,2017-09-21 16:23,2019-05-06 21:14,337.85,853108.9667,8,6,"{'gchanan': 2, 'colesbury': 1, 'csarofeen': 2, 'ducksoup': 1, 'Stonesjtu': 2, 'apaszke': 1}","highpriority, module:cuda, module:performance, triaged"
+2817,dmarnerides,2017-09-21 15:45,0,No comments,2017-09-21 16:10,No comments,24.7,1,0,{},No labels
+28198,JianpingChen066,2019-10-17 3:07,1,2019-10-21 17:13,2019-10-31 14:18,6605.816667,20831.25,5,1,{'jerryzh168': 1},"highpriority, triaged"
+28201,xiaomengy,2019-10-17 3:56,0,No comments,2020-06-07 23:44,No comments,338147.7667,2,0,{},triaged
+28212,yourh,2019-10-17 9:11,3,2019-10-17 9:12,2019-10-17 19:41,1.516666667,630.6166667,2,2,"{'yourh': 2, 'smessmer': 1}",No labels
+28370,albanD,2019-10-21 17:27,4,2019-10-22 20:25,2019-11-01 14:37,1618.283333,15670.31667,3,2,"{'albanD': 2, 'gchanan': 2}","highpriority, module:autograd, module:internals, module:multithreading, module:performance, triaged"
+28480,xiaomengy,2019-10-23 0:32,2,2019-11-12 23:23,2020-04-23 17:35,30170.66667,264543.1,5,2,"{'xiaomengy': 1, 'raghuramank100': 1}","module:performance, oncall:quantization, triaged"
+28568,jianyuh,2019-10-24 5:01,1,2019-10-28 20:42,2019-10-28 20:42,6701.1,6701.1,3,1,{'jianyuh': 1},"module:internals, triaged"
+28639,xsacha,2019-10-25 6:02,2,2019-10-25 15:10,2019-10-25 15:10,547.9166667,547.9166667,2,2,"{'gchanan': 1, 'xsacha': 1}","module:cuda, module:performance, triaged"
+28647,Tieftaucher,2019-10-25 10:06,2,2019-10-25 14:04,2019-10-25 14:04,238.0833333,238.1,2,2,"{'albanD': 1, 'Tieftaucher': 1}",No labels
+28653,alohali,2019-10-25 14:00,2,2019-10-25 21:00,2019-10-25 21:04,420.05,424.5833333,3,1,{'z-a-f': 2},"oncall:quantization, triaged"
+28778,hexiangquan,2019-10-28 4:42,6,2019-10-29 0:17,2019-10-29 1:57,1175.3,1275.2,5,3,"{'supriyar': 2, 'hexiangquan': 3, 'soumith': 1}","oncall:quantization, triaged"
+2895,stefbraun,2017-09-29 8:25,8,2017-10-03 8:44,2017-10-05 5:16,5779.433333,8450.75,4,4,"{'apaszke': 2, 'stefbraun': 2, 'soumith': 2, 'ngimel': 2}",No labels
+29024,jiacheng1gujiaxin,2019-11-01 8:04,3,2019-11-01 17:07,2019-11-01 17:07,543.1833333,543.1833333,4,3,"{'colesbury': 1, 'DuYangGitHub': 1, 'jerryzh168': 1}",oncall:quantization
+2912,antspy,2017-09-30 11:10,3,2017-09-30 14:26,2017-11-07 16:56,196.3,55066.43333,3,2,"{'soumith': 2, 'SsnL': 1}",No labels
+2978,ray342649093,2017-10-04 23:39,1,2017-10-04 23:40,2017-10-04 23:40,1.05,1.05,2,1,{'soumith': 1},No labels
+29802,akikaaa,2019-11-14 11:36,3,2019-11-14 23:02,2019-11-14 23:02,685.9,685.9,3,2,"{'ngimel': 2, 'akikaaa': 1}","module:cuda, module:memoryusage, triaged"
+29809,tbelhalfaoui,2019-11-14 15:02,4,2019-11-14 22:50,2019-11-18 15:02,468.3833333,5760.6,3,3,"{'ailzhang': 1, 'ezyang': 2, 'tbelhalfaoui': 1}","highpriority, triagereview"
+29893,seyong92,2019-11-15 7:27,13,2019-11-15 18:32,2019-11-25 5:51,664.7666667,14304.45,9,9,"{'soumith': 1, 'seyong92': 4, 'luoqing94': 1, 'ezyang': 2, 'rexxarM': 1, 'XiaobingSuper': 1, 'danilopeixoto': 1, 'cpatrickalves': 1, 'sabrabano0': 1}","highpriority, module:mkldnn, triagereview, triaged"
+29939,xzhu1900,2019-11-16 0:44,5,2019-11-22 22:21,2021-03-01 18:20,9936.783333,679295.7667,4,3,"{'zhaojuanmao': 3, 'pietern': 1, 'xzhu1900': 1}","highpriority, module:dataparallel, module:performance, oncall:distributed, triaged"
+3009,chrischoy,2017-10-06 18:01,1,2017-10-06 20:18,2017-10-07 4:35,137.1,633.25,3,1,{'colesbury': 1},No labels
+30151,taojake,2019-11-20 10:29,5,2019-11-21 21:30,2019-12-05 5:24,2101.133333,21295.11667,4,4,"{'cpuhrsch': 1, 'taojake': 2, 'mruberry': 1, 'ptrblck': 1}","module:cuda, module:half, module:performance, triaged"
+3021,loudinthecloud,2017-10-08 5:33,3,2017-10-09 8:55,2020-04-18 4:21,1641.833333,1329048.167,3,3,"{'apaszke': 1, 'loudinthecloud': 1, 'mruberry': 1}",No labels
+30213,jihuacao,2019-11-21 3:14,3,2019-11-21 21:08,2019-11-29 1:44,1074.583333,11430.61667,2,2,"{'cpuhrsch': 2, 'jihuacao': 1}","module:performance, triaged"
+30220,intgogo,2019-11-21 7:12,1,2019-11-21 9:14,2019-11-21 9:14,121.9333333,121.9333333,2,1,{'fmassa': 1},No labels
+30460,One-sixth,2019-11-26 10:57,3,2019-11-27 15:18,2020-02-12 18:28,1701.633333,112771.6333,3,2,"{'pietern': 1, 'mruberry': 2}","module:numpy, triaged"
+30592,phil510,2019-12-01 19:51,2,2019-12-03 8:15,2021-01-22 16:26,2184.433333,601714.6,5,2,"{'pietern': 1, 'albanD': 1}","module:autograd, module:memoryusage, module:normsandnormalization, triaged"
+30831,rgommers,2019-12-05 18:41,8,2019-12-05 18:43,2020-01-16 15:13,2.066666667,60272.13333,4,3,"{'rgommers': 5, 'ngoldbaum': 2, 'mingzhe09088': 1}","highpriority, module:cpu, module:performance, triaged"
+30902,IggShaman,2019-12-06 20:22,4,2019-12-06 20:59,2020-01-28 16:19,37.35,76076.95,4,3,"{'IggShaman': 2, 'suo': 1, 'Krovatkin': 1}","oncall:jit, triaged"
+30998,saschalippert,2019-12-09 20:59,8,2019-12-09 21:15,2019-12-09 22:04,16.28333333,64.73333333,2,2,"{'saschalippert': 5, 'devendraswamy': 3}",No labels
+31028,xiaodao2049,2019-12-10 2:51,2,2019-12-10 6:30,2019-12-10 9:21,219.8833333,390.8,3,2,"{'suo': 1, 'xiaodao2049': 1}",oncall:jit
+31039,xiangxianzhang,2019-12-10 8:11,1,2019-12-10 8:23,2019-12-10 8:27,11.66666667,15.8,2,1,{'peterjc123': 1},No labels
+312,glample,2016-12-15 14:36,2,2016-12-15 15:37,2016-12-16 13:30,61.8,1374.05,2,1,{'apaszke': 2},highpriority
+31239,xubin1994,2019-12-13 6:20,1,2019-12-15 0:26,2019-12-15 0:26,2526.066667,2526.1,2,1,{'VitalyFedyunin': 1},No labels
+31242,SpartaG117,2019-12-13 6:52,1,2019-12-15 0:28,2019-12-15 0:28,2495.933333,2495.933333,2,1,{'VitalyFedyunin': 1},No labels
+31271,colesbury,2019-12-13 23:00,4,2019-12-14 0:39,2019-12-15 22:01,99.08333333,2821.433333,5,3,"{'zasdfgbnm': 2, 'ezyang': 1, 'mingzhe09088': 1}","highpriority, module:performance, triagereview, triaged"
+3129,cedias,2017-10-16 12:46,1,2017-10-16 20:08,2017-10-16 22:51,441.1666667,604.8,2,1,{'SsnL': 1},No labels
+3146,loudinthecloud,2017-10-17 10:20,14,2017-10-17 13:19,2021-01-10 8:25,179.4,1700524.967,10,8,"{'loudinthecloud': 3, 'Stonesjtu': 2, 'mingfeima': 3, 'wohlbier': 2, 'soumith': 1, 'vpirogov': 1, 'choidongyeon': 1, 'mruberry': 1}","mediumpriority(thistagisdeprecated), module:performance, triaged"
+31497,vadimkantorov,2019-12-19 21:13,15,2019-12-19 22:22,2020-01-06 23:21,69.11666667,26048.56667,7,7,"{'ngimel': 1, 'cpuhrsch': 1, 'vadimkantorov': 5, 'OhadRubin': 1, 'ezyang': 3, 'albanD': 3, 'peterbell10': 1}","highpriority, module:autograd, module:cuda, module:memoryusage, triaged"
+31500,zasdfgbnm,2019-12-19 22:41,4,2019-12-19 23:05,2019-12-21 3:03,23.96666667,1701.516667,2,2,"{'ngimel': 2, 'zasdfgbnm': 2}","module:cuda, triaged"
+31618,youkaichao,2019-12-26 5:02,1,2019-12-26 7:50,2019-12-26 7:50,168,168,2,1,{'ngimel': 1},No labels
+31652,zhuhaozhe,2019-12-27 7:20,0,No comments,2019-12-27 7:21,No comments,1.333333333,2,0,{},oncall:jit
+31653,zhuhaozhe,2019-12-27 7:29,1,2020-01-02 14:21,2020-01-02 14:21,9051.816667,9051.816667,3,1,{'suo': 1},oncall:jit
+31690,zplizzi,2019-12-29 16:38,3,2019-12-30 0:56,2020-10-22 20:44,497.5333333,429365.85,4,2,"{'ngimel': 1, 'linjiapro': 2}","module:cudnn, triaged"
+31691,fulltopic,2019-12-29 21:28,1,2019-12-31 9:26,2020-01-02 1:18,2157.533333,4549.766667,3,1,{'fulltopic': 1},"module:cpu, triaged"
+31767,TinDang97,2020-01-02 8:56,2,2020-01-02 14:41,2020-01-02 14:41,345.3333333,345.3333333,2,2,"{'ezyang': 1, 'TinDang97': 1}","module:cuda, module:memoryusage"
+31819,vadimkantorov,2020-01-03 4:11,9,2020-02-10 19:35,2020-02-11 16:13,55643.98333,56882,3,2,"{'albanD': 4, 'vadimkantorov': 5}","module:autograd, triaged"
+31831,sumanthratna,2020-01-03 16:36,0,No comments,2020-01-03 19:30,No comments,173.9666667,1,0,{},No labels
+31936,theonly22,2020-01-08 2:08,1,2020-01-08 6:14,2020-01-08 6:14,246.2,246.2,1,1,{'theonly22': 1},No labels
+31947,francoishernandez,2020-01-08 17:58,3,2020-01-09 15:58,2020-01-09 16:27,1320.183333,1349.016667,3,3,"{'zou3519': 1, 'ezyang': 1, 'francoishernandez': 1}","highpriority, module:cuda, module:memoryusage, triagereview, triaged"
+31975,zasdfgbnm,2020-01-09 1:44,12,2020-01-09 1:45,2020-06-24 22:16,0.333333333,241712.1667,3,2,"{'zasdfgbnm': 8, 'pyotr777': 4}","module:TensorIterator, module:cuda, module:performance, triaged"
+32008,milutter,2020-01-09 21:53,15,2020-01-18 1:02,2020-02-13 22:32,11708.85,50439.05,8,5,"{'emfomenk': 1, 'milutter': 2, 'CaoZhongZ': 4, 'ezyang': 1, 'imaginary-person': 3}","highpriority, module:memoryusage, module:performance, triaged"
+32037,FerranPares,2020-01-10 12:10,9,2020-01-10 18:07,2020-06-16 13:11,356.9333333,227580.9,7,6,"{'SsnL': 3, 'FerranPares': 2, 'vpirogov': 1, 'XiaobingSuper': 1, 'rgommers': 1, 'pinzhenx': 1}","module:memoryusage, module:mkldnn, triaged"
+32192,tayo,2020-01-14 22:50,20,2020-01-15 20:35,2020-05-08 21:25,1304.483333,165514.7,6,5,"{'soumith': 2, 'ptrblck': 6, 'tayo': 9, 'ngimel': 2, 'cenkbircanoglu': 1}","module:cuda, module:performance, triaged"
+32284,m-bula,2020-01-16 11:36,25,2020-01-16 21:38,2020-06-03 1:57,602.5166667,199581.4667,6,6,"{'mrshenli': 2, 'm-bula': 3, 'rmcavoy': 6, 'ezyang': 4, 'albanD': 6, 'mattip': 4}","highpriority, module:memoryusage, triaged"
+3250,salvatoreloguercio,2017-10-23 23:18,2,2017-10-23 23:40,2017-10-24 2:19,21.28333333,180.1666667,3,2,"{'zou3519': 1, 'ezyang': 1}",No labels
+32596,hollance,2020-01-24 22:26,3,2020-01-24 23:27,2020-01-25 1:28,60.78333333,181.9,3,2,"{'ngimel': 2, 'SsnL': 1}","module:memoryusage, module:mkldnn, triaged"
+32664,LeeHuan18,2020-01-27 22:11,2,2020-01-27 22:59,2020-01-28 1:47,48.08333333,216.6,3,2,"{'zhangguanheng66': 1, 'ezyang': 1}","module:crash, triaged"
+32914,realiti4,2020-02-02 10:16,41,2020-02-02 10:32,2020-02-04 20:43,16.08333333,3507.433333,3,2,"{'peterjc123': 23, 'realiti4': 12}","module:build, triaged"
+33044,alexeygolyshev,2020-02-06 14:22,6,2020-02-06 14:40,2020-02-07 4:27,17.85,844.1833333,3,3,"{'peterjc123': 3, 'ngimel': 2, 'alexeygolyshev': 1}",No labels
+33065,v0dro,2020-02-06 23:15,4,2020-02-10 11:26,2020-02-21 23:14,5051.166667,21599.01667,3,3,"{'fmassa': 1, 'v0dro': 2, 'ngimel': 1}","module:cpu, module:performance, triaged"
+33141,ghost,2020-02-10 16:49,1,2020-02-11 2:07,2020-02-20 18:33,558.05,14504.2,2,1,{'cpuhrsch': 1},"module:performance, triaged"
+33238,ousou,2020-02-12 14:11,5,2020-02-13 12:37,2020-04-22 7:21,1346.033333,100389.9167,3,2,"{'ousou': 4, 'algoterranean': 1}","module:dataparallel, triaged"
+33334,hl475,2020-02-14 5:24,6,2020-02-14 5:26,2020-03-04 20:48,2.3,28283.73333,6,3,"{'hl475': 3, 'mingfeima': 2, 'peterbell10': 1}","highpriority, module:performance, triaged"
+33335,manza-ari,2020-02-14 5:28,4,2020-02-14 6:21,2020-02-18 19:09,52.78333333,6581.283333,4,4,"{'ptrblck': 1, 'manza-ari': 1, 'agolynski': 1, 'VitalyFedyunin': 1}","module:performance, triaged"
+33407,as754770178,2020-02-17 1:28,6,2020-02-18 7:30,2020-02-26 0:53,1802.083333,12925.23333,3,2,"{'as754770178': 5, 'SsnL': 1}","module:dataloader, triaged"
+33414,FantasyJXF,2020-02-17 8:00,3,2020-02-17 9:09,2020-02-17 9:47,68.91666667,107.5333333,2,2,"{'FantasyJXF': 2, 'jzw0025': 1}",No labels
+33544,markovka17,2020-02-20 11:35,0,No comments,2020-02-21 23:11,No comments,2136.45,3,0,{},"module:numpy, module:performance, module:random, triaged"
+33647,raghuramank100,2020-02-22 2:36,4,2020-02-24 1:30,2020-02-26 18:21,2813.733333,6705.1,4,3,"{'ngimel': 2, 'csarofeen': 1, 'raghuramank100': 1}",oncall:quantization
+33658,yaoyiran,2020-02-22 14:53,4,2020-02-22 14:57,2020-02-24 22:08,3.966666667,3314.683333,3,3,"{'yaoyiran': 2, 'albanD': 1, 'ngimel': 1}","module:cuda, module:performance, triaged"
+33804,owenhust,2020-02-26 6:11,11,2020-02-26 8:02,2020-02-26 22:33,111.6166667,982.35,6,5,"{'peterjc123': 3, 'owenhust': 5, 'Tomhouxin': 1, 'vadimkantorov': 1, 'mruberry': 1}","module:performance, needsreproduction, triaged"
+33822,riyadshairi979,2020-02-26 18:52,2,2020-02-26 20:12,2020-02-26 20:12,79.76666667,79.76666667,3,2,"{'ngimel': 1, 'riyadshairi979': 1}","module:multithreading, module:performance, triaged"
+3387,LambdaWill,2017-10-31 3:18,5,2017-10-31 3:27,2017-10-31 8:46,9.183333333,328.2333333,4,3,"{'fmassa': 3, 'LambdaWill': 1, 'FDSJK': 1}",No labels
+33933,kazemSafari,2020-02-28 7:25,5,2020-03-06 17:14,2020-03-08 11:13,10668.81667,13188.05,5,4,"{'Baranowski': 2, 'kazemSafari': 1, 'duaisha': 1, 'linjiapro': 1}","highpriority, module:memoryusage, module:serialization, triaged"
+3394,pbloem,2017-10-31 15:12,2,2017-11-01 9:48,2017-11-01 10:00,1116.016667,1128.4,2,2,"{'pbloem': 1, 'soumith': 1}",No labels
+3398,YazhiGao,2017-10-31 17:59,3,2017-10-31 18:07,2017-11-03 2:35,7.283333333,3395.933333,2,2,"{'ngimel': 1, 'YazhiGao': 2}",No labels
+34057,522730312,2020-03-02 10:01,1,2020-03-02 20:04,2020-03-02 20:04,603.6,603.6,2,1,{'ezyang': 1},"oncall:jit, triaged"
+34089,ducha-aiki,2020-03-02 21:29,3,2020-03-09 5:54,2020-03-11 14:18,9144.683333,12529.3,4,3,"{'ptrblck': 1, 'ducha-aiki': 1, 'ngimel': 1}","module:convolution, module:performance, triaged"
+34359,hhwode,2020-03-06 5:37,6,2020-03-11 22:00,2020-06-15 0:02,8183.85,145105.6167,6,5,"{'mrshenli': 2, 'rohan-varma': 1, 'jjlilley': 1, 'hhwode': 1, 'pritamdamania87': 1}","module:rpc, oncall:distributed, triaged"
+34714,jjabo,2020-03-13 13:26,5,2020-03-16 16:35,2020-03-18 0:51,4508.933333,6444.55,4,4,"{'agolynski': 1, 'neerajprad': 2, 'jjabo': 1, 'fritzo': 1}","module:distributions, module:performance, triaged"
+3472,bryanhe,2017-11-03 20:42,2,2017-11-03 20:57,2018-10-01 1:46,14.68333333,476943.95,3,2,"{'ebetica': 1, 'weiyangfb': 1}",module:sparse
+34882,huangrichen11,2020-03-17 13:44,1,2020-03-17 13:46,2020-03-17 13:46,2.15,2.15,2,1,{'peterjc123': 1},No labels
+34964,romanpogodin,2020-03-18 18:02,2,2020-03-20 1:59,2020-05-01 19:07,1917.733333,63424.96667,6,2,"{'ezyang': 1, 'yf225': 1}","highpriority, module:autograd, module:memoryusage, module:sparse, triaged"
+3498,grantsrb,2017-11-06 8:39,0,No comments,2017-11-07 17:47,No comments,1988.033333,3,0,{},No labels
+35188,ipcoder,2020-03-22 16:41,1,2020-03-22 20:48,2020-03-22 20:48,246.3666667,246.3666667,1,1,{'ipcoder': 1},No labels
+35276,mostafarohani,2020-03-24 4:02,2,2020-03-24 6:48,2020-03-24 17:21,166.2166667,799.1,3,2,"{'ptrblck': 1, 'albanD': 1}",No labels
+35292,sjf18,2020-03-24 12:38,1,2020-03-24 16:58,2020-03-24 16:58,260.0833333,260.0833333,2,1,{'albanD': 1},No labels
+3540,meder411,2017-11-07 19:20,5,2017-11-07 21:58,2017-11-17 22:08,158.3,14567.95,3,2,"{'zou3519': 2, 'meder411': 3}",No labels
+35561,huijunzhao-ds,2020-03-27 19:17,22,2020-03-30 9:13,2020-11-06 19:13,3716.133333,322556.7667,16,14,"{'julianmack': 1, 'huijunzhao-ds': 5, 'ailzhang': 2, 'ezyang': 1, 'gchanan': 2, 'zdevito': 2, 'jerryzh168': 2, 'dzhulgakov': 1, 'suo': 1, 'ngimel': 1, 'Exlsunshine': 1, 'Baranowski': 1, 'peterbell10': 1, 'mruberry': 1}","highpriority, module:multithreading, module:performance, module:regression, needsreproduction, triaged"
+35940,JianpingChen066,2020-04-03 8:21,9,2020-04-03 8:24,2020-04-08 8:43,3.2,7221.55,5,4,"{'JianpingChen066': 4, 'ezyang': 2, 'VitalyFedyunin': 1, 'mingzhe09088': 2}","highpriority, module:multithreading, module:openmp, module:performance, triaged"
+36038,JianpingChen066,2020-04-05 6:19,10,2020-04-06 14:48,2020-04-27 18:19,1949.766667,32400.2,4,3,"{'ezyang': 1, 'wanchaol': 4, 'JianpingChen066': 5}","highpriority, module:autograd, module:performance, triaged"
+3606,SsnL,2017-11-09 19:41,6,2017-11-09 21:54,2017-12-21 19:07,132.7,60445.16667,4,4,"{'colesbury': 1, 'SsnL': 2, 'soumith': 2, 'albanD': 1}",No labels
+3610,SsnL,2017-11-09 22:16,5,2017-11-21 11:45,2018-04-15 19:59,16648.81667,225943,4,3,"{'ducksoup': 1, 'soumith': 2, 'SsnL': 2}",highpriority
+36120,skyw,2020-04-07 3:07,2,2020-04-11 18:56,2020-04-15 23:21,6708.8,12733.78333,4,2,"{'rckitson': 1, 'pritamdamania87': 1}","module:performance, module:sparse, triaged"
+36155,lly-zero-one,2020-04-07 18:33,0,No comments,2020-10-08 17:09,No comments,264876.0333,6,0,{},"module:convolution, module:cpu, module:nn, module:performance, triaged"
+36214,Cyril9227,2020-04-08 7:08,6,2020-04-08 23:30,2020-05-20 17:53,981.4333333,61125.13333,5,5,"{'gchanan': 1, 'mickypaganini': 2, 'Cyril9227': 1, 'zeyu-hello': 1, 'albanD': 1}","module:pruning, triaged"
+36272,rohan-varma,2020-04-08 22:09,2,2020-04-24 23:23,2020-05-06 20:28,23114.21667,40219.45,2,1,{'rohan-varma': 2},"module:rpc, triaged"
+36298,YingleiZhang,2020-04-09 7:48,4,2020-04-09 23:01,2020-04-11 4:12,912.6833333,2663.1,3,2,"{'osalpekar': 2, 'YingleiZhang': 2}","oncall:distributed, triaged"
+36403,albanD,2020-04-10 19:08,12,2020-04-10 19:58,2020-07-14 21:23,50.21666667,136935.25,5,4,"{'vadimkantorov': 4, 'albanD': 5, 'cpuhrsch': 1, 'Baranowski': 2}","actionable, highpriority, module:autograd, module:internals, triaged"
+36452,gzygzy9211,2020-04-12 8:45,2,2020-04-15 15:06,2020-04-25 0:26,4701.25,18221.41667,3,2,"{'gzygzy9211': 1, 'xwang233': 1}","module:performance, triaged"
+3646,zhanghang1989,2017-11-11 19:27,4,2017-11-11 20:45,2018-08-14 19:59,78,397472.5667,5,4,"{'soumith': 1, 'auzxb': 1, 'fmassa': 1, 'ailzhang': 1}",highpriority
+3665,jiesutd,2017-11-13 11:24,23,2017-11-13 12:13,2018-06-25 20:11,49.41666667,323087.3167,11,11,"{'apaszke': 1, 'jiesutd': 2, 'SsnL': 10, 'soumith': 1, 'ngimel': 3, 'mdering': 1, 'Evpok': 1, 'bangbangjim': 1, 'zou3519': 1, 'konstantinosKokos': 1, 'Stonesjtu': 1}",No labels
+3685,joshim5,2017-11-14 2:40,3,2017-11-14 2:41,2020-05-26 16:06,0.683333333,1331365.483,3,3,"{'joshim5': 1, 'jihunchoi': 1, 'ezyang': 1}",No labels
+36900,andyljones,2020-04-19 12:50,6,2020-04-20 6:08,2020-05-28 8:33,1037.816667,55902.3,7,3,"{'ngimel': 3, 'vadimkantorov': 2, 'XiaobingSuper': 1}","highpriority, module:performance, triaged"
+37053,kurtamohler,2020-04-22 4:25,9,2020-04-22 4:27,2020-05-14 17:42,1.416666667,32476.93333,2,2,"{'kurtamohler': 6, 'ngimel': 3}","module:cpu, module:performance, triaged"
+37062,tuanhanhdmprof,2020-04-22 9:44,6,2020-04-22 9:52,2020-04-22 22:45,7.433333333,780.75,5,5,"{'peterjc123': 1, 'tuanhanhdmprof': 2, 'colesbury': 1, 'mruberry': 1, 'gchanan': 1}","module:cpu, triaged"
+3710,Gosicfly,2017-11-15 3:12,1,2017-11-15 3:16,2017-11-15 3:16,3.883333333,3.883333333,2,1,{'soumith': 1},No labels
+3718,rdspring1,2017-11-15 17:00,13,2017-11-15 20:38,2020-05-09 6:21,217.9166667,1304000.85,11,10,"{'soumith': 1, 'fritzo': 1, 'rdspring1': 3, 'magic282': 2, 'yinhanliu': 1, 'hveigz': 1, 'TimidLion': 1, 'Santosh-Gupta': 1, 'Wronskia': 1, 'mruberry': 1}","module:nn, triaged"
+37259,SSS135,2020-04-24 20:12,11,2020-04-26 20:25,2020-05-11 20:26,2893.883333,24494.41667,7,4,"{'ngimel': 2, 'kshitij12345': 1, 'peterbell10': 3, 'ilia-cher': 5}","hasworkaround, highpriority, module:multithreading, module:performance, triaged"
+37264,chenhao1umbc,2020-04-24 22:18,2,2020-04-25 1:08,2020-04-25 2:02,170.5666667,224.4,2,2,"{'fgvbrt': 1, 'chenhao1umbc': 1}",No labels
+37308,praveen-14,2020-04-25 18:52,5,2020-04-26 2:32,2020-04-29 17:01,459.6,5648.15,4,3,"{'pinzhenx': 2, 'praveen-14': 2, 'VitalyFedyunin': 1}","module:mkldnn, module:performance, triaged"
+3732,iammarvelous,2017-11-16 3:25,5,2017-11-16 3:30,2018-01-17 10:52,4.566666667,89726.78333,5,5,"{'soumith': 1, 'iammarvelous': 1, 'Kaixhin': 1, 'Erotemic': 1, 'apaszke': 1}",No labels
+37541,cpuhrsch,2020-04-29 22:41,4,2020-04-30 15:11,2020-05-01 4:07,989.6,1766,3,2,"{'colesbury': 1, 'cpuhrsch': 3}",No labels
+3755,auzxb,2017-11-17 9:30,2,2017-11-17 10:09,2017-12-01 22:07,38.76666667,20917.05,3,2,"{'apaszke': 1, 'soumith': 1}",No labels
+37730,lopuhin,2020-05-03 9:02,7,2020-05-04 7:09,2020-12-24 18:47,1326.7,338984.6667,7,6,"{'ptrblck': 1, 'lopuhin': 1, 'kaimingkuang': 1, 'jareturing': 1, 'neonbjb': 1, 'mcarilli': 2}","hasworkaround, module:amp(automatedmixedprecision), triaged"
+37754,dvirginz,2020-05-04 9:44,2,2020-05-04 20:30,2020-05-05 6:44,646.45,1259.816667,2,2,"{'ngimel': 1, 'dvirginz': 1}","module:memoryusage, triaged"
+37928,peterjc123,2020-05-06 14:43,3,2020-05-06 15:17,2020-05-06 18:06,34.66666667,203.6833333,1,1,{'peterjc123': 3},No labels
+3801,apaszke,2017-11-20 22:43,1,2020-05-26 16:18,2020-05-26 16:18,1321534.6,1321534.617,2,1,{'ezyang': 1},No labels
+38100,nflu,2020-05-08 2:23,2,2020-05-08 2:38,2020-05-08 2:38,15.53333333,15.53333333,2,2,"{'SsnL': 1, 'nflu': 1}",No labels
+38117,NortonAhu,2020-05-08 14:00,4,2020-05-08 19:37,2020-05-11 10:31,336.85,4111.066667,2,2,"{'malfet': 1, 'NortonAhu': 3}","module:android, module:memoryusage, oncall:mobile, triaged"
+38183,xwang233,2020-05-09 5:46,2,2020-05-11 20:27,2020-06-23 18:10,3760.183333,65543.86667,3,2,"{'xwang233': 1, 'ilia-cher': 1}","module:profiler, triaged"
+3824,hudongloop,2017-11-22 1:44,5,2017-11-22 15:26,2018-06-28 0:18,822.3333333,313833.9,5,4,"{'zou3519': 2, 'soumith': 1, 'colesbury': 1, 'li-roy': 1}",highpriority
+38342,mravanelli,2020-05-12 18:46,16,2020-05-13 5:21,2020-11-12 18:12,635.25,264926.3,6,5,"{'suo': 1, 'mravanelli': 3, 'Krovatkin': 5, 'vincentqb': 4, 'ZolotukhinM': 3}","oncall:jit, triaged"
+3835,apaszke,2017-11-22 13:58,3,2017-12-01 21:55,2018-06-28 0:17,13437.5,313099.15,4,3,"{'soumith': 1, 'dmarnerides': 1, 'li-roy': 1}",highpriority
+38413,SsnL,2020-05-13 18:19,2,2020-10-14 17:08,2020-10-14 17:26,221688.9167,221707.5333,5,2,"{'peterbell10': 1, 'ngimel': 1}","module:cuda, module:fft, module:performance, triaged"
+38545,mattip,2020-05-15 10:17,6,2020-05-15 14:35,2020-05-26 23:12,257.6666667,16615.31667,4,3,"{'ezyang': 1, 'neginraoof': 4, 'mattip': 1}","module:onnx, module:tests, triaged"
+38636,laizewei,2020-05-18 5:05,4,2020-05-18 6:46,2020-06-01 17:04,100.4166667,20878.78333,5,3,"{'peterjc123': 2, 'gchanan': 1, 'glaringlee': 1}","module:cpp, triaged"
+38717,ioir123ju,2020-05-19 10:36,10,2020-05-19 15:21,2020-06-01 17:15,284.65,19118.21667,4,4,"{'glaringlee': 4, 'ioir123ju': 3, 'amandeep1991': 1, 'ezyang': 2}","module:memoryusage, triagereview, triaged"
+3882,Randl,2017-11-26 12:21,3,2017-11-27 14:25,2017-12-19 15:42,1563.883333,33321,3,3,"{'ozancaglayan': 1, 'SsnL': 1, 'Randl': 1}",No labels
+38966,Roffild,2020-05-24 20:06,7,2020-05-26 18:50,2020-06-03 15:29,2803.666667,14122.88333,5,4,"{'ezyang': 2, 'Roffild': 2, 'peterbell10': 2, 'ngimel': 1}","highpriority, module:cuda, module:memoryusage, triaged"
+39005,Sylvia-Vee,2020-05-26 10:57,1,2020-05-26 19:36,2020-05-26 19:36,519.1,519.35,2,1,{'ezyang': 1},No labels
+3917,al3xsh,2017-11-28 10:12,14,2017-11-28 10:27,2020-06-12 4:40,15.36666667,1334548.683,6,6,"{'zhengyunqq': 1, 'apaszke': 6, 'al3xsh': 2, 'chenyangh': 2, 'younghe': 2, 'mruberry': 1}",No labels
+39238,aledjackson,2020-05-29 11:06,4,2020-05-30 19:16,2020-06-01 14:11,1930.383333,4505.3,3,3,"{'aledjackson': 2, 'gchanan': 1, 'albanD': 1}","module:autograd, module:memoryusage, triaged"
+393,szagoruyko,2017-01-02 14:49,8,2017-01-02 15:29,2017-04-18 21:47,39.23333333,153058.0167,4,4,"{'szagoruyko': 4, 'apaszke': 1, 'colesbury': 2, 'soumith': 1}",mediumpriority(thistagisdeprecated)
+39391,drozzy,2020-06-02 8:02,2,2020-06-02 20:12,2020-06-03 15:25,729.9666667,1883.383333,3,2,"{'ShawnZhong': 1, 'izdeby': 1}",No labels
+39438,WaterKnight1998,2020-06-03 10:44,13,2020-06-05 18:43,2020-06-10 21:43,3359.566667,10739.85,4,2,"{'suo': 5, 'WaterKnight1998': 8}","oncall:jit, triaged"
+3959,todpole3,2017-12-01 3:21,4,2017-12-05 17:50,2018-07-19 19:59,6629.1,332198.4333,4,3,"{'zou3519': 2, 'todpole3': 1, 'SsnL': 1}",highpriority
+39624,Randl,2020-06-06 9:53,3,2020-06-06 10:03,2020-06-09 6:54,10.56666667,4141.416667,3,3,"{'Randl': 1, 'VitalyFedyunin': 1, 'ngimel': 1}","module:performance, triaged"
+39649,otakuxiang,2020-06-08 5:56,16,2020-06-08 15:26,2020-06-08 18:59,570.7333333,783.3333333,5,3,"{'glaringlee': 3, 'otakuxiang': 8, 'xuezu29': 5}","module:cpp, module:performance, triaged"
+39694,mcarilli,2020-06-09 3:04,1,2020-06-09 3:11,2020-10-29 22:45,7.383333333,205661.4667,3,1,{'SsnL': 1},"module:cuda, module:performance, triaged"
+39784,patrick-kidger,2020-06-10 15:06,5,2020-06-15 19:02,2021-02-11 17:24,7435.666667,354378.15,4,3,"{'albanD': 3, 'SsnL': 1, 'patrick-kidger': 1}","module:autograd, triaged"
+39815,Krovatkin,2020-06-10 21:55,2,2020-06-10 21:58,2020-06-10 22:05,2.25,9.183333333,1,1,{'Krovatkin': 2},jit-backlog
+3983,andreasrobinson,2017-12-02 20:46,2,2017-12-03 17:07,2020-06-12 4:39,1221.55,1328153,2,2,"{'andreasrobinson': 1, 'mruberry': 1}",No labels
+39842,songtaoshi,2020-06-11 3:27,10,2020-06-11 4:24,2021-02-04 3:56,56.75,342749.0667,6,4,"{'ngimel': 1, 'mruberry': 4, 'robin5540': 2, 'touqir14': 3}","goodfirstissue, hasworkaround, module:numpy, module:performance, triaged"
+39929,laizewei,2020-06-12 6:08,2,2020-06-12 10:00,2020-06-12 14:25,231.9333333,497.4833333,3,2,"{'peterjc123': 1, 'laizewei': 1}",triaged
+39988,Viczyf,2020-06-13 9:21,1,2020-06-15 16:07,2020-06-15 16:07,3286.383333,3286.383333,3,1,{'ngimel': 1},"module:nn, module:performance, triaged"
+3999,playma,2017-12-04 12:42,3,2017-12-04 15:55,2017-12-04 17:53,192.7166667,311.25,3,3,"{'zou3519': 1, 'soumith': 1, 'playma': 1}",No labels
+40002,gogoIsComing,2020-06-14 4:01,3,2020-06-17 11:32,2020-11-10 16:07,4770.866667,215285.4333,4,3,"{'justmert': 1, 'Aceticia': 1, 'gogoIsComing': 1}","module:cuda, module:memoryusage, triaged"
+40005,maroo-sky,2020-06-14 5:48,1,2020-06-15 18:29,2020-06-15 18:29,2201.25,2201.25,3,1,{'albanD': 1},"module:memoryusage, module:nn, triaged"
+4007,frkl,2017-12-04 19:41,2,2017-12-04 21:12,2017-12-28 10:24,91.31666667,34002.51667,4,2,"{'SsnL': 1, 'vishwakftw': 1}",No labels
+40073,Marimauer,2020-06-16 2:47,11,2020-06-22 17:13,2020-10-05 16:42,9505.916667,160674.2,8,6,"{'ezyang': 1, 'rohan-varma': 2, 'Marimauer': 3, 'ngimel': 1, 'mcarilli': 3, 'calclavia': 1}","highpriority, module:amp(automatedmixedprecision), module:cuda, module:memoryusage, needsreproduction, oncall:distributed, triaged"
+40387,kunalgoyal9,2020-06-22 18:09,2,2020-06-24 22:08,2020-09-03 22:32,3118.833333,105382.5167,3,1,{'spandantiwari': 2},"module:onnx, triaged"
+40562,klauskades,2020-06-25 14:38,1,2020-06-25 16:07,2020-06-25 16:07,89.2,89.2,2,1,{'gchanan': 1},"module:memoryusage, triaged"
+40664,MJITG,2020-06-27 14:21,5,2020-06-28 22:18,2020-06-29 17:56,1917.633333,3095.25,4,3,"{'Geeks-Sid': 2, 'MJITG': 2, 'ngimel': 1}","module:convolution, triaged"
+40767,Laksh1997,2020-06-30 12:45,1,2020-06-30 14:23,2020-06-30 14:23,97.91666667,97.91666667,2,1,{'colesbury': 1},No labels
+4081,csarofeen,2017-12-07 21:58,21,2017-12-08 0:16,2018-01-05 20:55,137.2666667,41696.78333,7,6,"{'ezyang': 2, 'csarofeen': 1, 'colesbury': 3, 'lantiga': 6, 'ngimel': 7, 'apaszke': 2}",No labels
+40911,FabianIsensee,2020-07-02 12:44,16,2020-07-02 16:40,2020-10-05 16:52,236.0333333,137048.05,5,4,"{'FabianIsensee': 10, 'albanD': 1, 'mcarilli': 4, 'tsaizhenling': 1}","highpriority, module:amp(automatedmixedprecision), module:cuda, module:memoryusage, triaged"
+40973,williamdias,2020-07-03 20:48,6,2020-07-07 1:49,2020-07-21 1:02,4621.733333,24734.65,6,4,"{'ngimel': 1, 'williamdias': 2, 'ilia-cher': 2, 'mattip': 1}","highpriority, module:memoryusage, triaged"
+41057,interesaaat,2020-07-07 0:51,4,2020-07-07 1:43,2020-07-08 5:50,51.73333333,1739.316667,3,3,"{'ngimel': 1, 'interesaaat': 2, 'ezyang': 1}","highpriority, module:performance, triagereview"
+41115,ngimel,2020-07-08 5:18,0,No comments,2020-07-10 16:22,No comments,3544.683333,2,0,{},"highpriority, oncall:quantization, triagereview"
+41308,n-gao,2020-07-11 14:22,2,2020-09-25 8:34,2020-09-25 9:15,109091.8,109132.55,3,2,"{'mszhanyi': 1, 'n-gao': 1}","module:cuda, module:performance, module:windows, triaged, windows-triaged"
+41333,wumeng2,2020-07-13 9:20,1,2020-07-13 16:13,2020-07-13 16:13,413.15,413.15,2,1,{'ailzhang': 1},No labels
+41359,albanD,2020-07-13 18:35,5,2020-07-14 20:15,2020-08-11 11:28,1540.483333,41333.86667,3,2,"{'albanD': 3, 'SsnL': 2}","actionable, module:autograd, module:cpp, module:performance, triaged"
+41382,swpd,2020-07-14 2:40,5,2020-07-14 3:54,2020-07-16 3:44,74.35,2944.633333,5,4,"{'xwang233': 1, 'swpd': 2, 'ptrblck': 1, 'ngimel': 1}","module:convolution, module:cudnn, module:dependencybug, module:performance, triaged"
+41427,CoderHam,2020-07-14 21:07,4,2020-07-15 0:35,2020-11-06 19:11,208.4833333,165484.1667,6,4,"{'xsacha': 1, 'ezyang': 1, 'rgommers': 1, 'mruberry': 1}","highpriority, module:cuda, module:memoryusage, module:nn, needsreproduction, triaged"
+41467,samringer,2020-07-15 10:13,2,2020-07-16 2:52,2020-11-11 3:41,999.1833333,170968.0667,5,2,"{'ezyang': 1, 't-vi': 1}","module:cuda, module:linearalgebra, module:performance, triaged"
+41865,estrulyov,2020-07-22 19:55,22,2020-07-23 18:40,2020-08-05 18:53,1365.2,20097.75,7,5,"{'ngimel': 1, 'dskhudia': 3, 'estrulyov': 9, 'ezyang': 1, 'wconstab': 8}","days, highpriority, module:internals, module:performance, oncall:jit, oncall:quantization, triagereview, triaged"
+4190,Prinsphield,2017-12-15 4:01,5,2017-12-15 4:05,2017-12-15 14:31,3.966666667,629.8333333,3,3,"{'SsnL': 1, 'Prinsphield': 3, 'soumith': 1}",No labels
+4194,fredyjl,2017-12-15 12:08,1,2017-12-15 14:32,2017-12-15 14:32,143.4833333,143.4833333,2,1,{'soumith': 1},No labels
+4207,Minthos,2017-12-16 10:40,27,2017-12-16 10:42,2019-08-05 3:31,1.683333333,859251.2167,26,25,"{'Minthos': 3, 'zou3519': 1, 'SarveshTS': 1, 'ashukrishna100': 1, 'hennypurnomo': 1, 'AbsolutelySaurabh': 1, 'xiaoshir': 1, 'gcourtade': 1, 'muhammadnasif': 1, 'noeboito': 1, 'MohgaEmam': 1, 'sreerajr137': 1, 'ni40in': 1, 'Yaozuwu': 1, 'soumith': 1, 'YehudaItkin': 1, 'AziziShekoofeh': 1, 'desikazone': 1, 'djdeepak88': 1, 'Jephthah2018': 1, 'sruthibc06': 1, 'vipul1799': 1, 'bunny64': 1, 'Anku5hk': 1, 'nayanex': 1}","module:binaries, triaged"
+42108,densechen,2020-07-27 13:04,2,2020-07-27 16:15,2020-07-27 16:56,191.25,231.9833333,3,2,"{'Nikronic': 1, 'ngimel': 1}",No labels
+4211,JindongJiang,2017-12-17 6:35,2,2017-12-17 6:41,2017-12-17 7:17,5.733333333,42.55,1,1,{'JindongJiang': 2},No labels
+42111,ysyyork,2020-07-27 15:43,0,No comments,2020-07-27 16:14,No comments,30.75,1,0,{},No labels
+42213,apeguero1,2020-07-29 1:40,10,2020-07-29 11:35,2020-08-12 15:40,595.3833333,21000.1,6,5,"{'mthrok': 3, 'apeguero1': 2, 'mruberry': 1, 'mattip': 2, 'ngimel': 2}","highpriority, module:performance, triaged"
+42265,sandeepkumar-skb,2020-07-29 23:53,5,2020-07-30 0:02,2020-09-19 3:49,8.566666667,73675.9,6,4,"{'ptrblck': 1, 'xwang233': 1, 'mkolod': 2, 'vishwakftw': 1}","module:cuda, module:linearalgebra, module:performance, triaged"
+42288,tgisaturday,2020-07-30 5:46,4,2020-07-30 21:16,2020-12-23 1:50,929.8666667,210003.6167,5,3,"{'vkuzo': 1, 'gemfield': 1, 'jerryzh168': 2}","oncall:quantization, triaged"
+42371,rotabulo,2020-07-31 16:47,12,2020-08-03 4:51,2020-10-19 18:16,3604.716667,115289.4167,8,5,"{'ngimel': 2, 'gchanan': 1, 'mruberry': 1, 'albanD': 2, 'kurtamohler': 6}","highpriority, module:autograd, module:memoryusage, module:nn, triaged"
+42433,Codingrunningman,2020-08-03 2:50,4,2020-08-03 16:52,2020-08-07 14:41,841.3833333,6470.833333,2,2,"{'agolynski': 1, 'Codingrunningman': 3}","module:cublas, module:openmp, module:performance, triaged"
+4245,vic4ever,2017-12-19 0:22,3,2017-12-19 18:13,2017-12-19 19:25,1070.766667,1143.033333,2,2,"{'colesbury': 2, 'vic4ever': 1}",No labels
+42501,kurtamohler,2020-08-04 1:48,3,2020-08-04 2:16,2020-08-23 10:59,27.58333333,27910.4,4,3,"{'kurtamohler': 1, 'nbcsm': 1, 'guyang3532': 1}","module:cuda, module:memoryusage, module:windows, triaged"
+42601,h6197627,2020-08-05 15:00,6,2020-08-05 21:37,2020-12-16 21:42,396.4666667,191921.9833,4,4,"{'malfet': 1, 'DiegoTorresSED': 1, 'dreiss': 2, 'h6197627': 2}","caffe2, module:performance, oncall:mobile, triaged"
+42646,yf225,2020-08-06 0:18,7,2020-08-06 15:21,2020-09-02 18:09,903.2666667,39950.53333,4,4,"{'gmagogsfm': 2, 'SplitInfinity': 2, 'yf225': 2, 'wanchaol': 1}","days, oncall:jit"
+42730,ghimireadarsh,2020-08-07 12:07,5,2020-08-07 16:28,2020-08-07 17:15,260.9666667,308.2833333,4,4,"{'ezyang': 2, 'oke-aditya': 1, 'seemethere': 1, 'ghimireadarsh': 1}","module:binaries, triaged"
+42748,danieltudosiu,2020-08-07 20:03,2,2020-08-08 3:53,2020-08-10 22:41,470.1833333,4477.7,4,2,"{'ngimel': 1, 'albanD': 1}","module:autograd, triaged"
+4275,windweller,2017-12-20 15:54,2,2017-12-20 16:02,2017-12-20 16:02,8.216666667,8.216666667,2,2,"{'apaszke': 1, 'windweller': 1}",No labels
+42777,laohur,2020-08-08 11:36,1,2020-08-15 7:48,2020-08-15 7:48,9852.583333,9852.6,3,1,{'robieta': 1},"module:performance, triaged"
+42890,albanD,2020-08-12 1:14,5,2020-08-12 18:54,2020-11-16 19:36,1059.75,139342.1,5,3,"{'wanchaol': 2, 'albanD': 2, 'pritamdamania87': 1}","actionable, module:autograd, triaged"
+43036,pbelevich,2020-08-13 22:51,3,2020-08-14 19:07,2020-08-17 17:35,1215.3,5443.316667,4,2,"{'malfet': 2, 'ezyang': 1}","csprng, highpriority, module:build, module:cpu, module:openmp, module:osx, triaged"
+43143,albanD,2020-08-17 16:13,9,2020-08-17 17:06,2020-08-21 0:39,53.06666667,4826.733333,5,5,"{'izdeby': 1, 'ezyang': 1, 'malfet': 4, 'anjali411': 1, 'albanD': 2}","highpriority, module:complex"
+43153,munael,2020-08-17 19:58,4,2020-08-17 23:23,2020-08-18 13:55,205.0666667,1076.483333,2,2,"{'colesbury': 3, 'munael': 1}",No labels
+43192,tobiasfshr,2020-08-18 8:34,3,2020-10-19 15:54,2020-11-09 23:17,89719.66667,120402.9,5,3,"{'zou3519': 1, 'ngimel': 1, 'tobiasfshr': 1}","module:autograd, module:performance, triaged"
+43359,soniab,2020-08-20 21:31,3,2020-08-21 15:14,2021-01-10 22:30,1063.016667,205978.9,4,2,"{'ezyang': 2, 'VitalyFedyunin': 1}","module:cpu, module:performance, module:vectorization, triaged"
+43552,Mohamed209,2020-08-25 13:44,1,2020-08-26 3:56,2020-08-26 3:56,851.7333333,851.7333333,3,1,{'mruberry': 1},"module:nn, module:pruning, triaged"
+43837,fatvlady,2020-08-29 15:19,15,2020-08-31 8:34,2020-12-03 10:43,2474.983333,137964.7667,6,5,"{'fatvlady': 5, 'fritzo': 4, 'fehiepsi': 2, 'ezyang': 2, 'albanD': 2}","module:autograd, module:performance, triaged"
+4396,deepbrain,2017-12-28 22:03,11,2017-12-29 10:35,2018-01-03 18:44,752.2166667,8441.65,3,3,"{'apaszke': 6, 'deepbrain': 4, 'jekbradbury': 1}",oncall:jit
+44025,david-macleod,2020-09-02 9:35,7,2020-09-02 23:37,2020-10-07 19:12,842.3,50976.35,5,4,"{'ngimel': 1, 'vadimkantorov': 2, 'david-macleod': 2, 'peterbell10': 2}","module:cpu, module:performance, triaged"
+4404,pkdogcom,2017-12-29 7:14,2,2017-12-29 7:34,2017-12-31 0:33,19.66666667,2478.233333,1,1,{'pkdogcom': 2},No labels
+44206,mmarcinkiewicz,2020-09-04 17:56,17,2020-09-09 18:04,2020-12-03 2:27,7207.75,128671.4833,8,7,"{'ngimel': 2, 'mcarilli': 3, 'mmarcinkiewicz': 1, 'ptrblck': 1, 'CoinCheung': 5, 'xwang233': 3, 'placeforyiming': 2}","module:performance, triaged"
+44269,lsd1994,2020-09-07 2:43,4,2020-09-07 5:25,2020-09-07 18:48,161.9833333,965.1666667,4,4,"{'kshitij12345': 1, 'lsd1994': 1, 'robieta': 1, 'WANGCHAO1996': 1}",No labels
+44294,chrismaliszewski,2020-09-08 4:15,6,2020-09-08 16:44,2020-09-11 21:19,748.6833333,5344.45,6,5,"{'SsnL': 1, 'chrismaliszewski': 2, 'izdeby': 1, 'rgommers': 1, 'peterbell10': 1}","module:numpy, module:performance, triaged"
+4441,SsnL,2018-01-02 18:36,4,2018-01-02 21:49,2018-02-15 19:29,193.5666667,63412.96667,4,4,"{'colesbury': 1, 'elanmart': 1, 'SsnL': 1, 'soumith': 1}",No labels
+44484,robieta,2020-09-10 17:57,5,2020-09-11 4:21,2021-03-10 14:58,623.55,260461.0833,7,4,"{'ezyang': 1, 'ilia-cher': 1, 'gchanan': 1, 'albanD': 2}","highpriority, module:performance, module:profiler, triaged"
+44539,StevenAZy,2020-09-11 6:46,1,2020-09-11 21:21,2020-09-11 21:21,874.8,874.8,2,1,{'VitalyFedyunin': 1},No labels
+44707,CedricPicron,2020-09-15 12:14,6,2020-09-15 13:25,2020-09-15 21:09,70.4,535.1666667,3,3,"{'CedricPicron': 3, 'ngimel': 2, 'ak-source': 1}","module:performance, triaged"
+44739,zou3519,2020-09-15 21:45,4,2020-09-15 22:29,2020-09-16 19:30,43.26666667,1304.916667,2,2,"{'ngimel': 2, 'zou3519': 2}","module:linearalgebra, module:performance, triaged"
+44779,rgommers,2020-09-16 9:02,2,2020-09-16 9:06,2021-01-10 7:41,3.7,166958.9333,2,1,{'mruberry': 2},"module:numpy, triaged"
+44787,kyoungrok0517,2020-09-16 14:38,2,2020-09-16 23:32,2020-09-17 3:50,534.0333333,792.0833333,2,2,"{'kyoungrok0517': 1, 'mruberry': 1}",No labels
+45022,AinzWoolGoun,2020-09-19 8:51,5,2020-09-23 15:00,2020-09-24 14:37,6128.85,7546,3,3,"{'AinzWoolGoun': 2, 'ezyang': 2, 'ngimel': 1}","module:cuda, triaged"
+45268,harpone,2020-09-24 12:33,1,2020-09-24 12:36,2020-09-24 12:36,3.116666667,3.116666667,1,1,{'harpone': 1},No labels
+45334,chienpingtsung,2020-09-25 13:18,2,2020-09-25 14:35,2020-09-25 14:50,77.28333333,92.43333333,3,2,"{'zou3519': 1, 'albanD': 1}","highpriority, module:autograd, module:memoryusage, triagereview, triaged"
+4540,SebyakinAndrei,2018-01-08 21:44,12,2018-01-08 22:47,2018-02-10 11:24,63.58333333,46900.15,6,6,"{'SsnL': 1, 'SebyakinAndrei': 4, 'benvcutilli': 2, 'jiecaoyu': 3, 'emergencyd': 1, 'puneethrj': 1}",No labels
+45604,tomlifu,2020-09-30 20:51,5,2020-10-02 19:52,2021-01-08 0:17,2820.916667,142766.35,8,5,"{'Lilyjjo': 1, 'Krovatkin': 1, 'bertmaher': 1, 'ZolotukhinM': 1, 'eellison': 1}",oncall:jit
+45669,kurtamohler,2020-10-01 14:36,0,No comments,2020-10-08 18:00,No comments,10284.15,3,0,{},"module:linearalgebra, module:performance, triaged"
+4576,suke27,2018-01-10 12:18,1,2018-01-10 12:19,2018-01-10 12:19,0.883333333,0.883333333,2,1,{'apaszke': 1},No labels
+45822,hxssgaa,2020-10-04 16:09,10,2020-10-05 21:02,2020-10-05 21:02,1732.55,1732.566667,6,5,"{'ngimel': 1, 'hxssgaa': 3, 'ptrblck': 3, 'stas00': 1, 'Interesting6': 2}","module:cuda, module:cudnn, triaged"
+4588,prigoyal,2018-01-10 20:50,6,2018-01-10 21:05,2020-07-16 5:15,14.98333333,1320984.7,4,4,"{'ezyang': 2, 'prigoyal': 1, 'apaszke': 1, 'mruberry': 2}","module:tests, triaged"
+45967,rickstaa,2020-10-07 12:08,2,2020-10-08 0:01,2020-10-08 7:23,713.8166667,1155.033333,3,2,"{'ppwwyyxx': 1, 'rickstaa': 1}",oncall:jit
+45968,david-macleod,2020-10-07 12:28,6,2020-10-07 19:00,2020-10-12 23:20,392.2666667,7852.016667,4,4,"{'rohan-varma': 1, 'pritamdamania87': 1, 'david-macleod': 2, 'SciPioneer': 2}","module:ddp, oncall:distributed"
+45970,aryanbdps9,2020-10-07 13:59,1,2020-10-07 14:52,2020-10-07 14:52,52.1,52.1,2,1,{'vkuzo': 1},No labels
+45985,gmagogsfm,2020-10-07 18:31,3,2020-10-14 19:03,2021-02-18 0:17,10112.11667,191866.3667,3,1,{'gmagogsfm': 3},"days, module:bootcamp, oncall:jit"
+46086,SpartaG117,2020-10-09 12:38,5,2020-10-10 22:31,2021-01-13 0:53,2032.85,137534.8333,4,3,"{'ngimel': 2, 'xiaomengy': 2, 'SpartaG117': 1}","module:nn, module:normsandnormalization, module:performance, triaged"
+46380,xsacha,2020-10-15 7:08,6,2020-10-15 16:51,2020-10-19 19:27,582.8666667,6498.633333,6,3,"{'eellison': 1, 'xsacha': 3, 'Krovatkin': 2}","highpriority, oncall:jit, triagereview"
+46529,wagnifico,2020-10-19 9:24,1,2020-10-20 15:32,2021-01-10 22:26,1807.733333,120301.6333,3,1,{'VitalyFedyunin': 1},"module:multiprocessing, module:multithreading, module:performance, triaged"
+46649,TianzhongSong,2020-10-21 10:23,4,2020-10-21 10:28,2020-10-23 17:17,5.383333333,3294.9,3,2,"{'TianzhongSong': 2, 'mcarilli': 2}","module:amp(automatedmixedprecision), module:cpp, module:memoryusage, triaged"
+46874,osalpekar,2020-10-26 20:49,1,2020-10-27 0:35,2020-10-27 0:35,226.2333333,226.2333333,2,1,{'osalpekar': 1},"oncall:distributed, triaged"
+46936,zou3519,2020-10-27 19:32,2,2020-11-16 22:10,2020-12-30 16:25,28957.35,91972.3,3,2,"{'zou3519': 1, 'anjali411': 1}","module:complex, module:performance, module:regression, triaged"
+47039,P3n9W31,2020-10-29 4:37,16,2020-10-29 6:16,2020-10-29 14:51,99.48333333,614.8833333,7,7,"{'ptrblck': 4, 'P3n9W31': 3, 'albanD': 1, 'pdima': 2, 'irishev': 1, 'megamuzzy': 4, 'hhcs9527': 1}",No labels
+47180,snsun,2020-11-02 9:00,1,2020-11-11 3:17,2020-11-11 3:18,12617.4,12617.63333,2,1,{'snsun': 1},oncall:quantization
+47313,ngimel,2020-11-03 20:45,4,2020-11-04 14:15,2020-11-20 8:26,1049.25,23740.86667,3,3,"{'RockingJavaBean': 2, 'ivannz': 1, 'ngimel': 1}","module:linearalgebra, triaged"
+47324,jamesr66a,2020-11-03 22:09,0,No comments,2020-11-19 4:34,No comments,21985.21667,2,0,{},fx
+4737,kose-y,2018-01-19 1:50,7,2018-01-19 5:50,2018-04-03 13:07,239.7166667,107236.3,4,4,"{'jekbradbury': 2, 'kose-y': 3, 'apaszke': 1, 'vadimkantorov': 1}",No labels
+47589,kaniblu,2020-11-09 3:17,7,2020-11-09 15:35,2020-11-09 20:58,738.5,1061.066667,7,5,"{'heitorschueroff': 1, 'gchanan': 1, 'malfet': 1, 'albanD': 3, 'colesbury': 1}","module:memoryusage, module:optimizer, triaged"
+47823,Sun-Knight-Soral,2020-11-12 2:51,1,2020-11-12 7:54,2020-11-12 7:54,303.1,303.3333333,3,1,{'ptrblck': 1},oncall:jit
+48022,kurtamohler,2020-11-16 18:06,1,2020-11-18 17:13,2020-11-18 17:13,2826.716667,2826.716667,2,1,{'kurtamohler': 1},"module:cpu, module:performance, module:vectorization, triaged"
+48049,stas00,2020-11-16 21:58,21,2020-11-18 5:02,2021-01-28 17:36,1863.766667,104857.75,9,8,"{'ezyang': 3, 'agolynski': 1, 'mcarilli': 4, 't-vi': 1, 'albanD': 5, 'stas00': 5, 'ptrblck': 1, 'mattip': 1}","highpriority, module:amp(automatedmixedprecision), triaged"
+48364,yyl199655,2020-11-21 14:07,1,2020-11-26 1:14,2020-11-26 1:14,6427.333333,6427.333333,2,1,{'ngimel': 1},No labels
+48411,windmaple,2020-11-24 4:38,3,2020-11-27 4:52,2020-11-28 7:51,4334.483333,5952.966667,3,2,"{'freedomtan': 1, 'windmaple': 2}",oncall:mobile
+48531,xmty777,2020-11-28 12:22,1,2020-11-30 14:56,2020-11-30 14:56,3033.8,3033.8,3,1,{'albanD': 1},oncall:distributed
+48707,raven-jia,2020-12-02 11:01,1,2020-12-02 18:03,2020-12-02 18:03,421.65,421.65,3,1,{'ngimel': 1},"module:optimizer, module:performance, triaged"
+4872,sanek777,2018-01-26 10:35,3,2018-01-26 10:59,2018-01-28 7:10,24.1,2675.6,3,3,"{'apaszke': 1, 'soumith': 1, 'sanek777': 1}",No labels
+48748,xwang233,2020-12-02 22:01,21,2020-12-02 22:08,2021-01-11 6:44,6.983333333,56682.46667,8,7,"{'ezyang': 4, 'mcarilli': 3, 'mruberry': 1, 'xwang233': 4, 'robieta': 6, 'hameerabbasi': 2, 'ngimel': 1}","module:__torch_function__, module:performance, triaged"
+48779,raisinglc,2020-12-03 9:39,7,2020-12-03 16:44,2020-12-14 8:51,425.2666667,15792.35,4,4,"{'heitorschueroff': 2, 'GuoxingYan': 2, 'raisinglc': 1, 'raisinglc03': 2}","module:cuda, module:performance, triaged"
+4880,JakobHavtorn,2018-01-26 19:56,1,2018-01-26 20:25,2018-01-26 20:25,29.33333333,29.33333333,2,1,{'apaszke': 1},No labels
+48889,Jokeren,2020-12-05 20:13,4,2020-12-07 20:14,2020-12-18 19:31,2881.916667,18678.83333,3,2,"{'ngimel': 2, 'Jokeren': 2}","module:performance, triaged"
+4890,Smerity,2018-01-27 0:44,8,2018-01-27 11:10,2018-01-31 23:36,626.0166667,7132.083333,4,3,"{'apaszke': 2, 'SsnL': 4, 'Smerity': 2}",highpriority
+4893,nikitakit,2018-01-27 9:18,5,2018-01-27 11:04,2018-02-15 19:22,106.1166667,27964.16667,3,3,"{'apaszke': 2, 'nikitakit': 2, 'soumith': 1}",No labels
+4900,jojonki,2018-01-28 17:44,1,2018-01-28 18:06,2018-01-28 18:06,22.35,22.35,2,1,{'apaszke': 1},No labels
+49401,IFICL,2020-12-15 8:55,8,2020-12-16 14:21,2021-01-21 17:13,1766.583333,53778.43333,5,4,"{'ezyang': 2, 'albanD': 3, 'IFICL': 2, 'gchanan': 1}","module:autograd, module:memoryusage, module:vision, triaged"
+4948,ezyang,2018-01-30 21:42,4,2018-01-31 21:58,2020-08-01 19:03,1456.016667,1316001.517,4,3,"{'yf225': 2, 'ezyang': 1, 'ngimel': 1}","module:performance, triaged"
+49487,dheerajmpai,2020-12-16 20:08,3,2020-12-17 9:29,2020-12-18 4:14,801.2166667,1926.216667,5,3,"{'skyline75489': 1, 'walterddr': 1, 'seemethere': 1}","module:binaries, triaged"
+49923,AmitSharma1127,2020-12-29 12:56,4,2020-12-29 16:04,2020-12-29 18:41,187.7166667,344.6333333,4,4,"{'kshitij12345': 1, 'AmitSharma1127': 1, 'mruberry': 1, 'ngimel': 1}","module:cuda, module:memoryusage, triaged"
+49962,mruberry,2020-12-30 4:57,2,2020-12-30 13:38,2021-01-08 18:29,520.7666667,13772.13333,3,2,"{'albanD': 1, 'anjali411': 1}","module:autograd, module:tests, triaged"
+50137,Anaphory,2021-01-06 9:59,1,2021-01-07 3:48,2021-01-07 3:48,1069.716667,1069.716667,2,1,{'H-Huang': 1},"module:crash, needsreproduction, triaged"
+50252,g-karthik,2021-01-08 4:37,2,2021-01-08 7:49,2021-01-13 2:38,191.7,7080.466667,3,2,"{'xwang233': 1, 'g-karthik': 1}","module:cuda, triaged"
+5045,ragulpr,2018-02-05 9:08,1,2018-09-14 0:18,2018-09-14 0:18,317709.6333,317709.6333,1,1,{'ragulpr': 1},No labels
+5047,MlWoo,2018-02-05 14:31,1,2018-02-05 15:58,2018-02-05 18:58,87.7,267.45,2,1,{'SsnL': 1},No labels
+50476,malfet,2021-01-13 16:01,2,2021-01-13 16:06,2021-01-13 17:12,5.033333333,70.81666667,2,2,"{'walterddr': 1, 'malfet': 1}","module:ci, triaged"
+50513,samestep,2021-01-13 23:54,7,2021-01-14 3:15,2021-01-26 17:09,201.0333333,18315.75,4,3,"{'ezyang': 1, 'rgommers': 4, 'samestep': 2}","module:typing, triaged"
+50522,liuyhlinux,2021-01-14 3:40,8,2021-01-14 23:00,2021-01-19 0:39,1160.066667,7019.633333,4,3,"{'pritamdamania87': 5, 'mrshenli': 1, 'liuyhlinux': 2}","highpriority, module:rpc, module:tensorpipe, oncall:distributed, triagereview, triaged"
+50529,xDooooot,2021-01-14 8:29,3,2021-01-15 18:18,2021-01-16 2:39,2028.716667,2529.916667,4,3,"{'ngimel': 1, 'xDooooot': 1, 'FantasyJXF': 1}","module:cpp, module:cuda, module:performance, triaged"
+50657,w1d2s,2021-01-17 2:55,6,2021-01-19 1:26,2021-02-01 12:54,2790.816667,22199.05,7,4,"{'gmagogsfm': 1, 'w1d2s': 2, 'glaringlee': 1, 'robieta': 2}","module:cpp, module:performance, triaged"
+50673,wpeak58,2021-01-18 3:57,5,2021-01-18 3:58,2021-01-18 23:20,0.916666667,1162.833333,2,2,"{'wpeak58': 3, 'ngimel': 2}",No labels
+50707,wpeak58,2021-01-19 0:58,3,2021-01-19 2:49,2021-01-19 2:49,111.5666667,111.5666667,2,2,"{'malfet': 2, 'wpeak58': 1}",No labels
+50796,HuangdaoQin,2021-01-20 6:56,4,2021-01-22 14:30,2021-01-28 18:06,3334.3,12189.95,4,3,"{'WANGCHAO1996': 1, 'HuangdaoQin': 2, 'eellison': 1}",oncall:jit
+50846,bertmaher,2021-01-20 22:20,3,2021-01-20 22:38,2021-02-23 18:46,17.33333333,48746.08333,3,2,"{'cheng-chang': 1, 'bertmaher': 2}","NNC, triaged"
+50938,Vijayvithal,2021-01-22 10:34,2,2021-01-22 12:34,2021-01-22 16:33,120.7666667,359.3666667,3,2,"{'kshitij12345': 1, 'zou3519': 1}",No labels
+51204,FabianIsensee,2021-01-27 10:40,1,2021-01-27 10:40,2021-01-27 10:40,0.866666667,0.866666667,1,1,{'FabianIsensee': 1},No labels
+51206,FabianIsensee,2021-01-27 11:05,13,2021-01-27 12:16,2021-02-23 15:43,71.1,39158.38333,4,3,"{'FabianIsensee': 7, 'xwang233': 4, 'ngimel': 2}","module:amp(automatedmixedprecision), module:interpolation, triaged"
+51230,anbeegod,2021-01-27 19:35,3,2021-01-27 22:00,2021-01-29 4:49,145.2333333,1993.7,3,3,"{'skyline75489': 1, 'anbeegod': 1, 'ailzhang': 1}",No labels
+51349,ventusff,2021-01-29 13:08,4,2021-01-30 3:43,2021-02-04 19:57,875.7333333,9049.583333,5,3,"{'khalilsarwari': 1, 'albanD': 2, 'soulitzer': 1}","module:autograd, module:memoryusage, triaged"
+51380,wconstab,2021-01-29 22:41,5,2021-02-24 22:19,2021-03-05 19:44,37417.56667,50223.25,5,3,"{'xuzhao9': 3, 'bertmaher': 1, 'ngimel': 1}","module:cpu, module:performance, triaged"
+51381,wconstab,2021-01-29 22:43,5,2021-02-01 18:27,2021-02-04 3:20,4063.883333,7476.95,4,4,"{'ezyang': 1, 'wconstab': 2, 'malfet': 1, 'xuzhao9': 1}","module:cpu, module:performance, triaged"
+51383,wconstab,2021-01-29 22:46,3,2021-02-04 3:23,2021-02-12 18:55,7477.366667,19929.68333,3,2,"{'wconstab': 2, 'gottbrath': 1}","module:cuda, module:performance, triaged"
+51442,ccilery,2021-02-01 5:34,0,No comments,2021-02-01 7:23,No comments,109.15,2,0,{},oncall:jit
+5155,zou3519,2018-02-09 15:36,2,2018-02-09 18:34,2018-02-09 18:48,177.8333333,192.3166667,2,2,"{'apaszke': 1, 'zou3519': 1}",No labels
+5169,ngimel,2018-02-10 2:26,6,2018-02-13 2:05,2018-04-20 15:51,4298.966667,100164.8333,4,4,"{'ngimel': 2, 'colesbury': 2, 'csarofeen': 1, 'soumith': 1}","highpriority, module:performance"
+51883,mfkasim1,2021-02-08 17:42,1,2021-02-09 11:41,2021-02-09 11:41,1079.35,1079.35,2,1,{'mfkasim1': 1},"module:memoryusage, triaged"
+51978,mfkasim1,2021-02-09 17:12,3,2021-02-09 19:54,2021-02-10 15:52,161.6,1359.483333,4,3,"{'soulitzer': 1, 'mfkasim1': 1, 'albanD': 1}","module:autograd, module:memoryusage, triaged"
+5205,CodeNinja98,2018-02-13 3:27,5,2018-02-13 4:39,2018-02-14 3:28,71.65,1441.1,2,2,"{'soumith': 3, 'CodeNinja98': 2}",No labels
+52056,ThomasBudd,2021-02-10 16:18,1,2021-02-10 21:45,2021-02-10 21:45,327.0166667,327.0166667,2,1,{'VitalyFedyunin': 1},"module:cuda, triaged"
+52264,jansel,2021-02-14 20:51,18,2021-02-14 20:56,2021-02-18 20:02,4.933333333,5711.6,10,6,"{'jansel': 4, 'ZolotukhinM': 4, 'navahgar': 6, 'wconstab': 1, 'Krovatkin': 2, 'bertmaher': 1}","NNC, triaged"
+52293,dvirginz,2021-02-16 7:29,2,2021-02-16 7:50,2021-02-16 7:49,21.2,20.13333333,2,2,"{'dvirginz': 1, 'IvanYashchuk': 1}",No labels
+5285,EKami,2018-02-17 14:47,23,2018-02-20 19:47,2019-02-15 19:40,4619.583333,523013.0667,10,10,"{'goldsborough': 1, 'zou3519': 4, 'EKami': 8, 'fmassa': 3, 'mingfeima': 2, 'apaszke': 1, 'Katrien-Declercq': 1, 'soumith': 1, 'thomas-beznik': 1, 'ezyang': 1}",No labels
+53005,raisinglc,2021-03-01 8:13,2,2021-03-01 20:08,2021-03-01 20:08,715.35,715.35,2,2,"{'H-Huang': 1, 'raisinglc': 1}","module:cpp, triaged"
+5302,W4ngatang,2018-02-19 20:11,8,2018-02-20 4:18,2018-02-20 21:46,487.1666667,1535.55,5,5,"{'SsnL': 1, 'W4ngatang': 3, 'colesbury': 2, 'soumith': 1, 'Twittadrock': 1}",No labels
+5309,ngarneau,2018-02-20 15:27,5,2018-02-20 15:55,2018-02-20 16:19,28.8,52.15,3,3,"{'SsnL': 2, 'ngarneau': 2, 'leobitz': 1}",No labels
+537,GPistre,2017-01-21 17:22,24,2017-01-21 17:25,2017-01-23 16:48,3.316666667,2846,13,13,"{'soumith': 5, 'GPistre': 1, 'galv': 1, 'longcw': 1, 'bearnshaw': 2, 'ngimel': 2, 'IouJenLiu': 2, 'stepelu': 5, 'lebedov': 1, 'hlnull': 1, 'm-dp': 1, 'farleylai': 1, 'ceciliavision': 1}",highpriority
+5374,samuelbroscheit,2018-02-23 16:39,4,2018-02-23 17:20,2018-02-23 18:33,41.43333333,114.6666667,3,2,"{'SsnL': 2, 'samuelbroscheit': 2}",No labels
+53743,ezyang,2021-03-10 21:11,8,2021-03-10 21:14,2021-03-15 3:41,2.5,6149.666667,6,6,"{'malfet': 1, 'ezyang': 3, 'mruberry': 1, 'seemethere': 1, 'walterddr': 1, 'janeyx99': 1}","module:tests, triaged"
+53872,PetrochukM,2021-03-12 3:57,1,2021-03-12 9:18,2021-03-15 15:47,320.5333333,5030.05,3,1,{'t-vi': 1},oncall:distributed
+5412,yaroslavvb,2018-02-26 17:16,5,2018-02-26 19:59,2020-09-01 17:30,162.9833333,1321934.133,5,3,"{'colesbury': 1, 'yaroslavvb': 3, 'apaszke': 1}",module:performance
+5421,victorkitov,2018-02-26 22:34,3,2018-02-27 0:32,2018-02-27 7:50,118.15,556.35,3,3,"{'Kaixhin': 1, 'apaszke': 1, 'victorkitov': 1}",No labels
+5426,yaroslavvb,2018-02-27 5:50,13,2018-02-27 10:33,2018-02-27 18:09,283.05,739.2,4,4,"{'apaszke': 5, 'yaroslavvb': 5, 'robertnishihara': 1, 'Santosh-Gupta': 1}",No labels
+5436,vadimkantorov,2018-02-27 17:19,13,2018-05-17 0:12,2020-09-01 17:37,112733.4167,1320498.267,5,4,"{'yf225': 3, 'vadimkantorov': 6, 'cpuhrsch': 2, 'ezyang': 2}",mediumpriority(thistagisdeprecated)
+5522,ezyang,2018-03-02 14:55,9,2018-03-02 15:56,2020-09-01 17:40,60.85,1316324.85,2,2,"{'ezyang': 7, 'SsnL': 2}",No labels
+5569,btgraham,2018-03-05 16:39,5,2018-03-05 16:59,2018-03-05 17:30,19.9,51.06666667,4,3,"{'zou3519': 1, 'apaszke': 2, 'fmassa': 2}",No labels
+5590,shekhovt,2018-03-06 10:08,2,2018-03-06 10:35,2018-03-28 14:07,26.71666667,31918.25,3,2,"{'shekhovt': 1, 'peterjc123': 1}",No labels
+5611,dmarnerides,2018-03-07 15:51,2,2018-03-08 1:16,2018-03-15 14:44,565.1666667,11452.9,5,2,"{'SsnL': 1, 'zou3519': 1}",highpriority
+5612,vadimkantorov,2018-03-07 15:53,8,2018-03-07 16:11,2018-07-03 17:01,18.66666667,169988.4667,5,4,"{'fmassa': 2, 'vadimkantorov': 3, 'colesbury': 2, 'apaszke': 1}","module:performance, needsreproduction, triagereview"
+5636,apaszke,2018-03-08 18:23,2,2018-03-12 20:19,2018-03-12 21:35,5876.183333,5952.416667,3,2,"{'zou3519': 1, 'apaszke': 1}","mediumpriority(thistagisdeprecated), module:performance"
+5671,zou3519,2018-03-09 19:02,0,No comments,2018-03-12 23:54,No comments,4612.316667,2,0,{},"mediumpriority(thistagisdeprecated), module:performance"
+5705,sensharma,2018-03-12 11:46,5,2018-03-12 11:49,2019-07-25 11:41,2.333333333,719994.1,5,4,"{'soumith': 2, 'lanpa': 1, 'max-simon': 1, 'simonm3': 1}",needsreproduction
+5811,TSchmiedlechner,2018-03-15 14:27,4,2018-03-15 14:54,2018-04-04 16:49,27.43333333,28942.51667,5,4,"{'apaszke': 1, 'ailzhang': 1, 'TSchmiedlechner': 1, 'stgzr': 1}",highpriority
+5812,leftthomas,2018-03-15 14:59,18,2018-03-15 15:28,2018-03-16 12:44,28.31666667,1304.066667,5,5,"{'fmassa': 5, 'leftthomas': 9, 'apaszke': 1, 'soumith': 2, 'kettenfett': 1}",No labels
+5902,jseppanen,2018-03-20 12:12,6,2018-03-20 13:23,2018-03-20 13:57,70.61666667,104.7333333,4,4,"{'apaszke': 2, 'jseppanen': 1, 'soumith': 2, 'yitang': 1}",No labels
+5938,Rokuki,2018-03-22 13:13,4,2018-03-22 15:21,2018-03-22 15:35,127.5666667,141.7,3,3,"{'SsnL': 2, 'Rokuki': 1, 'CNzyx': 1}",No labels
+606,adamlerer,2017-01-27 5:37,2,2017-02-08 21:39,2017-02-28 19:20,18242.56667,46903.5,2,1,{'adamlerer': 2},mediumpriority(thistagisdeprecated)
+6222,xichangzun,2018-04-03 7:12,1,2018-04-03 15:07,2018-04-03 19:47,475.2666667,755.3333333,2,1,{'zou3519': 1},No labels
+6227,kose-y,2018-04-03 12:59,2,2018-04-03 15:01,2018-04-03 21:25,122.3833333,506.4,3,2,"{'zou3519': 1, 'apaszke': 1}",No labels
+6286,ebetica,2018-04-04 22:50,4,2018-04-05 2:01,2018-06-16 7:40,190.6,104209.9,4,3,"{'ezyang': 2, 'ebetica': 1, 'gchanan': 1}",module:internals
+642,aboulch,2017-01-30 16:35,5,2017-01-31 8:20,2017-01-31 9:59,945.6666667,1044.283333,5,4,"{'fmassa': 1, 'aboulch': 1, 'dmarcosg': 2, 'soumith': 1}","highpriority, module:dependencybug"
+6663,gchanan,2018-04-17 15:26,1,2020-10-20 14:43,2020-10-20 14:43,1320437.017,1320437.017,2,1,{'ezyang': 1},No labels
+6694,HMEIatJHU,2018-04-18 2:41,31,2018-04-18 2:46,2018-04-18 2:50,5.45,9.45,4,4,"{'SsnL': 3, 'HMEIatJHU': 7, 'fmassa': 13, 'amoussawi': 8}",No labels
+673,Maratyszcza,2017-02-02 6:29,7,2017-02-14 17:50,2018-12-03 17:08,17961.26667,963999.6833,6,6,"{'shawnjhenry': 2, 'Maratyszcza': 1, 'apaszke': 1, 'lynic': 1, 'Luckick': 1, 'soumith': 1}","module:dependencybug, todo"
+6848,cdluminate,2018-04-22 18:31,1,2018-04-22 22:46,2018-04-22 22:46,255.0166667,255.0166667,2,1,{'SsnL': 1},No labels
+6863,colesbury,2018-04-23 14:44,8,2018-04-23 14:48,2018-11-28 14:47,3.616666667,315362.4,6,5,"{'gchanan': 2, 'sapjunior': 1, 'fmassa': 3, 'vadimkantorov': 1, 'soumith': 1}",highpriority
+6877,riceric22,2018-04-23 20:22,1,2018-04-23 22:47,2018-04-24 2:20,145.2666667,357.35,2,1,{'zou3519': 1},No labels
+6940,MlWoo,2018-04-25 9:04,9,2018-04-25 22:53,2018-06-05 15:11,828.9,59406.8,3,3,"{'cpuhrsch': 3, 'soumith': 2, 'MlWoo': 4}",No labels
+700,shawnjhenry,2017-02-08 14:42,21,2017-02-08 17:05,2017-02-28 23:26,143.2833333,29324.4,6,6,"{'csarofeen': 4, 'shawnjhenry': 4, 'apaszke': 8, 'ngimel': 2, 'adamlerer': 2, 'soumith': 1}",highpriority
+7248,emitch,2018-05-03 17:56,3,2018-06-28 0:49,2018-09-07 14:48,79612.86667,182692.1167,4,3,"{'li-roy': 1, 'weiyangfb': 1, 'emitch': 1}","mediumpriority(thistagisdeprecated), needsreproduction"
+7261,mfuntowicz,2018-05-03 20:39,5,2018-05-03 21:26,2018-05-13 3:31,47.3,13372.8,5,4,"{'SsnL': 2, 'crcrpar': 1, 'mfuntowicz': 1, 't-vi': 1}",highpriority
+7372,ezyang,2018-05-08 12:26,2,2018-05-08 14:20,2018-05-08 22:50,113.5666667,623.1166667,2,2,"{'soumith': 1, 'ezyang': 1}",No labels
+7459,noUmbrella,2018-05-10 9:16,3,2018-05-10 9:28,2018-05-10 9:30,12.01666667,13.55,4,3,"{'fmassa': 1, 'apaszke': 1, 'ezyang': 1}",No labels
+7496,minghao-wu,2018-05-11 9:54,3,2018-05-11 11:06,2018-05-18 7:08,72.05,9913.683333,3,2,"{'minghao-wu': 2, 'apaszke': 1}",awaitingresponse(thistagisdeprecated)
+7507,zdevito,2018-05-11 20:37,1,2019-11-21 0:13,2019-11-21 0:13,803735.7667,803735.7833,2,1,{'eellison': 1},oncall:jit
+7580,zasdfgbnm,2018-05-15 15:34,17,2018-05-15 15:43,2019-01-15 16:33,9.5,352859,4,4,"{'fmassa': 6, 'zasdfgbnm': 9, 'apaszke': 1, 'OhadRubin': 1}",No labels
+7634,abbyQu,2018-05-17 1:16,1,2018-05-17 1:42,2018-05-17 16:56,25.61666667,939.55,3,1,{'SsnL': 1},No labels
+7702,Stonesjtu,2018-05-19 13:48,4,2018-05-21 17:30,2019-06-28 10:30,3101.15,583001.5833,5,4,"{'zou3519': 1, 'teng-li': 1, 'stgzr': 1, 'pietern': 1}","awaitingresponse(thistagisdeprecated), oncall:distributed"
+7714,zzd1992,2018-05-20 14:59,1,2018-05-20 19:30,2018-05-20 19:30,270.7833333,270.7833333,2,1,{'apaszke': 1},No labels
+7788,Elizaveta239,2018-05-23 11:23,5,2018-05-23 11:32,2020-11-25 23:50,9.333333333,1321226.583,3,3,"{'apaszke': 2, 'Elizaveta239': 2, 'ngimel': 1}",No labels
+7808,yiqiaoc11,2018-05-24 13:39,5,2018-05-29 17:52,2019-04-04 16:06,7452.783333,453746.6167,5,4,"{'zou3519': 1, 'yiqiaoc11': 1, 'wengong-jin': 2, 'ezyang': 1}","module:cuda, module:memoryusage, module:nn, needsreproduction"
+7883,Rikorose,2018-05-27 13:35,5,2018-05-27 22:32,2018-07-17 17:56,536.9833333,73700.75,3,3,"{'ezyang': 1, 'SsnL': 3, 'Rikorose': 1}",No labels
+7983,Randl,2018-05-31 6:57,1,2018-06-13 3:59,2018-06-13 3:59,18542.45,18542.46667,2,1,{'soumith': 1},No labels
+8023,Stonesjtu,2018-06-01 5:13,3,2018-06-01 8:46,2018-06-01 13:00,212.75,466.8666667,3,3,"{'albanD': 1, 'Stonesjtu': 1, 'apaszke': 1}",No labels
+8154,jhmenke,2018-06-05 7:00,10,2018-06-05 14:48,2019-03-22 8:27,467.9666667,417687.3333,4,3,"{'cpuhrsch': 4, 'peterjc123': 1, 'jhmenke': 5}","highpriority, todo"
+82,colesbury,2016-10-01 20:36,0,No comments,2016-10-17 19:15,No comments,22958.18333,2,0,{},todo
+8280,airofjune,2018-06-08 8:56,3,2020-12-11 16:32,2020-12-11 19:49,1320936.667,1321132.867,4,3,"{'zou3519': 1, 'ezyang': 1, 'albanD': 1}","module:autograd, module:performance, triaged"
+8304,phizaz,2018-06-09 16:46,9,2018-06-09 20:13,2018-06-12 18:46,206.7833333,4439.633333,4,4,"{'SsnL': 3, 'phizaz': 4, 'sbarratt': 1, 'Tikquuss': 1}",No labels
+8405,SsnL,2018-06-12 22:57,0,No comments,2018-06-19 20:31,No comments,9933.583333,2,0,{},todo
+8529,SsnL,2018-06-14 21:42,15,2018-06-15 5:25,2018-08-02 19:26,463.6833333,70424.46667,5,5,"{'goldsborough': 1, 'soumith': 2, 'goodlux': 6, 'SsnL': 5, 'asprasan': 1}",No labels
+8549,gothos-folly,2018-06-15 10:09,2,2018-06-18 17:37,2020-12-16 15:26,4767.933333,1317917.317,4,2,"{'SsnL': 1, 'ezyang': 1}",todo
+869,ankitkv,2017-02-27 21:39,7,2017-02-27 21:40,2017-02-28 1:00,0.9,200.7666667,4,4,"{'ankitkv': 2, 'fmassa': 2, 'soumith': 2, 'apaszke': 1}",No labels
+8817,tbenst,2018-06-23 1:19,23,2018-06-24 20:24,2019-09-27 23:59,2585.15,665199.5333,11,7,"{'SsnL': 5, 'ailzhang': 1, 'tbenst': 2, 'fmassa': 3, 'prasunanand': 9, 'ezyang': 1, 'ngimel': 2}","highpriority, module:cuda, module:performance, triaged"
+8846,niranjantdesai,2018-06-25 10:26,1,2018-06-25 14:25,2018-06-25 17:04,239.4666667,397.85,2,1,{'vishwakftw': 1},No labels
+907,colesbury,2017-03-03 1:55,2,2018-08-02 19:20,2019-11-20 0:29,745525.65,1428394.2,5,2,"{'soumith': 1, 'gchanan': 1}","module:crash, module:cuda, triaged"
+9094,root20,2018-07-02 6:11,1,2018-07-06 5:33,2018-07-06 5:33,5722.233333,5722.233333,3,1,{'SsnL': 1},todo
+9123,mruberry,2018-07-03 0:18,2,2018-07-03 11:28,2018-07-05 17:43,670.1666667,3925.2,2,2,"{'apaszke': 1, 'mruberry': 1}",No labels
+914,csarofeen,2017-03-03 19:16,18,2017-03-03 20:10,2017-07-24 22:30,53.3,206113.7167,7,6,"{'apaszke': 9, 'csarofeen': 1, 'ngimel': 3, 'jekbradbury': 3, 'ayushgithub': 1, 'ritheshkumar95': 1}",highpriority
+9168,mrocklin,2018-07-04 15:32,17,2018-07-04 15:47,2018-07-09 22:17,15.31666667,7604.8,4,4,"{'soumith': 5, 'mrocklin': 10, 'zou3519': 1, 'fmassa': 1}",triagereview
+9170,erxnmedia,2018-07-04 20:38,3,2018-07-04 21:20,2018-07-04 21:20,42.13333333,42.15,3,3,"{'SsnL': 1, 'erxnmedia': 1, 'itaiyesh': 1}",No labels
+9185,mrocklin,2018-07-05 13:16,3,2018-07-05 13:22,2018-07-05 13:22,6.05,6.05,2,2,"{'fmassa': 2, 'mrocklin': 1}",No labels
+9261,t-vi,2018-07-09 9:39,4,2018-07-09 13:58,2018-07-09 18:50,258.7333333,551.3833333,3,2,"{'ezyang': 1, 't-vi': 3}",todo
+9646,mruberry,2018-07-20 18:36,2,2018-07-25 21:28,2018-09-08 17:10,7372.833333,71914.35,2,2,"{'apaszke': 1, 'mruberry': 1}",No labels
+9680,zdevito,2018-07-21 17:31,9,2018-07-21 18:33,2021-01-20 13:28,62.16666667,1315917.233,6,5,"{'apaszke': 1, 'ezyang': 2, 'anderspapitto': 3, 'soumith': 2, 'mruberry': 1}",No labels
+9732,gchanan,2018-07-23 21:55,2,2018-09-10 22:17,2019-05-06 21:39,70582.01667,413264.65,3,1,{'gchanan': 2},No labels
+990,benwu232,2017-03-13 9:34,16,2017-03-13 19:45,2017-03-13 19:45,610.5333333,610.5333333,13,13,"{'soumith': 2, 'benwu232': 1, 'shayanrc': 1, 'quoniammm': 2, 'yangorwell': 1, 'cdluminate': 1, 'reka18': 1, 'MindExp': 1, 'andrewfowlie': 2, 'chaoxiongTian': 1, 'zxytim': 1, 'hzitoun': 1, 'leosh64': 1}",No labels
+9942,hmc-cs-mdrissi,2018-07-27 18:05,6,2018-07-27 21:25,2018-07-30 17:47,200.2833333,4302.4,4,4,"{'hmc-cs-mdrissi': 2, 'zou3519': 1, 'soumith': 2, 'amrsharaf': 1}",No labels
+10440,yw155,2018-08-11 20:44,0,No comments,Not found,No comments,Not found,2,0,{},caffe2
+11174,danielhanchen,2018-09-01 17:33,25,2018-09-01 18:03,Not found,30.31666667,Not found,12,9,"{'SsnL': 4, 'danielhanchen': 7, 'vishwakftw': 6, 'soumith': 3, 'yaroslavvb': 1, 'themightyoarfish': 1, 'chenhao1umbc': 1, 'n-gao': 1, 'xiaosu-zhu': 1}","module:linearalgebra, module:performance, triaged"
+11389,neerajprad,2018-09-07 18:08,0,No comments,Not found,No comments,Not found,4,0,{},"module:distributions, todo, triaged"
+11690,DetectionIIT,2018-09-14 3:27,4,2018-09-17 17:45,Not found,5178.3,Not found,3,3,"{'zou3519': 1, 'DetectionIIT': 2, 'pjh5': 1}",awaitingresponse(thistagisdeprecated)
+1183,soumith,2017-04-04 19:34,10,2017-04-04 19:42,Not found,8.366666667,Not found,8,8,"{'ngimel': 2, 'igormq': 1, 'soumith': 1, 'Stonesjtu': 2, 'isofun': 1, 'zou3519': 1, 'mruberry': 1, 'csarofeen': 1}","module:cudnn, module:dependencybug, triaged"
+12501,amine85,2018-10-09 20:56,5,2018-10-11 22:06,Not found,2950.283333,Not found,3,2,"{'harrysummer': 3, 'amine85': 2}",caffe2
+12530,UnsignedVoid,2018-10-10 12:03,1,2018-12-20 4:28,Not found,101784.7167,Not found,3,1,{'dsuess': 1},caffe2
+12658,ezyang,2018-10-15 16:17,0,No comments,Not found,No comments,Not found,2,0,{},caffe2
+12683,yaroslavvb,2018-10-15 22:15,4,2018-10-15 22:18,2018-10-15 22:18,2.9,2.9,3,3,"{'yaroslavvb': 2, 'ezyang': 1, 'vishwakftw': 1}",No labels
+12827,gchanan,2018-10-18 17:56,0,No comments,Not found,No comments,Not found,1,0,{},No labels
+12831,taohu88,2018-10-18 19:06,33,2018-10-19 6:57,Not found,710.75,Not found,27,22,"{'peterjc123': 5, 'taohu88': 1, 'jmlago': 1, 'ezyang': 3, 'ekmungi': 2, 'wfcb-85': 1, 'FabianIsensee': 2, 'HudsonHuang': 2, 'vermouth1992': 1, 'michael20at': 1, 'conraddd': 1, 'Ownmarc': 2, 'William-N-Havard': 1, 'divyanshj16': 1, 'Filos1992': 2, 'CielAl': 1, 'Ar-Kareem': 1, 'Oktai15': 1, 'devforfu': 1, 'jihuacao': 1, 'ifsheldon': 1, 'libralibra': 1}","highpriority, module:multiprocessing, module:windows, triaged"
+12855,perrywu1989,2018-10-19 2:28,5,2018-10-19 2:32,Not found,4.283333333,Not found,4,3,"{'ezyang': 2, 'perrywu1989': 2, 'Arctanxy': 1}",caffe2
+12868,Strasser-Pablo,2018-10-19 9:27,0,No comments,Not found,No comments,Not found,2,0,{},module:cpp
+12879,dzhulgakov,2018-10-19 17:13,2,2018-10-19 20:01,Not found,168.6833333,Not found,3,1,{'dzhulgakov': 2},caffe2
+13018,jcjohnson,2018-10-23 23:23,4,2018-10-24 20:12,Not found,1248.766667,Not found,6,4,"{'syed-ahmed': 1, 'jcjohnson': 1, 't-vi': 1, 'neerajprad': 1}","mediumpriority(thistagisdeprecated), module:cpu, module:performance, triaged"
+13058,rotabulo,2018-10-24 17:38,0,No comments,Not found,No comments,Not found,2,0,{},mediumpriority(thistagisdeprecated)
+13139,anderspapitto,2018-10-25 20:02,0,No comments,Not found,No comments,Not found,1,0,{},No labels
+13192,jjsjann123,2018-10-26 22:55,3,2018-10-26 23:18,Not found,22.81666667,Not found,2,2,"{'jjsjann123': 2, 'zou3519': 1}",No labels
+13233,ezyang,2018-10-29 2:35,1,2018-10-29 3:17,Not found,41.4,Not found,1,1,{'ezyang': 1},No labels
+13246,bfreskura,2018-10-29 13:23,88,2018-10-29 14:40,Not found,76.45,Not found,49,48,"{'SsnL': 10, 'bfreskura': 3, 'ezyang': 3, 'samgd': 1, 'svishnu88': 1, 'mprostock': 2, 'soumith': 1, 'aurooj': 2, 'NProkoptsev': 1, 'Godricly': 1, 'ys198918': 1, '1e100': 1, 'smolendawid': 1, 'lzj1769': 1, 'harpone': 4, 'shayneobrien': 1, 'Ali2500': 1, 'gchanan': 3, 'fmassa': 1, 'IMLHF': 1, 'yhZhai': 1, '8a496b': 1, 'AudreyBeard': 3, 'snakers4': 2, 'marrrcin': 3, 'PistonY': 1, 'gabeur': 1, 'snowzjy': 1, 'ginngu': 1, 'SteveJunGao': 1, 'annukkaa': 1, 'DavidGillsjo': 2, 'ggaemo': 2, 'varinder-singh': 2, 'bashimao': 2, 'shenkev': 1, 'Pozimek': 1, 'wangchust': 2, 'soldni': 1, 'vadimkantorov': 7, 'tszumowski': 2, 'VitalyFedyunin': 4, 'abhidipbhattacharyya': 1, 'Erotemic': 1, 'alexander-soare': 1, 'willprice': 1, 'JerryLife': 1, 'dmus': 1}","highpriority, module:dataloader, module:memoryusage, module:molly-guard, module:multiprocessing, triaged"
+13372,ZQPei,2018-10-31 5:49,8,2018-10-31 9:15,Not found,205.4166667,Not found,4,3,"{'peterjc123': 4, 'ZQPei': 3, 'sakaia': 1}",module:windows
+13628,zou3519,2018-11-06 19:16,0,No comments,Not found,No comments,Not found,1,0,{},todo
+13716,JingyuanHu,2018-11-08 9:50,6,2018-11-12 18:35,Not found,6284.833333,Not found,5,4,"{'zou3519': 1, 'ezyang': 1, 'emanuel-metzenthin': 2, 'albanD': 2}","module:convolution, module:cpu, module:performance, triaged"
+14461,ghrua,2018-11-28 8:41,4,2018-11-28 9:02,Not found,20.15,Not found,3,2,"{'SsnL': 2, 'ghrua': 2}","module:dataparallel, module:dataloader, module:performance, triaged"
+14467,fryasdf,2018-11-28 10:45,0,No comments,Not found,No comments,Not found,1,0,{},No labels
+14477,ezyang,2018-11-28 16:25,0,No comments,Not found,No comments,Not found,1,0,{},No labels
+14489,AlliedToasters,2018-11-28 19:33,14,2018-11-29 6:44,Not found,670.7,Not found,9,7,"{'weiyangfb': 1, 'AlliedToasters': 1, 'sebftw': 5, 'lihuiknight': 3, 'santient': 1, 'mpariente': 1, 'iamxpy': 2}","module:sparse, todo, triaged"
+14687,jeromerony,2018-12-03 0:39,6,2018-12-03 18:06,Not found,1046.966667,Not found,6,4,"{'soumith': 1, 'colesbury': 3, 'fmassa': 1, 'harryhan618': 1}",module:performance
+14884,soumith,2018-12-07 7:24,0,No comments,Not found,No comments,Not found,2,0,{},"mediumpriority(thistagisdeprecated), module:performance"
+15245,jcjohnson,2018-12-15 0:08,13,2018-12-17 19:06,Not found,4017.416667,Not found,9,6,"{'fmassa': 2, 'jcjohnson': 3, 'colesbury': 4, 'ngimel': 2, 'soumith': 1, 'calincru': 1}","module:determinism, module:performance, triaged"
+15279,lyksdu,2018-12-16 3:26,2,2018-12-16 13:00,Not found,573.3333333,Not found,3,2,"{'SsnL': 1, 'lyksdu': 1}",triagereview
+15432,beichen2012,2018-12-20 9:16,13,2018-12-20 9:28,Not found,12,Not found,4,3,"{'ZHAIXINGZHAIYUE': 1, 'beichen2012': 9, 'yinghai': 3}",caffe2
+15502,ouwenjie03,2018-12-22 15:38,1,2018-12-24 9:20,Not found,2501.7,Not found,2,1,{'ouwenjie03': 1},"mediumpriority(thistagisdeprecated), needsreproduction"
+16138,NattapongSiri,2019-01-18 4:45,0,No comments,Not found,No comments,Not found,2,0,{},caffe2
+16187,stefanonardo,2019-01-19 15:54,13,2019-01-22 21:33,Not found,4659.183333,Not found,6,6,"{'musikisomorphie': 6, 'fmassa': 1, 'wranai': 2, 'yf225': 1, 'zou3519': 2, 'stefanonardo': 1}","mediumpriority(thistagisdeprecated), module:sparse"
+16406,leobitz,2019-01-26 14:40,1,2019-01-27 23:33,Not found,1972.5,Not found,2,1,{'yf225': 1},No labels
+16424,tridao,2019-01-27 22:52,9,2019-01-28 2:05,Not found,192.7166667,Not found,9,6,"{'gchanan': 3, 'tridao': 1, 't-vi': 1, 'fmassa': 1, 'SsnL': 2, 'ppwwyyxx': 1}","module:performance, module:viewingandreshaping, triaged"
+16594,sidazhang,2019-01-31 3:11,12,2019-02-05 15:04,Not found,7912.15,Not found,3,3,"{'sidazhang': 4, 'musikisomorphie': 6, 'zou3519': 2}","mediumpriority(thistagisdeprecated), module:performance"
+16717,lopuhin,2019-02-04 15:01,14,2019-02-11 18:48,Not found,10307.21667,Not found,9,7,"{'ailzhang': 1, 'sidazhang': 5, 'ezyang': 4, 'cpuhrsch': 1, 'lopuhin': 1, 'mingfeima': 1, 'gchanan': 1}","highpriority, module:cpu, module:performance, module:singlethreaded, triaged"
+17023,WERAQS,2019-02-12 20:29,51,2019-02-12 21:26,2019-02-14 3:36,57.35,1867.316667,42,41,"{'ezyang': 3, 'WERAQS': 2, 'soumith': 2, 'ctivanovich': 1, 'agiUnderground': 1, 'john-khgoh': 1, 'schoonhovenrichard': 1, 'yongen9696': 1, 'Suji04': 1, 'vietnvri': 1, 'EngErik': 1, 'mathieuchateau': 2, 'Shihab-Shahriar': 1, 'HeroadZ': 1, 'paysnugtech': 1, 'Brikky': 1, 'mathusuthan': 1, 'shawngao94': 1, 'Sgt-Miller': 2, 'dseddah': 1, 'myavartanoo': 1, 'SM-Fahim': 1, 'krishnatejakanchi': 2, 'LemuelKL': 1, 'DumbMachine': 1, 'tumluliu': 1, 'migueLib': 1, 'kangzhiq': 1, 'Doev': 1, 'faslurrajah': 1, 'jattenberg': 1, 'sudohainguyen': 1, 'colt18': 1, 'e-rich': 1, 'ArduinoBen': 2, 'jacobdang': 1, 'eliemrad': 2, 'LarsBehl': 1, 'seemethere': 1, 'Zumbalamambo': 2, 'paolomandica': 1}","module:dependencybug, triaged"
+18094,ZephyrSails,2019-03-16 0:40,5,2019-03-19 19:02,Not found,5422.066667,Not found,6,4,"{'suo': 1, 'ZephyrSails': 1, 'Nintorac': 1, 'rickstaa': 2}","oncall:jit, triaged"
+18631,chenyuntc,2019-03-29 20:29,49,2019-03-29 21:09,Not found,39.58333333,Not found,31,29,"{'soumith': 2, 'chenyuntc': 2, 'SsnL': 3, 'ezyang': 7, 'bhack': 1, 'Jackerz312': 1, 'semchan': 1, 'lydials': 1, 'ngimel': 1, 'twmht': 1, 'vadimkantorov': 3, 'tmabraham': 1, 'vraivon': 1, 'Nandan91': 1, 'mrgloom': 1, 'selimarikan': 1, 'iiSeymour': 1, 'samson-wang': 6, 'basaltzhang': 1, 'maaft': 1, 'mschneider': 1, 'HansPinckaers': 1, 'riven314': 1, 'HansBambel': 2, 'taketakeseijin': 2, 'NO2-yh': 1, 'angel-ayala': 1, 'Zacchaeus14': 1, 'aidan-fitz': 2}","highpriority, module:convolution, module:cuda, module:cudnn, module:dependencybug, module:performance, triaged"
+18634,colesbury,2019-03-29 20:57,18,2019-04-08 11:01,Not found,13804.58333,Not found,7,4,"{'hanmingliu2': 10, 'apaszke': 1, 'umanwizard': 4, 'fmassa': 3}","module:cpu, module:performance, triaged"
+18643,mdlockyer,2019-03-30 0:44,17,2019-03-30 16:11,Not found,927.5166667,Not found,10,9,"{'SsnL': 1, 'mdlockyer': 6, 'soumith': 1, 'ezyang': 3, 'malvika2147': 1, 'KaiQiao1992': 2, 'prasunanand': 1, 'TaehwanKwon': 1, 'peterbell10': 1}","module:autograd, module:memoryusage, quansight-nack, triaged"
+18652,danFromTelAviv,2019-03-30 10:48,7,2019-03-30 11:38,Not found,50.16666667,Not found,3,2,"{'danFromTelAviv': 5, 'peterjc123': 2}","module:convolution, module:memoryusage, module:windows, triaged"
+18776,HapeMask,2019-04-02 22:47,7,2019-04-04 0:36,Not found,1548.383333,Not found,9,5,"{'ailzhang': 2, 'ezyang': 2, 'soumith': 1, 'apaszke': 1, 'zasdfgbnm': 1}","oncall:jit, triaged"
+18987,zasdfgbnm,2019-04-06 15:02,0,No comments,Not found,No comments,Not found,3,0,{},"module:cpu, module:performance, module:sortingandselection, triaged"
+19106,catrueeb,2019-04-10 10:49,35,2019-04-10 16:52,Not found,363.3333333,Not found,19,17,"{'eellison': 4, 'catrueeb': 4, 'yf225': 3, 'wangxiaoying': 2, 'goncamateus': 1, 'marchss': 1, 'YuriyPryyma': 2, 'peterjc123': 5, 'ezyang': 3, 'LIANGXINKAI': 3, 'kaonick': 1, 'Immocat': 1, 'myhub': 1, 'fedral': 1, 'zhonhel': 1, 'albertchristianto': 1, 'ErenBalatkan': 1}","module:cpp, module:performance, needsreproduction, oncall:jit, triagereview"
+19163,zuoxingdong,2019-04-11 12:53,5,2019-04-11 15:08,Not found,134.8833333,Not found,4,4,"{'zhangguanheng66': 1, 'mingfeima': 2, 'zuoxingdong': 1, 'zheng-ji': 1}","module:cpu, triaged"
+19267,colesbury,2019-04-15 18:35,3,2019-04-15 20:47,Not found,131.5333333,Not found,2,2,"{'pietern': 2, 'colesbury': 1}","oncall:distributed, triaged"
+19335,ThisIsIsaac,2019-04-17 2:32,8,2019-04-17 3:06,Not found,33.8,Not found,3,3,"{'ThisIsIsaac': 6, 'VitalyFedyunin': 1, 'zou3519': 1}","module:cuda, triaged"
+19408,iamhatesz,2019-04-18 14:28,7,2019-04-19 8:08,Not found,1059.966667,Not found,6,5,"{'xsacha': 1, 'iamhatesz': 2, 'albanD': 2, 'Kaixhin': 1, 'apaszke': 1}","module:internals, module:memoryusage, triaged"
+19563,asa008,2019-04-22 13:33,12,2019-04-22 13:49,Not found,16.43333333,Not found,6,5,"{'peterjc123': 2, 'asa008': 7, 'svenstaro': 1, 'xiaoLiuxiaoLiuxiaoLiu': 1, 'XSeanLiu': 1}","module:performance, module:windows, triaged"
+19825,labor00,2019-04-27 20:01,11,2019-04-29 18:08,Not found,2767.716667,Not found,7,4,"{'VitalyFedyunin': 3, 'labor00': 4, 'ilia-cher': 2, 'SsnL': 2}","module:cpu, module:multithreading, module:performance, triaged"
+19953,zxhr2793,2019-04-30 8:27,7,2019-04-30 20:12,Not found,705.2333333,Not found,8,5,"{'ngimel': 1, 'xsacha': 1, 'zxhr2793': 2, 'nhiem2000': 1, 'VitalyFedyunin': 2}","module:performance, triaged"
+20343,jamestwebber,2019-05-10 0:28,13,2019-05-12 3:36,Not found,3068,Not found,8,6,"{'vishwakftw': 1, 'jamestwebber': 6, 'Lalaland': 1, 'neerajprad': 1, 'mbabadi': 3, 'tpet93': 1}","module:distributions, module:memoryusage, triaged"
+20367,gchanan,2019-05-10 16:12,0,No comments,Not found,No comments,Not found,3,0,{},"highpriority, module:cpu, module:cuda, module:internals, module:performance, quansight-nack, triaged"
+20433,zhiweifang,2019-05-13 15:09,4,2019-05-13 15:15,Not found,5.4,Not found,5,3,"{'SsnL': 2, 'zhiweifang': 1, 'goldan': 1}","module:dataloader, triaged"
+20562,EvenOldridge,2019-05-15 22:54,3,2019-05-16 2:27,Not found,212.2333333,Not found,3,2,"{'colesbury': 1, 'EvenOldridge': 2}","module:cuda, module:cudnn, triaged"
+20655,adamlerer,2019-05-17 19:13,1,2019-05-17 19:21,Not found,8.233333333,Not found,4,1,{'SsnL': 1},"module:cuda, module:nn, module:performance, triaged"
+20686,peterjc123,2019-05-19 3:07,23,2019-05-22 6:07,Not found,4500.25,Not found,9,7,"{'peterjc123': 11, 'ezyang': 6, 'cpuhrsch': 1, 'Silas606': 1, 'soumith': 1, 'anjali411': 2, 'VitalyFedyunin': 1}","module:build, module:windows, triaged"
+20734,wanchaol,2019-05-20 23:08,0,No comments,Not found,No comments,Not found,3,0,{},"oncall:jit, triaged"
+21050,xiaoLiuxiaoLiuxiaoLiu,2019-05-29 1:49,0,No comments,Not found,No comments,Not found,2,0,{},"module:cpp, triaged"
+21454,chughtapan,2019-06-06 9:57,3,2019-06-07 21:13,Not found,2115.7,Not found,4,3,"{'wanchaol': 1, 'chughtapan': 1, 'ailzhang': 1}","oncall:jit, triaged"
+21462,adefossez,2019-06-06 13:57,12,2019-06-06 16:39,Not found,162.3833333,Not found,7,6,"{'fmassa': 3, 'Chillee': 2, 'soumith': 1, 'adefossez': 3, 'ctr26': 2, 'iver56': 1}","module:convolution, module:cudnn, module:fft, module:performance, triaged"
+21602,CloudApiStudy,2019-06-10 20:16,2,2019-06-12 15:24,Not found,2587.966667,Not found,2,2,"{'umanwizard': 1, 'CloudApiStudy': 1}","module:cpu, module:performance, triaged"
+21828,thomasj02,2019-06-15 18:44,11,2019-06-17 14:12,Not found,2607.283333,Not found,7,4,"{'zou3519': 4, 'thomasj02': 3, 'SsnL': 1, 'VitalyFedyunin': 3}","module:cpp, module:performance, triaged"
+21902,ameet20,2019-06-18 10:18,2,2019-06-20 5:05,Not found,2567.2,Not found,3,2,"{'vishwakftw': 1, 'yf225': 1}","module:cpp, triaged"
+22105,fps7806,2019-06-22 6:31,1,2019-06-24 17:55,Not found,3564.183333,Not found,5,1,{'VitalyFedyunin': 1},"module:advancedindexing, module:memoryusage, module:windows, small, triaged"
+22169,cpuhrsch,2019-06-24 23:48,41,2019-06-25 3:47,Not found,238.3166667,Not found,9,7,"{'mcarilli': 19, 'cpuhrsch': 15, 'Gsunshine': 1, 'dashesy': 1, 'NumesSanguis': 1, 'vadimkantorov': 3, 'kaiyang-optimize': 1}","module:batching, triaged"
+22414,ailzhang,2019-07-01 21:43,7,2019-07-01 21:45,Not found,2.1,Not found,7,4,"{'ezyang': 2, 'syed-ahmed': 2, 'soumith': 1, 'colesbury': 2}","module:performance, module:random, triaged"
+22462,czxttkl,2019-07-02 19:11,2,2019-07-04 3:21,Not found,1929.833333,Not found,5,2,"{'soumith': 1, 'colesbury': 1}","module:performance, triaged"
+22532,snippler,2019-07-04 8:40,8,2019-07-05 3:56,Not found,1155.766667,Not found,3,3,"{'mrshenli': 1, 't-vi': 4, 'snippler': 3}","module:convolution, module:nn, triaged"
+22573,calincru,2019-07-07 13:18,14,2019-07-07 13:58,Not found,39.6,Not found,7,5,"{'calincru': 4, 'vishwakftw': 6, 'alanhdu': 2, 'lucmos': 1, 'eusoubrasileiro': 1}","module:cuda, module:linearalgebra, module:performance, triaged"
+22577,MichaelArbel,2019-07-07 19:56,14,2019-07-08 17:11,Not found,1275.1,Not found,9,6,"{'ezyang': 3, 'MichaelArbel': 1, 'fps7806': 3, 'jotaf98': 1, 'kurtamohler': 3, 'ngimel': 3}","hasworkaround, module:convolution, module:dependencybug, module:doublebackwards, module:nn, module:performance, quansight-nack, triaged"
+22578,arthurhero,2019-07-07 21:31,2,2019-07-08 8:08,Not found,636.65,Not found,4,2,"{'fmassa': 1, 'vishwakftw': 1}","module:performance, triaged"
+22597,awwong1,2019-07-08 21:04,4,2019-07-08 21:51,Not found,46.5,Not found,5,3,"{'zou3519': 1, 'awwong1': 2, 'potipot': 1}","module:autograd, needsreproduction, triaged"
+2267,rasoolfa,2017-08-01 21:19,9,2017-08-02 2:25,Not found,306.3666667,Not found,8,6,"{'soumith': 1, 'ngimel': 2, 'rasoolfa': 2, 'Xiaolong-Li': 1, 'spandanji': 2, 'yydxlv': 1}","module:cuda, module:memoryusage, triaged"
+22671,GeoffreyChen777,2019-07-10 4:00,8,2019-07-10 7:50,Not found,230.5666667,Not found,6,6,"{'vishwakftw': 1, 'GeoffreyChen777': 3, 'ezyang': 1, 'daixiangzi': 1, 'Hzzone': 1, 'JonasFrey96': 1}","module:cuda, module:deadlock, needsreproduction, triaged"
+22812,ppwwyyxx,2019-07-12 19:01,5,2020-07-28 13:21,Not found,549739.6833,Not found,7,5,"{'j-min': 1, 'qinjian623': 1, 'ngimel': 1, 'ppwwyyxx': 1, 'heilaw': 1}","module:cuda, module:performance, module:sortingandselection, triaged"
+22961,nikhilmishra000,2019-07-17 8:00,37,2019-07-17 9:01,Not found,60.88333333,Not found,12,12,"{'mfuntowicz': 2, 'fmassa': 1, 'ngimel': 6, 'nikhilmishra000': 3, 'hyperfraise': 2, 'OValery16': 2, 'xsacha': 1, 'bthyreau': 3, 'soad89': 1, 'danieltudosiu': 11, 'adityaiitb': 3, 'soumith': 2}","module:cuda, module:performance, triaged"
+23061,fyubang,2019-07-19 6:25,12,2019-07-19 8:27,Not found,121.55,Not found,7,5,"{'t-vi': 1, 'rrkarim': 6, 'cpuhrsch': 1, 'fyubang': 1, 'lxl910915': 3}","module:cuda, module:linearalgebra, module:performance, triaged"
+23382,wranai,2019-07-25 17:24,0,No comments,Not found,No comments,Not found,3,0,{},"module:memoryusage, triaged"
+23509,Jianhui-Li,2019-07-29 17:03,4,2019-07-29 18:23,Not found,79.35,Not found,9,4,"{'colesbury': 1, 'EikanWang': 1, 'Jianhui-Li': 1, 'rcownie': 1}","module:cpu, module:performance, triaged"
+23547,kingder,2019-07-30 5:16,4,2019-07-31 17:49,Not found,2192.983333,Not found,5,4,"{'VitalyFedyunin': 1, 'ezyang': 1, 'gchanan': 1, 'Svito-zar': 1}","highpriority, module:convolution, module:cuda, module:cudnn, module:performance, triaged"
+23655,madsbk,2019-08-01 14:51,8,2019-08-01 14:55,Not found,3.25,Not found,8,6,"{'fmassa': 1, 'soumith': 1, 'wanchaol': 3, 'xsacha': 1, 'madsbk': 1, 'eellison': 1}","module:performance, oncall:jit, triaged"
+23780,danielcrane,2019-08-05 7:32,3,2019-08-05 13:15,Not found,343.8833333,Not found,6,3,"{'vishwakftw': 1, 'danielcrane': 1, 'Balandat': 1}","module:cuda, module:distributions, module:performance, triaged"
+23865,xsacha,2019-08-06 11:09,2,2019-08-06 15:47,Not found,277.65,Not found,3,2,"{'zou3519': 1, 'xsacha': 1}","module:performance, triaged"
+23940,vishwakftw,2019-08-07 12:16,0,No comments,Not found,No comments,Not found,3,0,{},"module:cuda, module:linearalgebra, module:performance, triaged"
+24398,YimengZhu,2019-08-15 8:41,10,2019-08-15 15:21,Not found,399.7,Not found,10,9,"{'Lornatang': 1, 'soumith': 2, 'YimengZhu': 1, 'AlbertZhangHIT': 1, 'shaswot-utokyo': 1, 'DeqiangWang': 1, 'Jacobew': 1, 'XiaolongMeng': 1, 'Dewald928': 1}","module:cuda, module:performance, needsreproduction, triaged"
+24470,ailzhang,2019-08-16 15:45,0,No comments,Not found,No comments,Not found,3,0,{},"module:cudnn, module:performance, triaged"
+24984,JackWindows,2019-08-21 20:10,5,2019-08-21 20:30,Not found,20.93333333,Not found,6,4,"{'zhangguanheng66': 1, 'soumith': 2, 'SsnL': 1, 'ag14774': 1}","module:dataloader, module:multiprocessing, module:performance, triaged"
+25014,bnehoran,2019-08-22 6:58,1,2019-08-23 3:55,Not found,1257.316667,Not found,3,1,{'soumith': 1},"module:cuda, module:cudnn, module:nn, module:performance, triaged"
+25297,vadimkantorov,2019-08-28 8:37,9,2019-08-28 10:01,Not found,83.46666667,Not found,3,3,"{'soumith': 2, 'vadimkantorov': 6, 'SsnL': 1}","module:cuda, module:dataloader, module:memoryusage, triaged"
+25548,crystalwan,2019-09-02 6:48,13,2019-09-02 6:51,Not found,2.516666667,Not found,4,3,"{'crystalwan': 6, 'xsacha': 1, 'ezyang': 6}","module:binaries, module:cuda, module:performance, triaged"
+25646,mylofty,2019-09-04 14:30,6,2019-09-04 17:51,Not found,200.8333333,Not found,4,4,"{'ailzhang': 1, 'mylofty': 3, 'suo': 1, 'KarimTarabishy': 1}","module:cpp, module:memoryusage, triaged"
+25743,chrisvdweth,2019-09-06 0:11,6,2019-09-06 1:21,Not found,70.18333333,Not found,6,4,"{'soumith': 1, 'fmassa': 2, 'zhangguanheng66': 2, 'vincentqb': 1}","module:dataloader, triaged"
+25821,tuxzz,2019-09-07 15:53,5,2019-09-07 16:50,Not found,57.91666667,Not found,3,3,"{'SsnL': 1, 'tuxzz': 2, 'ezyang': 2}","module:convolution, module:cuda, module:cudnn, module:performance, triaged"
+26165,simunovic-antonio,2019-09-13 12:52,7,2019-09-13 15:26,Not found,154.6,Not found,7,6,"{'zou3519': 2, 'andreaskoepf': 1, 'gchanan': 1, 'yf225': 1, 'liupgd': 1, 'dacson': 1}","highpriority, module:memoryusage, module:multiprocessing, module:multithreading, needsreproduction, triaged"
+26344,DonkeyShot21,2019-09-17 11:55,3,2019-09-17 19:09,Not found,433.65,Not found,4,3,"{'cpuhrsch': 1, 'DonkeyShot21': 1, 'ezyang': 1}","module:dependencybug, module:multiprocessing, oncall:distributed, triaged"
+26345,linssswww,2019-09-17 12:24,1,2019-09-18 5:37,Not found,1032.8,Not found,3,1,{'peterjc123': 1},"module:performance, module:windows, triaged"
+26863,liulizhou,2019-09-26 3:01,1,2019-09-26 21:23,Not found,1102.383333,Not found,2,1,{'vincentqb': 1},"module:build, module:vision, triaged"
+26950,zlWang573,2019-09-27 3:23,1,2019-09-28 1:13,Not found,1309.433333,Not found,4,1,{'ngimel': 1},"module:convolution, module:cudnn, module:dependencybug, module:memoryusage, triaged"
+27046,mboboGO,2019-09-30 4:01,2,2019-10-01 21:47,Not found,2506.766667,Not found,3,2,"{'adlong01': 1, 'mboboGO': 1}","module:dataparallel, triaged"
+27218,chengmengli06,2019-10-02 15:44,1,2019-10-04 8:10,Not found,2426.683333,Not found,2,1,{'chengmengli06': 1},"module:dataparallel, module:memoryusage, triaged"
+2732,D-X-Y,2017-09-14 6:37,10,2017-09-14 9:33,Not found,175.3166667,Not found,7,6,"{'fmassa': 3, 'D-X-Y': 2, 'soumith': 1, 'IssamLaradji': 2, 'the-lay': 1, 'VitorGuizilini-TRI': 1}","module:vision, triaged"
+27479,jamesr66a,2019-10-07 18:24,5,2019-10-07 19:16,Not found,52.23333333,Not found,6,3,"{'vadimkantorov': 3, 'colesbury': 1, 'jamesr66a': 1}","oncall:jit, triaged"
+27588,isalirezag,2019-10-09 2:34,15,2019-10-10 0:25,Not found,1310.933333,Not found,13,12,"{'zou3519': 2, 'isalirezag': 3, 'ruiyan1995': 1, 'gchanan': 1, 'wenqihuang': 1, 'liaohaofu': 1, 'fraserprice': 1, 'hktxt': 1, 'kpprasa': 1, 'Cassieyy': 1, 'loveisacat': 1, 'ZinoTAT': 1}","module:cuda, module:cudnn, triaged"
+27902,CoderHam,2019-10-14 19:10,4,2019-10-14 22:15,Not found,184.9833333,Not found,6,4,"{'soumith': 1, 'CoderHam': 1, 'suo': 1, 'ngimel': 1}","highpriority, oncall:jit, triagereview, triaged"
+27975,tchernitski,2019-10-15 13:16,1,2020-03-19 2:47,Not found,224010.8167,Not found,3,1,{'cocoakang': 1},"module:cuda, module:memoryusage, module:multiprocessing, triaged"
+28055,hhbyyh,2019-10-15 23:56,3,2019-10-17 23:09,Not found,2833.3,Not found,9,3,"{'soumith': 1, 'suo': 1, 'Baranowski': 1}","module:memoryusage, triaged"
+28232,mruberry,2019-10-17 17:30,3,2019-10-17 19:24,Not found,114.1666667,Not found,4,3,"{'smessmer': 1, 'pietern': 1, 'zhaojuanmao': 1}","module:flaky-tests, module:tests, oncall:distributed, triaged"
+28275,yourh,2019-10-18 4:59,7,2019-10-22 4:10,Not found,5710.566667,Not found,4,3,"{'yourh': 4, 'fmassa': 1, 'pietern': 2}","module:dataparallel, module:performance, triaged"
+28414,WilliamZhaoz,2019-10-22 7:35,2,2019-10-23 11:34,Not found,1679.05,Not found,4,2,"{'fmassa': 1, 'zhoudoufu': 1}","module:memoryusage, module:onnx, triaged"
+28733,dashesy,2019-10-26 1:21,4,2020-03-10 18:10,Not found,196848.7333,Not found,6,3,"{'musikisomorphie': 2, 'karimhasebou': 1, 'gchanan': 1}","module:bootcamp, module:cpu, module:performance, module:pooling, triaged"
+28761,crowsonkb,2019-10-27 19:25,6,2019-10-27 23:04,Not found,219.55,Not found,6,4,"{'vadimkantorov': 1, 'crowsonkb': 1, 'epignatelli': 3, 'richardso21': 1}","module:performance, module:tensorcreation, triaged"
+28777,Multihuntr,2019-10-28 4:34,8,2019-10-29 1:40,Not found,1265.8,Not found,4,3,"{'soumith': 3, 'Multihuntr': 4, 'ptrblck': 1}","module:cudnn, triaged"
+28943,yzhangcs,2019-10-31 2:57,3,2019-10-31 17:04,Not found,847.5666667,Not found,4,3,"{'pbelevich': 1, 'yzhangcs': 1, 'dvolgyes': 1}","module:memoryusage, needsreproduction, triaged"
+28980,albanD,2019-10-31 19:36,9,2019-10-31 21:28,Not found,112.05,Not found,4,3,"{'ezyang': 1, 'ilia-cher': 5, 'albanD': 3}","highpriority, module:autograd, module:internals, module:multithreading, module:performance, triaged"
+29198,loretoparisi,2019-11-05 14:33,2,2019-11-05 16:57,Not found,143.8333333,Not found,2,2,"{'VitalyFedyunin': 1, 'loretoparisi': 1}","module:cuda, module:memoryusage, triaged"
+29722,CeadeS,2019-11-13 10:45,17,2019-11-14 6:30,Not found,1184.816667,Not found,5,3,"{'peterjc123': 7, 'CeadeS': 9, 'vincentqb': 1}","module:binaries, module:mkl, module:performance, module:rnn, triaged"
+29804,CJosephides,2019-11-14 11:52,2,2019-11-14 15:42,Not found,229.8833333,Not found,4,2,"{'SsnL': 1, 'byronyi': 1}","module:dataloader, triaged"
+29973,DomHudson,2019-11-16 19:52,21,2019-11-18 13:45,2020-09-10 20:27,2512.483333,430595.0167,12,11,"{'rmcavoy': 2, 'DomHudson': 6, 'mruberry': 2, 'fmassa': 1, 'szan1435': 3, 'ezyang': 1, 'ljk53': 1, 'ngimel': 1, 'vwxyzjn': 1, 'yeshwanthv5': 1, 'akamaus': 2}","highpriority, module:advancedindexing, module:autograd, module:performance, triaged"
+30049,scottcantreid,2019-11-18 22:51,5,2019-11-19 22:15,Not found,1403.4,Not found,5,4,"{'eellison': 1, 'scottcantreid': 2, 'liulizhou': 1, 'suo': 1}","oncall:jit, triaged"
+30246,SsnL,2019-11-21 19:22,3,2019-11-21 19:27,Not found,5.383333333,Not found,4,3,"{'SsnL': 1, 'ngimel': 1, 'albanD': 1}","module:cuda, module:performance, triaged"
+30365,divyekapoor,2019-11-23 2:36,12,2019-11-24 16:59,Not found,2302.333333,Not found,7,5,"{'Evpok': 1, 'divyekapoor': 6, 'xsacha': 2, 'suo': 1, 'ngimel': 2}","oncall:jit, triagereview, triaged"
+30388,varun-intel,2019-11-24 18:34,8,2019-12-09 18:50,Not found,21615.91667,Not found,5,4,"{'varun-intel': 4, 'alanwang93': 1, 'ngimel': 2, 'xsacha': 1}","module:cpu, module:memoryusage, module:performance, triaged"
+30711,rabbitwayne,2019-12-04 3:15,9,2019-12-04 3:16,Not found,1.1,Not found,4,3,"{'rabbitwayne': 5, 'zou3519': 1, 'ngimel': 3}","module:cuda, module:embedding, module:performance, triaged"
+3076,cjsg,2017-10-11 18:28,14,2017-10-11 19:40,Not found,72.43333333,Not found,11,8,"{'fmassa': 2, 'gchanan': 1, 'zou3519': 1, 'ezyang': 2, 'ngimel': 3, 'lucasb-eyer': 1, 'cjsg': 1, 'fartashf': 3}","module:performance, triaged"
+30968,timlacroix,2019-12-09 17:01,3,2019-12-09 23:32,Not found,391.7166667,Not found,5,3,"{'fritzo': 1, 'almajo': 1, 'akotlar': 1}","module:distributions, triaged"
+31004,PoonKinWang,2019-12-09 22:29,4,2019-12-09 23:49,Not found,80.5,Not found,4,4,"{'zhangguanheng66': 1, 'PoonKinWang': 1, 'ngimel': 1, 'xsacha': 1}","module:binaries, module:performance, needsreproduction, triaged"
+31038,simunovic-antonio,2019-12-10 7:59,5,2019-12-11 17:12,Not found,1992.583333,Not found,4,4,"{'izdeby': 1, 'xsacha': 2, 'simunovic-antonio': 1, 'soulslicer': 1}","module:cuda, module:memoryusage, triaged"
+31101,WenmuZhou,2019-12-11 7:43,1,2019-12-18 0:14,Not found,9630.3,Not found,3,1,{'mruberry': 1},"module:cpu, module:dataloader, module:performance, triaged"
+31252,dojoteef,2019-12-13 14:16,8,2019-12-13 18:16,Not found,239.9833333,Not found,7,6,"{'colesbury': 1, 'dojoteef': 2, 'ezyang': 1, 'vadimkantorov': 2, 'ngimel': 1, 'rabbitwayne': 1}","module:cuda, triaged"
+31311,daifeng2016,2019-12-16 11:26,3,2019-12-16 16:43,2019-12-16 11:31,317.2666667,4.766666667,2,2,"{'zou3519': 1, 'daifeng2016': 2}","module:performance, module:windows, triaged"
+31353,rabbitwayne,2019-12-17 3:29,2,2019-12-17 16:16,Not found,767.1166667,Not found,3,2,"{'pbelevich': 1, 'ngimel': 1}","module:cuda, module:memoryusage, module:performance, triaged"
+31360,timtody,2019-12-17 12:50,1,2019-12-17 21:32,Not found,521.9333333,Not found,3,1,{'mruberry': 1},"module:dataparallel, module:multiprocessing, module:performance, triaged"
+31474,redknightlois,2019-12-19 16:06,4,2019-12-20 1:08,Not found,542.2833333,Not found,4,2,"{'ngimel': 3, 'Enealor': 1}","module:cuda, module:normsandnormalization, module:performance, triaged"
+31546,ducha-aiki,2019-12-21 17:09,11,2019-12-23 7:53,Not found,2323.716667,Not found,7,7,"{'mruberry': 1, 'ducha-aiki': 3, 'connorlee77': 1, 'kuixu': 1, 'SergioRAgostinho': 1, 'francois-a': 1, 'pearu': 3}","module:linearalgebra, triaged"
+31558,dlibenzi,2019-12-22 17:57,15,2019-12-22 17:57,Not found,0.3,Not found,8,6,"{'dlibenzi': 6, 'mruberry': 1, 'cpuhrsch': 1, 'vadimkantorov': 1, 'ezyang': 2, 'gchanan': 4}","highpriority, module:ux, triaged"
+31599,ngimel,2019-12-24 19:23,0,No comments,Not found,No comments,Not found,4,0,{},"module:autograd, module:distancefunctions, module:performance, triaged"
+31655,corner100,2019-12-27 11:20,1,2019-12-27 18:54,Not found,453.4833333,Not found,3,1,{'ngimel': 1},"module:memoryusage, triaged"
+31837,vadimkantorov,2020-01-03 19:44,1,2020-01-08 23:02,Not found,7397.416667,Not found,3,1,{'ngimel': 1},"module:cpu, module:performance, triaged"
+31980,Rick-McCoy,2020-01-09 4:57,1,2020-01-09 15:48,Not found,651.35,Not found,4,1,{'zou3519': 1},"goodfirstissue, module:performance, module:tensorcreation, triaged"
+32048,twoertwein,2020-01-10 17:25,3,2020-01-10 20:20,Not found,174.2166667,Not found,4,2,"{'vishwakftw': 2, 'twoertwein': 1}","module:cuda, module:performance, triaged"
+32103,ngimel,2020-01-13 16:28,1,2020-01-13 20:57,Not found,269.25,Not found,3,1,{'ezyang': 1},"module:convolution, module:cudnn, triaged"
+32167,lw,2020-01-14 12:50,3,2020-01-14 16:57,Not found,247.25,Not found,4,2,"{'ezyang': 1, 'vwxyzjn': 2}",triaged
+32196,zou3519,2020-01-14 23:43,3,2020-01-14 23:46,Not found,3.466666667,Not found,3,2,"{'zou3519': 2, 'ezyang': 1}","module:ci, triaged"
+32221,michielkallenberg,2020-01-15 14:06,2,2020-01-16 17:55,Not found,1669.433333,Not found,4,2,"{'mruberry': 1, 'zimenglan-sysu-512': 1}","module:performance, triaged"
+32370,SamPruden,2020-01-17 20:23,3,2020-01-17 20:41,Not found,17.95,Not found,5,2,"{'SamPruden': 2, 'ptrblck': 1}","module:cuda, module:cudnn, triaged"
+32504,mtmd,2020-01-22 20:23,0,No comments,Not found,No comments,Not found,2,0,{},"module:cuda, module:performance, triaged"
+32591,SamPruden,2020-01-24 20:23,16,2020-01-24 21:34,2020-12-06 16:04,70.88333333,456220.6167,8,7,"{'ngimel': 6, 't-vi': 1, 'yaroslavvb': 4, 'SamPruden': 1, 'fmassa': 1, 'bkmi': 1, 'heitorschueroff': 2}","module:cuda, module:linearalgebra, module:performance, triaged"
+32754,ghost,2020-01-29 1:51,1,2020-02-04 19:37,Not found,9705.75,Not found,3,1,{'suo': 1},"module:performance, oncall:jit, triaged"
+32826,Coderx7,2020-01-30 13:17,10,2020-01-30 15:45,Not found,147.8,Not found,6,6,"{'vincentqb': 1, 'Coderx7': 3, 'xsacha': 2, 'XiaobingSuper': 1, 'gitgani': 2, 'AGenchev': 1}","module:mkldnn, triaged"
+33096,jmcarcell,2020-02-07 16:45,7,2020-02-10 2:58,Not found,3493.066667,Not found,4,4,"{'ptrblck': 3, 'jmcarcell': 1, 'cpuhrsch': 1, 'GanjinZero': 2}","module:cuda, module:performance, triaged"
+33296,YuechengLi,2020-02-13 16:38,12,2020-02-19 20:26,Not found,8868.083333,Not found,10,8,"{'VitalyFedyunin': 2, 'daixiangzi': 2, 'weidezhang': 2, 'psu1': 1, 'lizhongguo': 1, 'zhangruiskyline': 2, 'raymon-tian': 1, 'ZhiyuanDang': 1}","module:dataloader, module:performance, triaged"
+33327,zhehangd,2020-02-14 1:28,4,2020-02-14 17:42,Not found,974.1,Not found,4,3,"{'agolynski': 2, 'zhehangd': 1, 'VitalyFedyunin': 1}","module:multithreading, module:performance, triaged"
+33354,nairbv,2020-02-14 19:37,7,2020-07-29 13:15,Not found,238657.7833,Not found,5,3,"{'harshbafna': 1, 'jeremiahschung': 4, 'eellison': 2}","oncall:jit, triaged"
+33373,chengmengli06,2020-02-15 8:25,6,2020-02-18 18:29,2020-02-18 18:42,4923.433333,4937.166667,4,3,"{'VitalyFedyunin': 2, 'albanD': 3, 'chengmengli06': 1}","module:autograd, module:memoryusage, triaged"
+33864,root20,2020-02-27 13:03,0,No comments,Not found,No comments,Not found,2,0,{},"module:memoryusage, triaged"
+3390,shenberg,2017-10-31 12:01,2,2017-10-31 13:45,Not found,104.4666667,Not found,4,2,"{'apaszke': 1, 'FeepingCreature': 1}","module:cuda, module:performance, triaged"
+3396,trypag,2017-10-31 15:47,12,2017-10-31 17:30,Not found,103.0666667,Not found,9,7,"{'killeent': 1, 'trypag': 3, 'soumith': 2, 'apaszke': 1, 'wickedfoo': 2, 'colesbury': 1, 'hellojialee': 2}","module:cuda, module:performance, module:sortingandselection, triaged"
+34272,Balandat,2020-03-05 0:00,35,2020-03-05 0:09,Not found,8.833333333,Not found,7,5,"{'vishwakftw': 6, 'Balandat': 9, 'nikitaved': 11, 'rgommers': 4, 'ezyang': 5}","module:linearalgebra, module:performance, triaged"
+34279,PetrochukM,2020-03-05 0:43,2,2020-03-06 1:46,Not found,1503.05,Not found,4,2,"{'PetrochukM': 1, 'vincentqb': 1}","module:linearalgebra, module:performance, triaged"
+34483,mys007,2020-03-09 14:40,2,2020-03-10 20:46,Not found,1806.483333,Not found,3,2,"{'suo': 1, 'mys007': 1}","oncall:jit, triaged"
+34576,taoddiao,2020-03-11 3:38,8,2020-03-11 16:15,Not found,757.5666667,Not found,4,3,"{'ngimel': 2, 'ptrblck': 3, 'taoddiao': 3}","module:cublas, module:cuda, module:performance, triaged"
+34728,jamesr66a,2020-03-13 19:18,0,No comments,Not found,No comments,Not found,3,0,{},"module:cpu, module:performance, triaged"
+34881,huangrichen11,2020-03-17 13:38,0,No comments,Not found,No comments,Not found,2,0,{},"module:cpp, module:memoryusage, triaged"
+34977,VitalyFedyunin,2020-03-18 20:27,3,2020-03-18 20:44,Not found,17.03333333,Not found,2,2,"{'VitalyFedyunin': 2, 'csarofeen': 1}","module:cudnn, module:memoryformat, module:performance, triaged"
+35290,CaichaoGitHub,2020-03-24 11:45,4,2020-03-30 3:37,Not found,8151.6,Not found,4,3,"{'suo': 2, 'CaichaoGitHub': 1, 'WANGCHAO1996': 1}","oncall:jit, triaged"
+35381,yumu-76,2020-03-25 15:31,1,2020-03-25 16:08,Not found,36.85,Not found,2,1,{'ngimel': 1},"needsreproduction, triaged"
+35600,ptrblck,2020-03-28 10:47,3,2020-03-30 4:07,Not found,2479.766667,Not found,5,3,"{'suo': 1, 'vsuhasm': 1, 'jramapuram': 1}","highpriority, oncall:jit, triaged"
+35603,LaurenceA,2020-03-28 15:36,4,2020-03-29 7:11,Not found,934.95,Not found,3,2,"{'ptrblck': 2, 'LaurenceA': 2}","module:convolution, module:cudnn, module:performance, triaged"
+35901,david-macleod,2020-04-02 21:16,17,2020-04-06 16:52,Not found,5495.766667,Not found,9,8,"{'zou3519': 1, 'ngimel': 2, 'ezyang': 5, 'david-macleod': 4, 'eladn': 1, 'karan121bhukar': 1, 'jeffdaily': 2, 'thesigmaguy': 1}","module:cuda, module:memoryusage, triaged"
+35937,lly-zero-one,2020-04-03 6:15,10,2020-04-03 6:21,Not found,5.716666667,Not found,9,8,"{'pinzhenx': 1, 'CaoZhongZ': 3, 'lly-zero-one': 1, 'XiaobingSuper': 1, 'yinghai': 1, 'ngimel': 1, 'Jianhui-Li': 1, 'vpirogov': 1}","module:cpu, module:mkldnn, module:performance, triaged"
+35998,usamec,2020-04-03 22:56,7,2020-04-07 18:11,Not found,5474.65,Not found,8,5,"{'zdevito': 1, 'FBMachine': 2, 'munael': 1, 'ZolotukhinM': 1, 'Krovatkin': 2}","highpriority, oncall:jit, triagereview, triaged"
+36040,IlyaOvodov,2020-04-05 13:28,5,2020-04-07 17:50,Not found,3142.633333,Not found,3,2,"{'suo': 3, 'IlyaOvodov': 2}","highpriority, oncall:jit, triaged"
+36356,xwang233,2020-04-10 1:06,1,2020-04-10 13:42,Not found,756.9,Not found,3,1,{'ezyang': 1},"module:build, module:ci, triaged"
+36638,pyotr777,2020-04-15 2:57,2,2020-04-15 3:35,Not found,38.41666667,Not found,4,2,"{'zasdfgbnm': 1, 'pyotr777': 1}","module:TensorIterator, module:cuda, module:performance, triaged"
+36706,zasdfgbnm,2020-04-16 2:41,5,2020-04-16 2:44,Not found,2.75,Not found,3,2,"{'zasdfgbnm': 3, 'ngimel': 2}","module:TensorIterator, module:cuda, module:performance, triaged"
+36874,JubilantJerry,2020-04-18 18:49,2,2020-04-20 16:49,Not found,2759.416667,Not found,2,2,"{'albanD': 1, 'JubilantJerry': 1}","module:memoryusage, triaged"
+37048,ailzhang,2020-04-22 3:05,4,2020-04-22 3:42,Not found,36.56666667,Not found,3,3,"{'ngimel': 1, 'ailzhang': 1, 'Sleepwalking': 2}","module:cuda, module:performance, triaged"
+37142,pyscorcher,2020-04-23 12:02,13,2020-04-23 14:40,Not found,158.4333333,Not found,9,7,"{'VitalyFedyunin': 3, 'pyscorcher': 2, 'lucmos': 2, 'ngimel': 2, 'ezyang': 2, 'hengck23': 1, 'gchanan': 1}","module:internals, module:memoryformat, module:performance, triaged"
+37250,cmpute,2020-04-24 19:36,2,2020-04-27 7:26,Not found,3590.033333,Not found,3,2,"{'ptrblck': 1, 'cmpute': 1}","module:cuda, module:memoryusage, triaged"
+37406,klin333,2020-04-28 8:13,1,2020-05-04 16:49,Not found,9156.183333,Not found,3,1,{'ngimel': 1},"module:cuda, module:cudnn, triaged"
+37444,tstandley,2020-04-28 18:54,10,2020-04-28 19:24,Not found,29.51666667,Not found,4,4,"{'ngimel': 2, 'tstandley': 3, 'mrshenli': 4, 'vincentqb': 1}","module:dataparallel, oncall:distributed, triaged"
+37484,tstandley,2020-04-29 4:53,2,2020-04-29 16:53,Not found,719.4666667,Not found,3,2,"{'VitalyFedyunin': 1, 'tstandley': 1}","module:dataparallel, module:memoryformat, module:performance, triaged"
+37549,yoshihingis,2020-04-29 23:58,2,2020-05-01 21:20,Not found,2722.333333,Not found,3,2,"{'pbelevich': 1, 'ptrblck': 1}","module:cuda, module:memoryusage, triaged"
+37583,dizcza,2020-04-30 16:26,12,2020-05-02 4:39,2020-11-07 9:30,2172.883333,274623.8833,11,8,"{'pbelevich': 1, 'ngimel': 2, 'zasdfgbnm': 3, 'gchanan': 2, 'timothybrooks': 1, 'hszhao': 1, 'rossimattia': 1, 'ndronen': 1}","highpriority, module:cuda, module:memoryusage, triaged"
+37682,hadaev8,2020-05-01 18:58,2,2020-05-02 4:25,Not found,566.6333333,Not found,2,2,"{'pbelevich': 1, 'hadaev8': 1}","module:cuda, module:memoryusage, module:rnn, triaged"
+37713,vadimkantorov,2020-05-02 7:52,4,2020-05-03 5:47,Not found,1315.25,Not found,5,4,"{'ngimel': 1, 'jjsjann123': 1, 'ptrblck': 1, 'stas00': 1}","module:cuda, module:performance, triaged"
+38057,praveen-14,2020-05-07 21:42,5,2020-05-11 2:03,Not found,4580.5,Not found,6,4,"{'ezyang': 1, 'pinzhenx': 2, 'albanD': 1, 'ngimel': 1}","module:autograd, module:mkldnn, module:nn, triaged"
+38177,jakiechris,2020-05-09 2:36,1,2020-05-10 14:22,Not found,2145.816667,Not found,2,1,{'malfet': 1},"module:memoryusage, triaged"
+3818,ebetica,2017-11-21 20:50,24,2017-11-21 20:54,Not found,3.583333333,Not found,13,11,"{'zdevito': 2, 'apaszke': 6, 'colesbury': 5, 'soumith': 1, 'dmarnerides': 4, 'gchanan': 1, 'rgommers': 1, 'skrah': 1, 'kurtamohler': 1, 'ezyang': 1, 'albanD': 1}","module:autograd, module:memoryusage, quansight-nack, triaged"
+38206,n-gao,2020-05-10 12:32,6,2020-05-10 14:03,Not found,91.06666667,Not found,5,3,"{'peterjc123': 1, 'n-gao': 4, 'ailzhang': 1}","oncall:jit, triagereview"
+38412,milutter,2020-05-13 18:17,27,2020-05-14 3:13,Not found,536.05,Not found,10,8,"{'peterjc123': 2, 'rkaplan': 2, 'hz838': 4, 'matrs': 2, 'ekerazha': 8, 'kienerj': 7, 'huanzhang12': 1, 'malfet': 1}","module:binaries, module:mkl, triaged"
+38475,RobertoLat,2020-05-14 13:57,2,2021-01-10 22:39,Not found,347561.4667,Not found,5,2,"{'VitalyFedyunin': 1, 'touqir14': 1}","goodfirstissue, module:cpu, module:cuda, module:performance, module:sortingandselection, triaged"
+3863,emanjavacas,2017-11-24 20:53,4,2017-11-27 16:59,Not found,4085.616667,Not found,6,3,"{'SsnL': 1, 'trivialfis': 1, 'petered': 2}","awaitingresponse(thistagisdeprecated), module:optimizer, module:performance, needsreproduction, triaged"
+38703,mruberry,2020-05-19 3:59,1,2020-05-19 4:20,Not found,21.45,Not found,2,1,{'SsnL': 1},"module:numpy, module:performance, triaged"
+38910,vwxyzjn,2020-05-22 4:27,12,2020-05-26 16:26,Not found,6479.433333,Not found,7,5,"{'ezyang': 1, 'vwxyzjn': 5, 'seemethere': 1, 'xwang233': 2, 'mattip': 3}","highpriority, module:cuda, module:cudnn, module:memoryusage, module:regression, triaged"
+38915,prclibo,2020-05-22 9:23,10,2020-05-26 16:36,Not found,6192.65,Not found,6,5,"{'ezyang': 4, 'prclibo': 2, 'ngimel': 1, 'vadimkantorov': 2, 'mruberry': 1}","module:cuda, module:cudnn, module:dependencybug, module:nn, module:performance, triaged"
+38944,ngimel,2020-05-22 23:29,6,2020-05-26 17:34,Not found,5405.816667,Not found,4,3,"{'ezyang': 2, 'malfet': 3, 'ngimel': 1}","module:assertfailure, module:cuda, module:tests, triaged"
+38975,arthuryuan1987,2020-05-25 7:45,4,2020-05-26 19:32,Not found,2147.783333,Not found,2,2,"{'ezyang': 2, 'arthuryuan1987': 2}","module:internals, triaged"
+39061,mruberry,2020-05-27 10:27,2,2020-05-27 17:29,Not found,422.4,Not found,4,2,"{'ngimel': 1, 'ezyang': 1}","highpriority, module:tests, quansight-nack, triaged"
+3930,apaszke,2017-11-28 23:23,9,2017-11-28 23:35,Not found,11.38333333,Not found,4,3,"{'ngimel': 2, 'apaszke': 6, 'vadimkantorov': 1}","module:dataparallel, module:performance, triaged"
+39317,Sylvia-Vee,2020-06-01 4:50,2,2020-06-01 22:54,Not found,1083.716667,Not found,3,2,"{'xwang233': 1, 'Sylvia-Vee': 1}","module:cuda, module:performance, triaged"
+39358,pritamdamania87,2020-06-01 21:58,3,2020-06-01 23:59,Not found,121.3333333,Not found,3,2,"{'SsnL': 1, 'pritamdamania87': 2}","module:performance, oncall:distributed, triaged"
+39443,mpaepper,2020-06-03 12:07,0,No comments,Not found,No comments,Not found,2,0,{},"module:multiprocessing, module:performance, triaged"
+39522,ericrhenry5488,2020-06-04 15:10,7,2020-06-04 19:54,Not found,283.5,Not found,6,6,"{'colesbury': 1, 'ericrhenry5488': 1, 'ezyang': 1, 'dzhulgakov': 1, 'mojiayuan': 2, 'glaringlee': 1}","module:cpp, triaged"
+3958,ezyang,2017-12-01 2:35,6,2017-12-01 22:52,Not found,1217.25,Not found,4,3,"{'SsnL': 2, 'ezyang': 2, 'csarofeen': 2}","module:cudnn, triaged"
+39632,n2cholas,2020-06-07 0:14,2,2020-06-09 15:53,Not found,3819.733333,Not found,3,2,"{'albanD': 1, 'n2cholas': 1}","module:cuda, module:nn, module:performance, triaged"
+39661,vadimkantorov,2020-06-08 16:08,6,2020-07-10 11:45,Not found,45817.31667,Not found,5,3,"{'vadimkantorov': 3, 'ngimel': 2, 'ptrblck': 1}","module:performance, triaged"
+39852,lironmo,2020-06-11 11:47,2,2020-06-15 16:04,Not found,6016.583333,Not found,3,2,"{'mrshenli': 1, 'lironmo': 1}","module:performance, oncall:distributed, triaged"
+39864,mrshenli,2020-06-11 16:13,0,No comments,Not found,No comments,Not found,1,0,{},"module:performance, module:rpc, oncall:jit, triaged"
+40133,qingfengmingyue,2020-06-17 1:20,3,2020-06-17 14:29,Not found,788.9333333,Not found,3,3,"{'malfet': 1, 'qingfengmingyue': 1, 'flowvision': 1}","module:memoryusage, needsreproduction, triaged"
+40134,konioyxgq,2020-06-17 2:05,6,2020-06-17 16:59,Not found,894.0666667,Not found,6,5,"{'ptrblck': 1, 'konioyxgq': 2, 'danieltudosiu': 1, 'veb-101': 1, 'SiminLi': 1}","module:cudnn, triaged"
+40266,rohan-varma,2020-06-19 2:38,0,No comments,Not found,No comments,Not found,2,0,{},"module:rpc, module:tensorpipe, triaged"
+40267,EJShim,2020-06-19 5:05,2,2020-06-19 5:51,Not found,46.9,Not found,4,2,"{'zweideux': 1, 'peterjc123': 1}","module:memoryusage, module:windows, triaged"
+4037,kmike,2017-12-05 18:44,4,2017-12-05 19:20,Not found,35.48333333,Not found,5,4,"{'apaszke': 1, 'kmike': 1, 'daemon': 1, 'anands-repo': 1}","module:dataparallel, triaged"
+40441,nikitaved,2020-06-23 17:16,6,2020-06-23 18:16,Not found,60.38333333,Not found,3,3,"{'vadimkantorov': 2, 'nikitaved': 3, 'zou3519': 1}","module:batching, triaged"
+40570,peterbell10,2020-06-25 17:31,1,2020-08-31 7:16,Not found,95864.56667,Not found,4,1,{'mruberry': 1},"module:cpu, module:performance, module:reductions, triaged"
+40581,bootpin,2020-06-25 19:45,13,2020-06-26 5:32,Not found,587.3166667,Not found,10,9,"{'mruberry': 1, 'ngimel': 2, 'bootpin': 3, 'glaringlee': 1, 'VitalyFedyunin': 1, 'linjiapro': 2, 'pritamdamania87': 1, 'beniz': 1, 'bhendrickson': 1}","module:cpp, module:dataparallel, module:performance, triaged"
+40854,guoshzhao,2020-07-01 7:42,3,2020-07-02 21:32,Not found,2269.333333,Not found,3,2,"{'pbelevich': 1, 'zasdfgbnm': 2}","module:build, module:cuda, triaged"
+40959,zherlock030,2020-07-03 2:20,4,2020-07-03 3:31,Not found,70.93333333,Not found,4,3,"{'zherlock030': 2, 'xsacha': 1, 'VitalyFedyunin': 1}","module:cpp, module:performance, triaged"
+40989,pmeier,2020-07-05 15:26,1,2020-07-05 15:44,Not found,18,Not found,3,1,{'vadimkantorov': 1},"module:memoryusage, triaged"
+41128,liu-jc,2020-07-08 17:23,7,2020-07-09 6:37,Not found,794.45,Not found,6,6,"{'liu-jc': 2, 't-vi': 1, 'romanpogodin': 1, 'ezyang': 1, 'maqy1995': 1, 'albanD': 1}","module:autograd, module:sparse, triaged"
+41162,sandeepkumar-skb,2020-07-08 23:55,8,2020-07-09 1:02,2020-07-09 2:52,67.68333333,177.4333333,5,4,"{'colesbury': 3, 'sandeepkumar-skb': 2, 'ngimel': 1, 'anderspapitto': 2}","module:performance, triaged"
+41177,xuezu29,2020-07-09 7:22,23,2020-07-09 9:51,Not found,148.6666667,Not found,5,5,"{'t-vi': 2, 'glaringlee': 8, 'xuezu29': 6, 'QWERDF007': 6, 'eellison': 1}","module:cpp, module:performance, oncall:jit, triaged"
+41306,n-gao,2020-07-11 9:47,6,2020-07-13 21:59,Not found,3611.533333,Not found,6,4,"{'vishwakftw': 1, 'ngimel': 3, 'DrDryg': 1, 'xwang233': 1}","module:linearalgebra, module:performance, triaged"
+41325,bennymi,2020-07-12 22:44,1,2020-07-13 6:35,Not found,470.35,Not found,4,1,{'Nikronic': 1},"module:cuda, module:memoryusage, triaged"
+41383,machineyearning,2020-07-14 3:57,3,2020-07-14 22:58,Not found,1141.383333,Not found,3,3,"{'vincentqb': 1, 'ngimel': 1, 'machineyearning': 1}","module:performance, triaged"
+41399,ShroukMansour,2020-07-14 12:45,1,2020-07-16 3:01,Not found,2295.383333,Not found,2,1,{'ezyang': 1},"module:cpu, module:performance, triaged"
+41486,danielpcox,2020-07-15 18:02,33,2020-07-15 19:20,2020-11-03 16:31,78.55,159749.1333,9,8,"{'danielpcox': 13, 'ezyang': 4, 'colesbury': 5, 'kyoung-myft': 2, 'kurtamohler': 4, 'vpirogov': 2, 'gmastrapas': 1, 'rivergold': 2}","highpriority, module:cpu, module:memoryusage, module:rnn, triaged"
+41573,jjsjann123,2020-07-17 2:19,0,No comments,Not found,No comments,Not found,2,0,{},oncall:jit
+41852,lablabla,2020-07-22 14:21,11,2020-07-23 5:16,Not found,894.6833333,Not found,6,4,"{'lablabla': 6, 'ptrblck': 2, 'itshakh': 2, 'xsacha': 1}","module:cuda, module:cudnn, module:performance, triaged"
+42005,cyyever,2020-07-24 14:02,1,2020-07-24 14:19,Not found,16.65,Not found,2,1,{'colesbury': 1},"module:cpp, module:performance, triaged"
+42074,antoche,2020-07-26 1:48,2,2020-07-26 2:15,Not found,26.91666667,Not found,3,2,"{'antoche': 1, 'mruberry': 1}","module:cuda, module:memoryusage, module:nn, module:numpy, triaged"
+42109,rotabulo,2020-07-27 15:21,6,2020-07-27 20:00,Not found,278.9,Not found,2,2,"{'ngimel': 3, 'rotabulo': 3}","module:cuda, module:performance, triaged"
+42113,Daniel-Kelvich,2020-07-27 16:31,6,2020-07-29 18:41,Not found,3010.25,Not found,5,4,"{'ms-lilibeth': 1, 'vkuzo': 3, 'dskhudia': 1, 'Daniel-Kelvich': 1}","highpriority, oncall:quantization, triaged"
+42402,Huanianss,2020-08-01 6:50,2,2020-08-01 18:01,Not found,670.85,Not found,4,2,"{'SsnL': 1, 'Red-Eyed': 1}","module:dataloader, module:performance, triaged"
+4241,proliu618,2017-12-18 22:19,2,2017-12-18 22:41,Not found,22.51666667,Not found,4,2,"{'zou3519': 1, 'freedom9393': 1}","module:cudnn, module:dataparallel, triaged"
+42452,avloss,2020-08-03 13:05,0,No comments,Not found,No comments,Not found,2,0,{},"module:crash, module:cuda, triaged"
+42557,agural,2020-08-04 19:53,6,2020-08-05 18:08,Not found,1335.5,Not found,6,3,"{'IvanYashchuk': 1, 'ezyang': 3, 'agural': 2}","module:cuda, module:linearalgebra, module:memoryusage, triaged"
+42592,DiegoTorresSED,2020-08-05 10:15,1,2020-08-06 17:03,Not found,1847.916667,Not found,3,1,{'dreiss': 1},oncall:jit
+42663,zhd0zhd,2020-08-06 7:42,4,2020-08-07 9:53,2020-08-10 23:31,1571.65,6709.133333,4,3,"{'ptrblck': 1, 'xwang233': 1, 'zhd0zhd': 2}","module:convolution, module:cudnn, module:performance, triaged"
+42779,thinking-tower,2020-08-08 14:19,8,2020-08-10 19:22,2020-10-09 21:15,3183.2,89696.5,6,3,"{'z-a-f': 3, 'thinking-tower': 3, 'vkuzo': 2}","module:memoryformat, module:performance, oncall:quantization, triaged"
+42824,ShreyaR,2020-08-10 19:01,2,2020-08-10 22:10,Not found,188.7333333,Not found,4,2,"{'zou3519': 1, 'albanD': 1}","module:nn, module:profiler, triaged"
+42959,vadimkantorov,2020-08-13 1:17,21,2020-08-13 18:10,Not found,1012.9,Not found,5,4,"{'ngimel': 1, 'vadimkantorov': 13, 'robieta': 5, 'ZisIsNotZis': 2}","module:cpu, module:performance, triaged"
+43116,zasdfgbnm,2020-08-15 23:41,1,2020-08-16 3:14,Not found,213.1,Not found,3,1,{'ngimel': 1},"module:performance, triaged"
+43238,rohan-varma,2020-08-19 0:28,2,2020-08-19 1:16,Not found,48,Not found,2,2,"{'pritamdamania87': 1, 'rohan-varma': 1}","oncall:distributed, triaged"
+43424,wanchaol,2020-08-21 19:58,0,No comments,Not found,No comments,Not found,4,0,{},"days, oncall:jit, triagereview"
+43429,mcarilli,2020-08-21 20:54,14,2020-08-21 23:27,Not found,152.6,Not found,5,4,"{'smessmer': 4, 'mcarilli': 5, 'xwang233': 3, 'bhosmer': 2}","module:dispatch, module:internals, module:performance, triaged"
+43450,drpatrickkaggle,2020-08-22 7:39,4,2020-08-25 4:25,Not found,4125.916667,Not found,5,4,"{'mruberry': 1, 'TezRomacH': 1, 'drpatrickkaggle': 1, 'stas00': 1}","module:memoryusage, module:nn, needsresearch, triaged"
+43544,buoyancy99,2020-08-25 9:33,10,2020-08-26 3:57,Not found,1104.4,Not found,4,4,"{'mruberry': 1, 'ngimel': 3, 'buoyancy99': 5, 'ptrblck': 1}","module:amp(automatedmixedprecision), module:cuda, module:dependencybug, module:performance, triaged"
+43561,osandoval-fb,2020-08-25 18:14,1,2020-08-25 21:08,Not found,174.2,Not found,2,1,{'mrshenli': 1},"module:rpc, triaged"
+43737,yf225,2020-08-27 20:04,3,2021-01-27 7:52,Not found,219588.85,Not found,4,2,"{'ErenBalatkan': 2, 'SplitInfinity': 1}",oncall:jit
+43859,HawkRong,2020-08-30 14:46,2,2020-09-01 21:24,Not found,3278.016667,Not found,3,2,"{'rohan-varma': 1, 'HawkRong': 1}","needsreproduction, oncall:distributed, triaged"
+43882,fatvlady,2020-08-31 16:37,1,2020-08-31 18:18,Not found,100.1333333,Not found,5,1,{'vadimkantorov': 1},"days, oncall:jit"
+4392,ezyang,2017-12-28 21:39,5,2017-12-28 23:24,Not found,104.7166667,Not found,5,4,"{'soumith': 1, 'apaszke': 2, 'vadimkantorov': 1, 'colesbury': 1}","module:cudnn, triaged"
+43947,Richie-yan,2020-09-01 10:20,4,2020-09-01 16:41,Not found,381.7333333,Not found,3,3,"{'ezyang': 1, 'Richie-yan': 2, 'ptrblck': 1}","module:cuda, module:cudnn, module:dataparallel, module:performance, triaged"
+44024,hande6688,2020-09-02 9:13,4,2020-09-02 21:24,Not found,731.0666667,Not found,3,3,"{'smessmer': 1, 'hande6688': 2, 'zou3519': 1}","needsreproduction, triaged"
+4406,apaszke,2017-12-29 10:42,7,2018-01-02 18:04,Not found,6201.833333,Not found,7,6,"{'SsnL': 1, 'xhzhao': 2, 'mingfeima': 1, 'apaszke': 1, 'pengjiang030': 1, 'dashesy': 1}","oncall:distributed, triaged"
+44156,rajcscw,2020-09-03 22:27,8,2020-09-04 0:22,Not found,114.8333333,Not found,4,3,"{'SsnL': 4, 'rajcscw': 2, 'le1nux': 2}","module:cuda, module:memoryusage, module:performance, triaged"
+44274,Speakingwardrobe,2020-09-07 7:33,2,2020-09-07 18:46,Not found,672.5166667,Not found,3,2,"{'ngimel': 1, 'Speakingwardrobe': 1}","module:performance, triaged"
+44504,psasidharan,2020-09-10 21:16,5,2020-09-11 0:49,Not found,213.5333333,Not found,5,5,"{'HamidShojanazeri': 1, 'colesbury': 1, 'gchanan': 1, 'psasidharan': 1, 'samster25': 1}","module:performance, triaged"
+44741,ezyang,2020-09-15 22:07,1,2020-09-15 22:27,Not found,19.65,Not found,2,1,{'ngimel': 1},"module:complex, triaged"
+44777,farahmand-m,2020-09-16 7:29,2,2020-09-17 4:05,Not found,1235.583333,Not found,2,2,"{'mruberry': 1, 'farahmand-m': 1}","module:cuda, module:memoryusage, needsresearch, triaged"
+44827,pritamdamania87,2020-09-16 21:29,0,No comments,Not found,No comments,Not found,2,0,{},"module:rpc, needsresearch, oncall:distributed, triaged"
+44943,One-sixth,2020-09-18 9:32,5,2020-09-21 15:11,Not found,4658.816667,Not found,4,4,"{'agolynski': 1, 'robieta': 2, 'One-sixth': 1, 'ngimel': 1}","module:cuda, module:performance, triaged"
+45009,vadimkantorov,2020-09-19 1:48,1,2020-10-19 20:02,Not found,44293.63333,Not found,4,1,{'vadimkantorov': 1},"module:performance, module:pooling, module:sortingandselection, triaged"
+45139,linjiapro,2020-09-22 17:04,8,2020-09-22 20:20,2020-09-23 5:50,195.65,766.2166667,5,4,"{'ngimel': 1, 'linjiapro': 4, 't-vi': 2, 'svenevs': 1}","module:cpp, module:performance, triaged"
+45273,vibe007,2020-09-24 15:33,1,2020-09-25 14:51,Not found,1397.8,Not found,2,1,{'zou3519': 1},"module:amp(automatedmixedprecision), module:dataparallel, module:performance, needsreproduction, triaged"
+45321,lakshaykc,2020-09-25 1:08,0,No comments,Not found,No comments,Not found,1,0,{},No labels
+45524,kevinstephano,2020-09-29 19:27,4,2020-10-02 20:07,Not found,4359.616667,Not found,5,4,"{'Lilyjjo': 1, 'ZolotukhinM': 1, 'eellison': 1, 'kevinstephano': 1}",oncall:jit
+45578,AyanKumarBhunia,2020-09-30 16:53,16,2020-09-30 17:53,Not found,59.3,Not found,9,8,"{'xwang233': 2, 'AyanKumarBhunia': 4, 'stefan-it': 2, 'ibmua': 2, 'divideconcept': 3, 'ozen': 1, 'moritztng': 1, 'UlrichFreitag': 1}","module:cuda, module:performance, triaged"
+45647,realiti4,2020-10-01 4:02,1,2020-11-11 2:40,Not found,58958.51667,Not found,4,1,{'skyline75489': 1},"module:build, module:performance, module:windows, triaged, windows-triaged"
+45764,ezyang,2020-10-02 19:51,3,2020-10-02 19:51,Not found,0.15,Not found,2,1,{'ezyang': 3},"module:performance, triaged"
+45815,whatdhack,2020-10-04 1:30,3,2020-10-04 18:42,Not found,1031.983333,Not found,5,3,"{'whatdhack': 1, 'robieta': 1, 'suo': 1}","module:performance, oncall:jit, triaged"
+46084,2015211289,2020-10-09 8:17,2,2020-10-12 14:54,Not found,4716.283333,Not found,2,2,"{'agolynski': 1, '2015211289': 1}","module:memoryusage, triaged"
+46096,justinblaber,2020-10-09 16:31,8,2020-10-12 16:22,Not found,4310.7,Not found,4,3,"{'vkuzo': 4, 'justinblaber': 1, 'lly-zero-one': 3}","module:performance, oncall:quantization, triaged"
+46168,vadimkantorov,2020-10-11 21:25,12,2020-10-12 13:46,Not found,981.1,Not found,3,3,"{'albanD': 5, 'ngimel': 2, 'vadimkantorov': 5}","module:autograd, module:memoryusage, needsresearch, triaged"
+46180,Coderx7,2020-10-12 12:38,12,2020-10-12 19:46,Not found,428.1666667,Not found,3,3,"{'glaringlee': 4, 'Coderx7': 5, 'wconstab': 3}",oncall:jit
+46377,Ri0S,2020-10-15 6:09,5,2020-10-15 18:49,Not found,759.4833333,Not found,5,5,"{'ngimel': 1, 'malfet': 1, 'ptrblck': 1, 'Ri0S': 1, 'xiaochus': 1}","module:cuda, module:half, module:performance, triaged"
+46379,meet-VC,2020-10-15 6:44,2,2020-10-15 19:10,Not found,745.6166667,Not found,3,2,"{'malfet': 1, 'meetgandhi123': 1}","module:cuda, module:memoryusage, triaged"
+46386,miladmozafari,2020-10-15 9:19,1,2020-10-15 23:14,Not found,834.9833333,Not found,2,1,{'malfet': 1},"hasworkaround, module:cuda, module:memoryusage, triaged"
+46507,msieb1,2020-10-17 2:29,4,2020-10-20 15:09,2020-12-21 19:05,5080.333333,94595.78333,5,3,"{'VitalyFedyunin': 1, 'msieb1': 1, 'ngimel': 2}","module:cuda, module:performance, module:sortingandselection, triaged"
+46602,Buckeyes2019,2020-10-20 18:47,2,2020-10-21 15:06,Not found,1218.966667,Not found,2,2,"{'zou3519': 1, 'Buckeyes2019': 1}","module:cuda, module:memoryusage, triaged"
+4661,benvcutilli,2018-01-14 3:09,37,2018-01-14 3:13,2020-04-28 17:04,4.85,1203235.533,10,9,"{'benvcutilli': 15, 'apaszke': 5, 'soumith': 3, 'albanD': 8, 'colesbury': 1, 'youkaichao': 1, 'IsThatYou': 2, 'Juna2': 1, 'SsnL': 1}","actionable, module:autograd, module:memoryusage, triaged"
+46753,abcyzj,2020-10-23 2:12,2,2020-10-23 23:44,Not found,1292.216667,Not found,3,2,"{'osalpekar': 1, 'abcyzj': 1}","oncall:distributed, triaged"
+47012,mrshenli,2020-10-28 20:29,12,2020-10-28 20:33,Not found,3.116666667,Not found,8,8,"{'stephenroller': 2, 'williamFalcon': 1, 'zhangguanheng66': 3, 'meixitu17': 1, 'VitalyFedyunin': 1, 'mrshenli': 2, 'mcarilli': 1, 'rohan-varma': 1}","module:ddp, oncall:distributed, triaged"
+4703,tzuf,2018-01-17 8:05,23,2018-01-17 9:51,Not found,105.5833333,Not found,9,8,"{'albanD': 2, 'tzuf': 7, 'fmassa': 1, 'MlWoo': 6, 'juliusshufan': 1, 'nyxjemk': 2, 'apaszke': 1, 'CircleXing001': 3}","module:cpu, module:performance, module:rnn, triaged"
+47037,hitvoice,2020-10-29 2:39,0,No comments,Not found,No comments,Not found,2,0,{},"module:dataloader, needsresearch, triaged"
+47056,lijunzh,2020-10-29 15:55,13,2020-10-29 19:40,2020-11-21 0:42,224.9833333,32206.53333,5,4,"{'albanD': 1, 'lijunzh': 7, 'ngimel': 3, 'sentosajie': 2}","module:amp(automatedmixedprecision), module:performance, module:regression, triaged"
+47111,hoodar,2020-10-30 9:25,0,No comments,Not found,No comments,Not found,2,0,{},"module:cuda, module:memoryusage, triaged"
+47177,snsun,2020-11-02 2:05,0,No comments,Not found,No comments,Not found,2,0,{},oncall:mobile
+47341,azraelkuan,2020-11-04 6:41,5,2020-11-04 7:33,Not found,51.28333333,Not found,3,2,"{'xwang233': 2, 'azraelkuan': 3}","module:convolution, module:cudnn, triaged"
+47433,raven-jia,2020-11-05 8:22,3,2020-11-09 23:07,Not found,6645.216667,Not found,4,2,"{'pritamdamania87': 1, 'raven-jia': 2}","oncall:distributed, triaged"
+47587,WZMIAOMIAO,2020-11-09 2:40,9,2020-11-09 23:05,Not found,1224.5,Not found,5,4,"{'pritamdamania87': 2, 'agolynski': 1, 'WZMIAOMIAO': 5, 'rohan-varma': 1}","module:multiprocessing, oncall:distributed, triaged"
+47702,dexios1,2020-11-10 22:05,38,2020-11-12 1:57,Not found,1671.8,Not found,25,23,"{'lqf96': 2, 'dbuades': 1, 'lanking520': 1, 'toshi2k2': 2, 'bemoregt': 1, 'dexios1': 2, 'BramVanroy': 1, 'ShawonAshraf': 5, 'senderle': 1, 'matdodgson': 1, 'soumith': 1, 'erwincoumans': 2, 'denfromufa': 1, 'SharanSMenon': 2, 'powderluv': 2, 'leovinus2001': 2, 'leandregagnonlewis': 1, 'zelabean': 1, 'My3bIKAHT': 1, 'wietsedv': 3, 'Riccorl': 2, 'okpatil4u': 2, 'mstoelzle': 1}","module:performance, triaged"
+47778,bhosmer,2020-11-11 20:33,0,No comments,Not found,No comments,Not found,2,0,{},"module:dispatch, module:performance, triaged"
+47904,DeriZSY,2020-11-13 6:34,0,No comments,Not found,No comments,Not found,2,0,{},"module:ios, module:memoryusage, triaged"
+47908,klyjm,2020-11-13 8:38,19,2020-11-23 19:18,Not found,15040.45,Not found,13,11,"{'jmuchovej': 2, 'LukeAI': 1, 'klyjm': 6, 'feinsteinben': 1, 'thecooltechguy': 1, 'Godricly': 2, 'y0ast': 1, 'opeide': 1, 'jucor': 1, 'Ken1256': 1, 'malfet': 2}","module:cuda, module:performance, triaged"
+47912,arsenzaryan,2020-11-13 14:18,3,2020-11-14 1:47,Not found,688.95,Not found,3,2,"{'ngimel': 2, 'arsenzaryan': 1}","module:performance, triaged"
+47953,xwang233,2020-11-14 0:51,5,2020-11-14 18:35,Not found,1064.183333,Not found,7,5,"{'vishwakftw': 1, 'heitorschueroff': 1, 'IvanYashchuk': 1, 'v0dro': 1, 'xwang233': 1}","highpriority, module:cuda, module:linearalgebra, module:performance, triaged"
+48163,ppwwyyxx,2020-11-18 7:04,5,2020-11-19 1:23,Not found,1098.483333,Not found,5,3,"{'ngimel': 1, 'jjsjann123': 2, 'ppwwyyxx': 2}","module:cuda, module:half, module:interpolation, module:nn, module:performance, triaged"
+48209,jamesr66a,2020-11-18 22:30,0,No comments,Not found,No comments,Not found,2,0,{},fx
+48251,akamaus,2020-11-19 10:34,5,2020-11-20 7:12,Not found,1237.316667,Not found,6,4,"{'ngimel': 1, 'akamaus': 1, 'imaginary-person': 1, 'sparkingdark': 1}","goodfirstissue, module:cpu, module:multithreading, module:performance, triaged"
+48279,NickNickGo,2020-11-19 23:55,3,2021-02-10 9:07,Not found,118631.85,Not found,5,3,"{'yuezhihan': 1, 'AlexeyAB': 1, 'Jovp': 1}","module:cuda, module:performance, triaged"
+48388,david-macleod,2020-11-23 11:01,1,2020-11-23 21:49,Not found,648.1166667,Not found,3,1,{'xiaomengy': 1},"module:cpu, module:mkl, module:performance, triaged"
+48714,shakjm,2020-12-02 15:02,16,2020-12-02 17:57,Not found,174.75,Not found,4,3,"{'ngimel': 4, 'shakjm': 9, 'ptrblck': 3}","module:dataparallel, module:performance, triaged"
+49139,zoufangyu1987,2020-12-10 4:00,11,2020-12-10 6:36,Not found,155.6333333,Not found,3,2,"{'ptrblck': 4, 'zoufangyu1987': 7}","module:memoryusage, triaged"
+49177,kurtamohler,2020-12-10 18:29,2,2020-12-10 18:43,Not found,13.88333333,Not found,3,2,"{'ngimel': 1, 'kurtamohler': 1}","module:linearalgebra, module:performance, triaged"
+49252,nikitaved,2020-12-11 19:34,3,2020-12-11 22:36,2021-03-12 21:27,181.85,131153.0167,3,2,"{'nikitaved': 2, 'mruberry': 1}","module:linearalgebra, module:memoryusage, triaged"
+49284,demmerichs,2020-12-12 14:43,0,No comments,Not found,No comments,Not found,2,0,{},"module:tensorboard, triaged"
+49332,edchengg,2020-12-14 15:47,1,2020-12-15 15:21,Not found,1414.15,Not found,3,1,{'ezyang': 1},"module:cuda, module:memoryusage, module:pruning, triaged"
+49394,brthor,2020-12-15 6:19,22,2020-12-16 14:10,Not found,1911.666667,Not found,7,5,"{'ezyang': 3, 'gchanan': 1, 'brthor': 10, 'rgommers': 1, 'mruberry': 7}","module:memoryusage, module:numpy, module:tensorcreation, quansight-nack, triaged"
+49431,zasdfgbnm,2020-12-15 22:09,4,2020-12-16 0:59,Not found,170.8,Not found,4,4,"{'ngimel': 1, 'zasdfgbnm': 1, 'ezyang': 1, 'swolchok': 1}","module:normsandnormalization, module:performance, triaged"
+4959,colinfang,2018-01-31 15:40,3,2018-01-31 19:11,Not found,211.5166667,Not found,5,3,"{'bheinzerling': 1, 'fmassa': 1, 'mboratko': 1}","module:dataloader, module:performance, triaged"
+49663,Jokeren,2020-12-21 2:37,2,2020-12-21 3:56,Not found,78.96666667,Not found,3,2,"{'kshitij12345': 1, 'Jokeren': 1}","module:embedding, module:performance, triaged"
+49724,jeisner,2020-12-22 5:24,25,2020-12-22 19:17,Not found,832.9666667,Not found,5,5,"{'ngimel': 3, 'jeisner': 8, 'ezyang': 8, 'vadimkantorov': 1, 'albanD': 5}","module:NaNsandInfs, module:autograd, module:bootcamp, module:numerical-stability, triaged"
+49758,mruberry,2020-12-22 22:13,6,2020-12-28 19:29,Not found,8475.366667,Not found,3,3,"{'gchanan': 3, 'mruberry': 2, 'ngimel': 1}","highpriority, module:cuda, module:performance, triaged"
+49865,yindavidyang,2020-12-26 8:05,3,2020-12-29 20:36,Not found,5070.95,Not found,3,3,"{'mruberry': 1, 'ngimel': 1, 'yindavidyang': 1}","module:build, module:linearalgebra, triaged"
+49877,exiarepairii,2020-12-27 14:11,5,2020-12-29 20:33,Not found,3261.983333,Not found,4,3,"{'mruberry': 3, 'Da-Capo': 1, 'liorgreenb': 1}","highpriority, module:cuda, module:memoryusage, triaged"
+49900,Krovatkin,2020-12-28 21:02,0,No comments,Not found,No comments,Not found,3,0,{},"module:performance, module:profiler, triaged"
+49911,rohan-varma,2020-12-29 1:02,5,2020-12-29 1:58,Not found,55.31666667,Not found,4,3,"{'mrshenli': 1, 'lw': 2, 'rohan-varma': 2}","module:rpc, oncall:distributed, triaged"
+50036,DianCh,2021-01-04 8:18,3,2021-01-04 20:09,Not found,711.0666667,Not found,5,3,"{'xwang233': 1, 'melgor': 1, 'ngimel': 1}","module:cuda, module:memoryformat, module:performance, triaged"
+50068,ngimel,2021-01-04 21:38,3,2021-01-05 0:44,Not found,186.4,Not found,3,2,"{'zasdfgbnm': 1, 'ngimel': 2}","module:linearalgebra, module:performance, module:tf32, triaged"
+50104,toshas,2021-01-05 18:29,7,2021-01-06 11:53,Not found,1043.55,Not found,6,4,"{'mruberry': 3, 'toshas': 2, 'Lezcano': 1, 'IvanYashchuk': 1}","module:cuda, module:linearalgebra, triaged"
+50153,zasdfgbnm,2021-01-06 19:20,7,2021-01-06 19:27,Not found,6.883333333,Not found,4,4,"{'malfet': 3, 'ptrblck': 1, 'zasdfgbnm': 2, 'kehuanfeng': 1}","module:build, module:cuda, module:cudnn, module:performance, triaged"
+50185,sharvil,2021-01-07 2:27,1,2021-01-07 17:59,Not found,932.1833333,Not found,4,1,{'dojoteef': 1},"module:cuda, module:memoryusage, triaged"
+50190,sharvil,2021-01-07 5:32,0,No comments,Not found,No comments,Not found,2,0,{},"module:convolution, module:cudnn, triaged"
+50201,almson,2021-01-07 14:22,2,2021-01-22 15:59,Not found,21697.51667,Not found,3,2,"{'mattivi': 1, 'almson': 1}","module:dataloader, module:memoryusage, triaged"
+50268,blueloveTH,2021-01-08 10:16,10,2021-01-08 10:48,Not found,32.01666667,Not found,5,4,"{'ptrblck': 1, 'blueloveTH': 6, 'ngimel': 1, 'peterjc123': 2}","module:cuda, module:memoryusage, triaged"
+50328,antsfamily,2021-01-10 2:26,8,2021-01-12 20:39,Not found,3973.2,Not found,7,6,"{'mahirkukreja': 2, 'ngimel': 1, 'antsfamily': 2, 'VvvvvGH': 1, 'wellhowtosay': 1, 'dimitree54': 1}","module:performance, triaged"
+50354,snailrowen1337,2021-01-10 18:58,13,2021-01-11 11:23,Not found,985.3666667,Not found,6,4,"{'goodclass': 1, 'ngimel': 2, 'snailrowen1337': 6, 'ptrblck': 4}","module:cuda, module:half, module:nn, module:performance, triaged"
+50549,tstandley,2021-01-14 20:24,3,2021-01-14 21:03,Not found,38.75,Not found,5,3,"{'melgor': 1, 'hukkai': 1, 'ngimel': 1}","module:memoryformat, module:performance, triaged"
+50613,albanD,2021-01-15 21:16,3,2021-01-15 21:28,Not found,12.7,Not found,3,3,"{'mruberry': 1, 'albanD': 1, 'zou3519': 1}","module:autograd, module:tests, triaged"
+50636,anirudh2290,2021-01-16 0:20,1,2021-01-18 1:50,Not found,2969.75,Not found,2,1,{'ngimel': 1},"module:__torch_function__, module:performance, triaged"
+50689,mattivi,2021-01-18 15:15,12,2021-01-18 23:54,Not found,518.4166667,Not found,7,7,"{'ngimel': 1, 'mattivi': 4, 'ejguan': 1, 'narain1': 1, 'SsnL': 2, 'almson': 2, 'EvanZ': 1}","module:dataloader, triaged"
+50705,eldarkurtic,2021-01-18 22:47,5,2021-01-19 0:07,Not found,80.83333333,Not found,2,2,"{'ngimel': 3, 'eldarkurtic': 2}","module:memoryusage, triaged"
+50820,netw0rkf10w,2021-01-20 17:28,4,2021-01-20 21:53,Not found,264.6666667,Not found,4,3,"{'osalpekar': 2, 'netw0rkf10w': 1, 'ruotianluo': 1}","oncall:distributed, triaged"
+50835,kLabille,2021-01-20 20:16,2,2021-01-22 19:30,Not found,2834.1,Not found,3,2,"{'kLabille': 1, 'SoHardToMakeAName': 1}","module:memoryusage, triaged"
+50852,penguinwu,2021-01-20 23:20,1,2021-01-20 23:33,Not found,13.81666667,Not found,8,1,{'bertmaher': 1},"module:performance, triaged"
+50853,bertmaher,2021-01-20 23:22,1,2021-03-05 17:50,Not found,63028.13333,Not found,3,1,{'ZolotukhinM': 1},"NNC, triaged"
+50879,gaelm,2021-01-21 14:28,3,2021-01-21 18:30,Not found,242.1,Not found,5,3,"{'zou3519': 1, 'xwang233': 1, 'gaelm': 1}","highpriority, module:cudnn, module:rnn, triaged"
+50940,mattivi,2021-01-22 11:28,7,2021-01-26 15:22,Not found,5994.616667,Not found,4,3,"{'ejguan': 1, 'SsnL': 3, 'mattivi': 3}","module:dataloader, triaged"
+51011,rafi-cohen,2021-01-24 13:40,2,2021-01-26 8:03,Not found,2542.116667,Not found,3,2,"{'rafi-cohen': 1, 'ejguan': 1}","module:dataloader, module:multiprocessing, module:performance, triaged"
+51044,nrxszvo,2021-01-25 17:35,2,2021-01-25 21:27,Not found,232.3,Not found,3,2,"{'ptrblck': 1, 'nrxszvo': 1}","module:cudnn, module:performance, triaged"
+51054,ezyang,2021-01-25 21:06,2,2021-01-25 21:24,Not found,17.93333333,Not found,2,2,"{'bdhirsh': 1, 'ezyang': 1}","module:internals, module:performance, module:structuredkernels, triaged"
+51384,wconstab,2021-01-29 22:47,5,2021-02-25 17:03,Not found,38535.2,Not found,4,3,"{'xuzhao9': 3, 'VitalyFedyunin': 1, 'wconstab': 1}","module:cuda, module:performance, triaged"
+51393,jamesr66a,2021-01-30 1:04,2,2021-01-30 2:05,Not found,61.13333333,Not found,3,2,"{'ngimel': 1, 'VitalyFedyunin': 1}","module:performance, module:pooling, triaged"
+51418,mobassir94,2021-01-30 19:44,0,No comments,Not found,No comments,Not found,2,0,{},"module:dataloader, triaged"
+51445,hisaknown,2021-02-01 6:55,1,2021-02-02 1:50,Not found,1134.916667,Not found,2,1,{'hisaknown': 1},oncall:visualization
+51450,mberr,2021-02-01 10:58,1,2021-02-02 17:05,Not found,1807.566667,Not found,3,1,{'mruberry': 1},"module:cpu, module:performance, module:sortingandselection, triaged"
+51493,kurtamohler,2021-02-01 20:55,0,No comments,Not found,No comments,Not found,3,0,{},"module:determinism, module:performance, triaged"
+51509,touqir14,2021-02-02 0:26,4,2021-03-06 20:43,Not found,47296.96667,Not found,4,2,"{'zetyquickly': 2, 'touqir14': 2}","module:TensorIterator, module:performance, triaged"
+51539,johannespitz,2021-02-02 6:51,2,2021-02-02 7:00,Not found,8.75,Not found,2,1,{'johannespitz': 2},"module:optimizer, triaged"
+51552,xwang233,2021-02-02 10:13,4,2021-02-02 18:25,Not found,491.85,Not found,6,4,"{'mruberry': 1, 'malfet': 1, 'IvanYashchuk': 1, 'ezyang': 1}","module:autograd, module:complex, module:cuda, module:linearalgebra, module:magma, module:performance, module:tests, triaged"
+5159,rachtsingh,2018-02-09 17:03,5,2018-02-10 5:33,2018-02-10 20:40,749.7,1656.816667,6,5,"{'fmassa': 1, 'rachtsingh': 1, 'justinchiu': 1, 'apaszke': 1, 'colesbury': 1}","module:autograd, module:performance, triaged"
+5161,ezyang,2018-02-09 17:53,3,2018-02-09 23:48,Not found,355.4,Not found,4,3,"{'goldsborough': 1, 'apaszke': 1, 'ezyang': 1}","module:memoryusage, triaged"
+51781,digiamm,2021-02-05 13:08,0,No comments,Not found,No comments,Not found,2,0,{},"module:abi, triaged"
+51872,mberr,2021-02-08 14:17,2,2021-02-08 17:34,Not found,196.7833333,Not found,4,2,"{'ngimel': 1, 'ptrblck': 1}","module:cuda, module:dependencybug, module:memoryusage, triaged"
+51933,ilovepytorch,2021-02-09 2:49,1,2021-02-09 3:00,Not found,10.41666667,Not found,3,1,{'xwang233': 1},"module:performance, triaged"
+52011,jamesr66a,2021-02-10 0:31,1,2021-02-13 17:00,Not found,5309.216667,Not found,4,1,{'bertmaher': 1},"module:nn, module:normsandnormalization, module:performance, triaged"
+52111,o-alexandre-felipe,2021-02-10 23:23,1,2021-02-13 3:58,Not found,3155.15,Not found,3,1,{'ngimel': 1},"module:cuda, module:memoryusage, triaged"
+52134,mattip,2021-02-11 10:59,3,2021-02-11 15:40,Not found,280.85,Not found,5,3,"{'ezyang': 1, 'robieta': 1, 'mattip': 1}","module:binaries, module:performance, releng, triaged"
+52169,franksun007,2021-02-11 22:49,1,2021-02-16 19:14,Not found,6984.683333,Not found,3,1,{'eellison': 1},oncall:jit
+52253,aocsa,2021-02-13 17:02,1,2021-02-24 4:17,Not found,15074.78333,Not found,4,1,{'mruberry': 1},"module:memoryusage, module:sparse, triaged"
+52465,navahgar,2021-02-18 21:44,2,2021-03-15 16:07,Not found,35662.6,Not found,5,2,"{'Krovatkin': 1, 'navahgar': 1}","NNC, module:performance, triaged"
+52570,afpapqy,2021-02-21 14:22,7,2021-02-22 13:27,Not found,1384.483333,Not found,4,3,"{'peterjc123': 3, 'afpapqy': 3, 'ngimel': 1}","module:cuda, module:performance, triaged"
+52578,hiroto-murakami-code,2021-02-22 1:40,3,2021-02-22 23:02,Not found,1281.95,Not found,4,3,"{'ngimel': 1, 'ptrblck': 1, 'hiroto-murakami-code': 1}","module:performance, triaged"
+52718,agnz,2021-02-24 2:26,0,No comments,Not found,No comments,Not found,2,0,{},"module:cuda, module:performance, triaged"
+52900,raisinglc,2021-02-26 3:54,1,2021-03-01 16:28,Not found,5073.966667,Not found,4,1,{'glaringlee': 1},"module:cpp, module:performance, oncall:jit, triaged"
+53036,Darshcg,2021-03-01 19:43,0,No comments,Not found,No comments,Not found,2,0,{},"module:onnx, triaged"
+53070,densechen,2021-03-02 0:26,4,2021-03-02 5:07,Not found,280.7,Not found,4,3,"{'pritamdamania87': 1, 'densechen': 2, 'ngimel': 1}","module:optimizer, module:performance, oncall:distributed"
+53094,WZMIAOMIAO,2021-03-02 7:21,6,2021-03-02 9:10,Not found,109.4666667,Not found,3,2,"{'xwang233': 3, 'WZMIAOMIAO': 3}","module:amp(automatedmixedprecision), module:cuda, module:performance, triaged"
+53194,NicolasHug,2021-03-03 18:03,0,No comments,Not found,No comments,Not found,2,0,{},"module:performance, module:sortingandselection, triaged"
+53438,pritamdamania87,2021-03-06 2:49,0,No comments,Not found,No comments,Not found,1,0,{},"oncall:distributed, triaged"
+53472,yumanets,2021-03-07 10:14,0,No comments,Not found,No comments,Not found,3,0,{},"oncall:jit, oncall:mobile"
+53491,guolinke,2021-03-08 4:00,0,No comments,Not found,No comments,Not found,2,0,{},"module:performance, triaged"
+5353,LUKELIEM,2018-02-22 18:35,1,2020-04-20 21:26,Not found,1134890.767,Not found,6,1,{'aleSuglia': 1},"module:crash, module:cuda, module:loss, module:memoryusage, todo, triaged"
+53710,charliebudd,2021-03-10 14:15,0,No comments,Not found,No comments,Not found,2,0,{},"module:build, triaged"
+53721,Werner2005,2021-03-10 18:00,1,2021-03-10 20:45,Not found,165.45,Not found,3,1,{'dany-nonstop': 1},"module:cuda, triaged"
+53824,kuynzereb,2021-03-11 16:41,1,2021-03-12 5:50,Not found,788.8666667,Not found,3,1,{'gmagogsfm': 1},oncall:jit
+5388,colesbury,2018-02-23 21:28,3,2018-08-16 0:44,Not found,249315.9,Not found,5,3,"{'weiyangfb': 1, 'colesbury': 1, 'gchanan': 1}","inprogress, module:performance, triaged"
+53943,zhongqingyang,2021-03-13 1:17,10,2021-03-13 4:46,Not found,208.5333333,Not found,5,5,"{'ngimel': 1, 'zhongqingyang': 4, 'malfet': 1, 'mszhanyi': 2, 'skyline75489': 2}","module:cpu, module:performance, module:windows, triaged"
+5434,ponomarevsy,2018-02-27 15:16,13,2018-02-27 15:23,Not found,7.4,Not found,11,11,"{'apaszke': 1, 'zou3519': 2, 'ponomarevsy': 1, 'colesbury': 1, 'yeladlouni': 1, 'lisiyaoATbnu': 1, 'linchart': 1, 'ronalddas': 1, 'GraphGrailAi': 1, 'Dzungarian': 1, 'nusherjk': 2}","module:memoryusage, triaged"
+5528,ezyang,2018-03-02 17:08,0,No comments,Not found,No comments,Not found,2,0,{},"module:memoryusage, module:tests, triaged"
+5912,adaitche,2018-03-20 20:22,9,2018-03-30 1:40,Not found,13277.96667,Not found,9,7,"{'li-roy': 1, 'jekbradbury': 2, 'apaszke': 2, 'zou3519': 1, 'mertensu': 1, 'iyah4888': 1, 's-rog': 1}","mediumpriority(thistagisdeprecated), module:nn, module:performance, triaged"
+6273,ateymour,2018-04-04 15:30,10,2018-04-04 16:21,Not found,50.93333333,Not found,4,3,"{'cpuhrsch': 4, 'ateymour': 5, 'china-cat': 1}",caffe2
+6437,Swetko,2018-04-09 20:53,0,No comments,Not found,No comments,Not found,2,0,{},caffe2
+6613,qzhong0605,2018-04-15 13:53,1,2020-02-20 14:42,Not found,973489.5167,Not found,3,1,{'vadimkantorov': 1},caffe2
+7343,SsnL,2018-05-07 17:57,4,2018-05-07 19:08,Not found,71.48333333,Not found,5,4,"{'apaszke': 1, 'colesbury': 1, 'ezyang': 1, 'albanD': 1}","module:autograd, module:memoryusage, triaged"
+7686,danieleds,2018-05-18 19:15,18,2018-05-21 17:35,Not found,4219.366667,Not found,11,9,"{'zou3519': 1, 'cpuhrsch': 5, 'danieleds': 4, 'Pawel-Marcin-Chojnacki': 1, 'wangxiaoying': 1, 'benkent100': 2, 'nikotsingos': 1, 'lunixbochs': 2, 'bangbangjim': 1}","module:multithreading, module:osx, triaged"
+7740,Naman-ntc,2018-05-21 18:58,0,No comments,Not found,No comments,Not found,2,0,{},"module:convolution, module:performance, triaged"
+7801,gpleiss,2018-05-23 22:50,10,2018-05-24 3:47,Not found,296.3833333,Not found,10,10,"{'SsnL': 1, 'prigoyal': 1, 'gpleiss': 1, 'ivankreso': 1, 'ZhengRui': 1, 'hendrycks': 1, 'dbbert': 1, 'ferrine': 1, 'yf225': 1, 'codertimo': 1}","module:checkpoint, module:performance, triaged"
+7806,xxtemp,2018-05-24 8:29,6,2018-05-29 19:34,Not found,7865.5,Not found,7,5,"{'zou3519': 1, 'xxtemp': 2, 'zzd1992': 1, 'negargoli': 1, 'adler-j': 1}","hasworkaround, module:convolution, module:cudnn, module:memoryusage, module:performance, triaged"
+8044,SsnL,2018-06-01 20:07,4,2018-06-04 15:43,Not found,4055.533333,Not found,4,3,"{'SsnL': 2, 'yf225': 1, 'ezyang': 1}","module:flaky-tests, module:memoryusage, triaged"
+8126,RobertCsordas,2018-06-04 19:27,7,2018-06-06 7:51,Not found,2184.683333,Not found,7,5,"{'nlgranger': 1, 'RobertCsordas': 3, 'bhushan23': 1, 'BenediktKersjes': 1, 'Kylin9511': 1}","module:multiprocessing, todo, triaged"
+8602,ezyang,2018-06-18 14:38,1,2020-12-21 20:02,Not found,1320803.85,Not found,2,1,{'ngimel': 1},"module:internals, module:performance, triaged"
+8979,LeonJWH,2018-06-28 7:45,0,No comments,Not found,No comments,Not found,2,0,{},caffe2
+9083,SsnL,2018-07-01 19:42,3,2018-10-05 13:58,Not found,137895.3833,Not found,5,3,"{'vishwakftw': 1, 'dvirginz': 1, 'mruberry': 1}","module:cuda, module:linearalgebra, module:performance, triaged"
+9461,peterjc123,2018-07-16 1:13,17,2018-07-16 5:15,Not found,241.0833333,Not found,8,6,"{'SsnL': 2, 'peterjc123': 8, 'vadimkantorov': 1, 'zhanghaoyue': 1, 'igormq': 1, 'jiseongg': 4}","module:windows, triaged"
+9701,SsnL,2018-07-23 4:20,5,2019-08-24 0:58,Not found,571477.4667,Not found,5,3,"{'srush': 3, 'colesbury': 1, 'jwelch1324': 1}","module:autograd, module:performance, todo, triaged"
+9873,nico-zck,2018-07-26 10:52,19,2018-07-27 3:53,Not found,1021.233333,Not found,8,7,"{'soumith': 4, 'nico-zck': 1, 'simonm3': 8, 'ezyang': 1, 'berkinmalkoc': 2, 'Pawel-Marcin-Chojnacki': 2, 'tsungruihon': 1}","module:cpu, module:multithreading, module:performance, triaged"
