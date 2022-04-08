@@ -1,6 +1,6 @@
 # performance-bugs-in-dl-frameworks
 
-perf_bugs_categorization.csv: our taxonomy of the root causes of the performance bugs.
+perf_bugs_taxonomy.csv: our taxonomy of the root causes of the performance bugs.
 
 pytorch_fixed_perf_trend_analysis.csv: number of fixed performance bugs among all fixed bugs in PyTorch (from December 2016 to April 2021).
 
